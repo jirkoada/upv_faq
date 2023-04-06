@@ -1,6 +1,6 @@
-# UVP FAQ Semantic Similarity Test
+# UVP FAQ Semantic Text Similarity Test
 
-Only supports fastText embedding models in .bin formats
+Only supports fastText embeddings in .bin format
 
 ## Usage:
 
@@ -8,12 +8,12 @@ Only supports fastText embedding models in .bin formats
   
 ### Arguments:
 
-model_path: Path to the model to be evaluated
+- model_path: Path to the model to be evaluated
 
---verb: If used, incorrectly matched pairs will be printed in the following format:
+- verb: If used, incorrectly matched pairs will be printed in the following format:
 
 > Querry question : Incorrectly matched question (answer)
 
---cm: Show confusion matrices during evaluation
+- cm: Show confusion matrices during evaluation
 
---save: Save evaluations results, including optional confusion matrices into an adequatly named subfolder next to the evaluated model
+- save: Save evaluations results, including optional confusion matrices into an adequatly named subfolder next to the evaluated model
