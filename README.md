@@ -16,4 +16,4 @@ Only supports fastText embeddings in .bin format
 
 - **cm**: Show confusion matrices during evaluation
 
-- **save**: Save evaluation results, including optional confusion matrices, into an adequately named subfolder next to the evaluated model
+- **save**: Save evaluation results, including optional confusion matrices, into an appropriately named folder next to the evaluated model
