@@ -10,7 +10,7 @@ Only supports fastText embeddings in .bin format
 
 - **model_path**: Path to the model to be evaluated
 
-- **verb**: If used, incorrectly matched pairs will be printed in the following format:
+- **verb**: Print incorrectly matched pairs in the following format:
 
     > Querry question : Incorrectly matched question (answer)
 
