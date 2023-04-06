@@ -1,4 +1,4 @@
-# UVP FAQ Semantic Text Similarity Test
+# UPV FAQ Semantic Text Similarity Test
 
 Only supports fastText embeddings in .bin format
 
