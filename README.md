@@ -2,7 +2,7 @@
 
 Only supports fastText embeddings in .bin format
 
-## Dependecies:
+## Dependencies:
 
 - [fasttext](https://fasttext.cc/docs/en/python-module.html)
 - [numpy](https://numpy.org/install/)
