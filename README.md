@@ -2,6 +2,13 @@
 
 Only supports fastText embeddings in .bin format
 
+## Dependecies:
+
+- [fasttext](https://fasttext.cc/docs/en/python-module.html)
+- [numpy](https://numpy.org/install/)
+- [scikit-learn](https://scikit-learn.org/stable/install.html)
+- [seaborn](https://seaborn.pydata.org/installing.html)
+
 ## Usage:
 
     python3 upv_tests.py [--verb] [--cm] [--save] model_path
