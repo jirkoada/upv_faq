@@ -75,7 +75,7 @@ class FAQ:
             sn.heatmap(cm, annot=True)
             plt.title("Question matching confusion matrix")
             plt.draw()
-            plt.pause(5)
+            plt.pause(0.1)
             return acc, fig
         return acc, None
 
@@ -100,6 +100,6 @@ class FAQ:
             sn.heatmap(cm, annot=True)
             plt.title("Answer matching confusion matrix")
             plt.draw()
-            plt.pause(5)
+            plt.pause(0.1)
             return acc, fig
         return acc, None

@@ -2,7 +2,7 @@ import fasttext
 import os
 import argparse
 from faq import FAQ
-import upv_data as upv
+import upv_data_v2 as upv
 
 
 parser = argparse.ArgumentParser()
