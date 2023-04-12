@@ -17,13 +17,7 @@ class FAQ:
             self.ans_db = np.array([self.sentence_embedding(a) for a in answers])
     
     def sentence_embedding(self, sentence):
-        #return self.model.get_sentence_vector(sentence.replace('\n', ' '))  # Doesn't work well
-        word_list = sentence.lower().split()
-        #word_list = sentence.split()
-        for idx, word in enumerate(word_list):
-            word_list[idx] = word.strip(".,!?:")
-        assert(len(word_list) > 0)
-        embedding = np.array([self.model.get_word_vector(x) for x in word_list]).mean(0)
+        embedding = self.model.get_sentence_vector(sentence.lower().replace('\n', ' '))
         return embedding/np.linalg.norm(embedding)
     
     def identify(self, question):
@@ -74,6 +68,8 @@ class FAQ:
             fig = plt.figure(figsize = (10,7))
             sn.heatmap(cm, annot=True)
             plt.title("Question matching confusion matrix")
+            plt.xlabel("Prediction")
+            plt.ylabel("True class")
             plt.draw()
             plt.pause(0.1)
             return acc, fig
@@ -99,6 +95,8 @@ class FAQ:
             fig = plt.figure(figsize = (10,7))
             sn.heatmap(cm, annot=True)
             plt.title("Answer matching confusion matrix")
+            plt.xlabel("Prediction")
+            plt.ylabel("True class")
             plt.draw()
             plt.pause(0.1)
             return acc, fig
