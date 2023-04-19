@@ -204,7 +204,7 @@ bench = {
 
         'Kdo může podat námitky?' , 'Kdo má právo vznést námitky?' , 'Kdo je oprávněn předložit odpor?' , 'Kdo má oprávnění podat námitky?' , 'Kdo je oprávněn podat námitky?' , 'Kdo všechno může námitky podat?' ,
 
-        'Lze podané námitky později doplnit novými důkazy nebo rozšířit jejich odůvodnění?' , 'Je možné později doplnit předložené námitky dokumentací nebo je rozšířit o vysvětlení?' , 'Je možné navíc k předloženým námitkám k dokumentaci přidat ještě další informace nebo doplnit je o vysvětlení?' , 'Je možné doplnit nebo rozšířit důkazy k již podaným námitkám?' , 'Je možné doplnit nebo rozšířit důkazy k již podaným námitkám?' , 'Když už jsem námitky podal, můžu je ještě nějak rozšířit o nové důkazy nebo další vysvětlení?' , 'Můžu dodatečně rozšířit námitky o nové důkazy nebo vysvětlení?' ,
+        'Lze podané námitky později doplnit novými důkazy nebo rozšířit jejich odůvodnění?' , 'Je možné později doplnit předložené námitky dokumentací nebo je rozšířit o vysvětlení?' , 'Je možné navíc k předloženým námitkám k dokumentaci přidat ještě další informace nebo doplnit je o vysvětlení?' , 'Je možné doplnit nebo rozšířit důkazy k již podaným námitkám?' , 'Když už jsem námitky podal, můžu je ještě nějak rozšířit o nové důkazy nebo další vysvětlení?' , 'Můžu dodatečně rozšířit námitky o nové důkazy nebo vysvětlení?' ,
 
         'Obdrželi jsme námitky k vyjádření. Co máme dělat?' , 'Dostali jsme odpovědi, které se týkají našeho vyjádření. Jak máme postupovat?' , 'Získali jsme odpovědi, které se vztahují k našemu prohlášení. Jak máme pokračovat?' , 'Co dělat, když jsme obdrželi námitky k vyjádření?' , 'Jak postupovat, pokud nám byly doručeny námitky k vyjádření?' , ' Byly nám doručeny námitky a potřebujeme na ně reagovat. Co bychom měli udělat?' , 'Dostali jsme námitky, co s nimi?' ,
 
@@ -216,13 +216,13 @@ bench = {
 
         'Jaká je lhůta k podání připomínek?' , 'Jaký je časový limit k podání připomínek?' , 'Kdy je poslední možnost zaslat své připomínky?' , 'Jak dlouho je možné podávat připomínky?' , 'Jak dlouho mám čas podávat připomínky?' , 
 
-        'Jaký je správní poplatek za podání námitek a jaký za podání připomínek?' , 'Jaká je výše správní úhrady, kterou je třeba zaplatit za podání námitek a jaká za podání připomínkek?' , 'Jaká je správní taxa za podání námitek, zároveň i za podání připomínek?' , 'Kolik se platí za podání námitek a připomínek v rámci správního řízení?' , 'Kolik se platí za podání námitek a připomínek v rámci správního řízení?' , 'Za podání námitek a připomínek v rámci správního řízení se platí poplatek, kolik' , '. Mohl bych vědět, kolik je za poplatek potřeba zaplatit?' , 'Kolik se platí za náměty a připomínky v řízení?' ,
+        'Jaký je správní poplatek za podání námitek a jaký za podání připomínek?' , 'Jaká je výše správní úhrady, kterou je třeba zaplatit za podání námitek a jaká za podání připomínkek?' , 'Jaká je správní taxa za podání námitek, zároveň i za podání připomínek?' , 'Kolik se platí za podání námitek a připomínek v rámci správního řízení?' , 'Za podání námitek a připomínek v rámci správního řízení se platí poplatek, kolik' , '. Mohl bych vědět, kolik je za poplatek potřeba zaplatit?' , 'Kolik se platí za náměty a připomínky v řízení?' ,
 
         'Jak podat námitky nebo připomínky? Existuje formulář?' , 'Jakým způsobem můžeme podat námitky nebo připomínky?Kde nalezneme požadovaný formulář?' , 'Jaké jsou možnosti  podání námitek nebo připomínek?' , 'Kde nelazneme vhodný tiskopis?' , 'Existuje nějaký formulář nebo konkrétní postup, jak podat námitky nebo připomínky?' , 'Jak se dají podat námitky nebo připomínky?' , 'Je na to nějaký formulář, nebo jak to funguje?' , 'Jak podat námitky nebo připomínky?' , 'Jaky formulář k tomu slouží?' ,
 
         'Pokud už byla ochranná známka zaregistrována, mohu se nějak domoci jejího výmazu?' , 'Když byla ochranná známka zapsána, jak mohu její registraci zrušit?' , 'Jakmile proběhlo zaregistrování ochranné známky, jak vypadá způsob jejího smazání?' , 'Existuje možnost požádat o výmaz již registrované ochranné známky, pokud jsou splněny určité podmínky.' , 'Je možné odstranit již registrovanou ochrannou známku?' , 'Když jsou splněny určité podmínky, můžu požádat o výmaz již registrované ochranné známky?' ,
 
-        'Jaký je rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou?Jak se od sebe líší způsob zrušení ochranné známky a prohlášením ochranné známky za neplatnou?' , 'Jak se liší procesy ukončení platnosti ochranné známky a prohlášení ochranné známky za neplatnou?' , 'Můžete mi říct rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou?' , 'Jaký je rozdíl mezi zrušením a neplatností ochranné známky?' , 'Jak lze ověřit soulad podnikání s ochrannou známkou a co hrozí za její porušení?' ,
+        'Jaký je rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou?Jak se od sebe líší způsob zrušení ochranné známky a prohlášením ochranné známky za neplatnou?' , 'Jak se liší procesy ukončení platnosti ochranné známky a prohlášení ochranné známky za neplatnou?' , 'Můžete mi říct rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou?' , 'Jaký je rozdíl mezi zrušením a neplatností ochranné známky?' ,
 
         'Co se rozumí pod pojmem „řádné užívání ochranné známky“?' , ' Jaký je význam fráze „řádné užívání ochranné známky“?' , 'Co to znamená, když se mluví o „řádném užívání ochranné známky“?' , 'Jak lze ověřit soulad podnikání s ochrannou známkou a co hrozí za její porušení?' , 'Jaký je význam termínu "řádné užívání" v souvislosti s ochrannou známkou?' , 'Co znamená "řádné užívání" ochranné známky?' ,
 
@@ -232,13 +232,13 @@ bench = {
 
         'Je možné na Internetu zjistit, zda je určité označení chráněné jako ochranná známka?' , 'Lze se dozvědět, zda je nějaké označení chráněno jako ochranná známka na Internetu?' , 'Je možné zjistit, jestli existuje nějaká identifikace, která je chráněna jako ochraná známka na webu?' , 'Existuje způsob, jak zjistit, zda je určité označení registrováno jako ochranná známka na internetu?' , 'Dá se na netu zjistit, jestli je nějaký název chráněný jako ochranná známka?' ,
 
-        'Co obsahuje národní známková databáze a jak často je aktualizována?' , 'Jaké informace obsahuje národní známková databáze a jak často je obnovovuje?' , 'Co se dá vyčíst z národní databáze známek a jak často se aktualizuje?' , 'Co se nachází v databázi národních ochranných známek a jak často je aktualizována?' , 'Co je v databázi ochranných známek a jak často se aktualizuje?' , 'Co je v databázi ochranných známek a jak často se aktualizuje?' ,
+        'Co obsahuje národní známková databáze a jak často je aktualizována?' , 'Jaké informace obsahuje národní známková databáze a jak často je obnovovuje?' , 'Co se dá vyčíst z národní databáze známek a jak často se aktualizuje?' , 'Co se nachází v databázi národních ochranných známek a jak často je aktualizována?' , 'Co je v databázi ochranných známek a jak často se aktualizuje?' ,
 
         'Jak lze získat informace o aktuálním právním stavu patentů, ochranných známek, průmyslových vzorů, užitných vzorů a označení původu/zeměpisných označení?' , 'Jak se dostat k informacím o současném právním postavení patentů, ochranných známek, průmyslových vzorů, užitných vzorů a označení původu/zeměpisných označení?' , 'Kde mám hledat informace o aktuálním stavu patentů, ochranných známek, průmyslových vzorů, užitných vzorů a označení původu/zemepisných označení?' , 'Jak získat informace o aktuálním stavu patentů, ochranných známek, průmyslových a užitných vzorů a zeměpisných označení?' , 'Jak zjistit, jestli má někdo patent, ochrannou známku, průmyslový vzor nebo zeměpisné označení?' ,
 
         'Jak lze provést rešerši v databázi ochranných známek na našem webu?' , 'Provedení vyhledávání dat v databázi ochranných známek na našich webových stránkách?' , 'Jakým způsobem se dostanu k postupu "realizace rešerše v databázi ochranných známek na našem webu?' , 'Jak vyhledám postup realizace rešerše v databázi ochranných známek na našich webových stránkách?' , 'Jaký postup je potřeba k vyhledání databáze ochranných známek na našem webu?' , 'Jak najít databázi ochranných známek na našem webu?' ,
 
-        'Jaký má pro firmu přínos provedení průmyslověprávní rešerše?' , 'Jaká je pro společnost výhoda zrealizování průmyslového právního výzkumu?' , 'Co získá firma provedením průmyslověprávní rešerší?' , 'Jak může firma profitovat z provedení průmyslově právní rešerše?' , 'Jak může firma profitovat z provedení průmyslově právní rešerše?' , 'Kde získám informace o patentech a ochranných známkách v průmyslovém právu?' ,
+        'Jaký má pro firmu přínos provedení průmyslověprávní rešerše?' , 'Jaká je pro společnost výhoda zrealizování průmyslového právního výzkumu?' , 'Co získá firma provedením průmyslověprávní rešerší?' , 'Jak může firma profitovat z provedení průmyslově právní rešerše?' , 'Kde získám informace o patentech a ochranných známkách v průmyslovém právu?' ,
 
         'Obnova ochranné známky.' , ' Znovuvytvoření ochranné známky.' , ' Znovuzřízení ochranné známky.' , 'Prodloužení platnosti ochranné známky.' , 'Jak znovu prodloužit platnost ochranné známky?' ,
 
@@ -250,13 +250,13 @@ bench = {
 
         'Jak se provádí oceňování průmyslových práv?' , 'Jaké jsou postupy při ocenění průmyslových práv?' , 'Jak se vlastně ocení průmyslová práva?' , 'Jak si nechat nacenit patent?' , 'Jak si nechat spočítat cenu ochranné známky?' ,
 
-        'Jak Úřad podává informaci o zahájení řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , 'Jak se Úřad oficiálně rozhoduje ohledně toho, aby byl zapsán převod ochranné známky, patentu, průmyslového či užitného vzoru?' , 'Jak Úřad sděluje informaci o započatém řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , 'Jak Úřad podává informaci o zahájení řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , ' Kdy ÚPV dá vědět, že začne zahájení řízení o zápisu a převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' ,
+        'Jak se Úřad oficiálně rozhoduje ohledně toho, aby byl zapsán převod ochranné známky, patentu, průmyslového či užitného vzoru?' , 'Jak Úřad sděluje informaci o započatém řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , 'Jak Úřad podává informaci o zahájení řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , ' Kdy ÚPV dá vědět, že začne zahájení řízení o zápisu a převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' ,
 
         '"Jakou formu mají mít doklady přikládané k žádostem o zápis převodu, licence a zástavy?' , 'Jak by měl vypadat vzhled dokladů přiložených k žádostem o zápisu převodu, licence a zástavy?' , 'Které dokumenty musí být přiloženy k žádostem o vložení převodu, licence a zástavy do veřejného seznamu?' , 'Jak by měly vypadat doklady přikládané k žádostem o zápis převodu, licence a zástavy?' , 'Jak mají vypadat doklady, co se přikládají k žádostem o zápis převodu, licence nebo zástavy?' , 'Co by mělo být napsané v dokladech, které se přikládají k žádostem o zápisu převodu, licence nebo zástavy?"' ,
 
         'Co je to prezidiální plná moc, jakým způsobem je evidována u Úřadu, jaké jsou její náležitosti?' , 'Jaký má význam prezidiální plná moc a jak je u Úřadu zaznamenána?' , 'Jaké jsou její specifické rysy?' , 'Jak vypadá prezidiální plná moc, jak se zpracovává u Úřadu, jaká jsou její kritéria?' , 'Co je prezidentská plná moc, jak je zapsána v Úřadu a co musí obsahovat?' , 'Co je prezidentská plná moc, zápis v Úřadu a požadovaný obsah?' ,
 
-        'Za jakých podmínek lze nahlížet do správního spisu?' , 'Existují nějaké požadavky, které je třeba splnit, aby bylo možné získat přístup do správního spisu?' , 'Jaké jsou podmínky k náhlednutí do správního spisu?' , 'Jaká opatření musíme splnit, abychom mohli nahlídnout do správního spisu?' , 'Za jakých podmínek lze nahlížet do správního spisu?' , 'Za jakých podmínek se můžu podívat do správního spisu?' ,
+        'Existují nějaké požadavky, které je třeba splnit, aby bylo možné získat přístup do správního spisu?' , 'Jaké jsou podmínky k náhlednutí do správního spisu?' , 'Jaká opatření musíme splnit, abychom mohli nahlídnout do správního spisu?' , 'Za jakých podmínek lze nahlížet do správního spisu?' , 'Za jakých podmínek se můžu podívat do správního spisu?' ,
 
         'Jak postupovat při placení udržovacích poplatků u patentů, resp. požádat o obnovu, prodloužení platnosti u ochranných známek, užitných vzorů a průmyslových vzorů?' , 'Jaký způsob zvoliti při uhrazení udržovacích poplatků u patentů, resp. požádat o obnovu, prodloužení platnosti u ochranných známek, užitných vzorů a průmyslových vzorů?' , 'Jakou metodu využít při placení udržovacích poplatků u patentů, resp. požádat o obnovu, prodloužení platnosti u ochranných známek, užitných vzorů a průmyslových vzorů.' , 'Jak platit udržovací poplatky u patentů a požádat o prodloužení platnosti u ochranných známek, průmyslových a užitných vzorů?' , 'Jak platit poplatky a prodloužit platnost patentů, ochranných známek a vzorů?' ,
 
@@ -275,33 +275,33 @@ bench = {
             5, 5, 5, 5, 5, 
             6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 
             7, 7, 7, 7, 7, 7, 
-            8, 8, 8, 8, 8, 8, 8, 
+            8, 8, 8, 8, 8, 8, 
             9, 9, 9, 9, 9, 9, 9, 
             10, 10, 10, 10, 10, 10, 10, 
             11, 11, 11, 11, 11, 11, 11, 
             12, 12, 12, 12, 
             13, 13, 13, 13, 13, 
-            14, 14, 14, 14, 14, 14, 14, 14, 
+            14, 14, 14, 14, 14, 14, 14, 
             15, 15, 15, 15, 15, 15, 15, 15, 15, 
             16, 16, 16, 16, 16, 16, 
-            17, 17, 17, 17, 17, 
+            17, 17, 17, 17, 
             18, 18, 18, 18, 18, 18, 
             19, 19, 19, 19, 19, 19, 19, 
             20, 20, 20, 20, 20, 
             21, 21, 21, 21, 21, 
-            22, 22, 22, 22, 22, 22, 
+            22, 22, 22, 22, 22, 
             23, 23, 23, 23, 23, 
             24, 24, 24, 24, 24, 24, 
-            25, 25, 25, 25, 25, 25, 
+            25, 25, 25, 25, 25, 
             26, 26, 26, 26, 26, 
             27, 27, 27, 27, 27, 
             28, 28, 28, 28, 28, 28, 
             29, 29, 29, 29, 29, 29, 
             30, 30, 30, 30, 30, 
-            31, 31, 31, 31, 31, 
+            31, 31, 31, 31, 
             32, 32, 32, 32, 32, 32, 
             33, 33, 33, 33, 33, 33, 
-            34, 34, 34, 34, 34, 34, 
+            34, 34, 34, 34, 34, 
             35, 35, 35, 35, 35, 
             36, 36, 36, 36, 
             37, 37, 37, 37, 37, 
@@ -328,7 +328,7 @@ if __name__ == "__main__":
 
         'Kdo může podat námitky?' , 'Kdo má právo vznést námitky?' , 'Kdo je oprávněn předložit odpor?' , 'Kdo má oprávnění podat námitky?' , 'Kdo je oprávněn podat námitky?' , 'Kdo všechno může námitky podat?' ,
 
-        'Lze podané námitky později doplnit novými důkazy nebo rozšířit jejich odůvodnění?' , 'Je možné později doplnit předložené námitky dokumentací nebo je rozšířit o vysvětlení?' , 'Je možné navíc k předloženým námitkám k dokumentaci přidat ještě další informace nebo doplnit je o vysvětlení?' , 'Je možné doplnit nebo rozšířit důkazy k již podaným námitkám?' , 'Je možné doplnit nebo rozšířit důkazy k již podaným námitkám?' , 'Když už jsem námitky podal, můžu je ještě nějak rozšířit o nové důkazy nebo další vysvětlení?' , 'Můžu dodatečně rozšířit námitky o nové důkazy nebo vysvětlení?' ,
+        'Lze podané námitky později doplnit novými důkazy nebo rozšířit jejich odůvodnění?' , 'Je možné později doplnit předložené námitky dokumentací nebo je rozšířit o vysvětlení?' , 'Je možné navíc k předloženým námitkám k dokumentaci přidat ještě další informace nebo doplnit je o vysvětlení?' , 'Je možné doplnit nebo rozšířit důkazy k již podaným námitkám?' , 'Když už jsem námitky podal, můžu je ještě nějak rozšířit o nové důkazy nebo další vysvětlení?' , 'Můžu dodatečně rozšířit námitky o nové důkazy nebo vysvětlení?' ,
 
         'Obdrželi jsme námitky k vyjádření. Co máme dělat?' , 'Dostali jsme odpovědi, které se týkají našeho vyjádření. Jak máme postupovat?' , 'Získali jsme odpovědi, které se vztahují k našemu prohlášení. Jak máme pokračovat?' , 'Co dělat, když jsme obdrželi námitky k vyjádření?' , 'Jak postupovat, pokud nám byly doručeny námitky k vyjádření?' , ' Byly nám doručeny námitky a potřebujeme na ně reagovat. Co bychom měli udělat?' , 'Dostali jsme námitky, co s nimi?' ,
 
@@ -340,13 +340,13 @@ if __name__ == "__main__":
 
         'Jaká je lhůta k podání připomínek?' , 'Jaký je časový limit k podání připomínek?' , 'Kdy je poslední možnost zaslat své připomínky?' , 'Jak dlouho je možné podávat připomínky?' , 'Jak dlouho mám čas podávat připomínky?' , 
 
-        'Jaký je správní poplatek za podání námitek a jaký za podání připomínek?' , 'Jaká je výše správní úhrady, kterou je třeba zaplatit za podání námitek a jaká za podání připomínkek?' , 'Jaká je správní taxa za podání námitek, zároveň i za podání připomínek?' , 'Kolik se platí za podání námitek a připomínek v rámci správního řízení?' , 'Kolik se platí za podání námitek a připomínek v rámci správního řízení?' , 'Za podání námitek a připomínek v rámci správního řízení se platí poplatek, kolik' , '. Mohl bych vědět, kolik je za poplatek potřeba zaplatit?' , 'Kolik se platí za náměty a připomínky v řízení?' ,
+        'Jaký je správní poplatek za podání námitek a jaký za podání připomínek?' , 'Jaká je výše správní úhrady, kterou je třeba zaplatit za podání námitek a jaká za podání připomínkek?' , 'Jaká je správní taxa za podání námitek, zároveň i za podání připomínek?' , 'Kolik se platí za podání námitek a připomínek v rámci správního řízení?' , 'Za podání námitek a připomínek v rámci správního řízení se platí poplatek, kolik' , '. Mohl bych vědět, kolik je za poplatek potřeba zaplatit?' , 'Kolik se platí za náměty a připomínky v řízení?' ,
 
         'Jak podat námitky nebo připomínky? Existuje formulář?' , 'Jakým způsobem můžeme podat námitky nebo připomínky?Kde nalezneme požadovaný formulář?' , 'Jaké jsou možnosti  podání námitek nebo připomínek?' , 'Kde nelazneme vhodný tiskopis?' , 'Existuje nějaký formulář nebo konkrétní postup, jak podat námitky nebo připomínky?' , 'Jak se dají podat námitky nebo připomínky?' , 'Je na to nějaký formulář, nebo jak to funguje?' , 'Jak podat námitky nebo připomínky?' , 'Jaky formulář k tomu slouží?' ,
 
         'Pokud už byla ochranná známka zaregistrována, mohu se nějak domoci jejího výmazu?' , 'Když byla ochranná známka zapsána, jak mohu její registraci zrušit?' , 'Jakmile proběhlo zaregistrování ochranné známky, jak vypadá způsob jejího smazání?' , 'Existuje možnost požádat o výmaz již registrované ochranné známky, pokud jsou splněny určité podmínky.' , 'Je možné odstranit již registrovanou ochrannou známku?' , 'Když jsou splněny určité podmínky, můžu požádat o výmaz již registrované ochranné známky?' ,
 
-        'Jaký je rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou?Jak se od sebe líší způsob zrušení ochranné známky a prohlášením ochranné známky za neplatnou?' , 'Jak se liší procesy ukončení platnosti ochranné známky a prohlášení ochranné známky za neplatnou?' , 'Můžete mi říct rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou?' , 'Jaký je rozdíl mezi zrušením a neplatností ochranné známky?' , 'Jak lze ověřit soulad podnikání s ochrannou známkou a co hrozí za její porušení?' ,
+        'Jaký je rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou?Jak se od sebe líší způsob zrušení ochranné známky a prohlášením ochranné známky za neplatnou?' , 'Jak se liší procesy ukončení platnosti ochranné známky a prohlášení ochranné známky za neplatnou?' , 'Můžete mi říct rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou?' , 'Jaký je rozdíl mezi zrušením a neplatností ochranné známky?' ,
 
         'Co se rozumí pod pojmem „řádné užívání ochranné známky“?' , ' Jaký je význam fráze „řádné užívání ochranné známky“?' , 'Co to znamená, když se mluví o „řádném užívání ochranné známky“?' , 'Jak lze ověřit soulad podnikání s ochrannou známkou a co hrozí za její porušení?' , 'Jaký je význam termínu "řádné užívání" v souvislosti s ochrannou známkou?' , 'Co znamená "řádné užívání" ochranné známky?' ,
 
@@ -356,13 +356,13 @@ if __name__ == "__main__":
 
         'Je možné na Internetu zjistit, zda je určité označení chráněné jako ochranná známka?' , 'Lze se dozvědět, zda je nějaké označení chráněno jako ochranná známka na Internetu?' , 'Je možné zjistit, jestli existuje nějaká identifikace, která je chráněna jako ochraná známka na webu?' , 'Existuje způsob, jak zjistit, zda je určité označení registrováno jako ochranná známka na internetu?' , 'Dá se na netu zjistit, jestli je nějaký název chráněný jako ochranná známka?' ,
 
-        'Co obsahuje národní známková databáze a jak často je aktualizována?' , 'Jaké informace obsahuje národní známková databáze a jak často je obnovovuje?' , 'Co se dá vyčíst z národní databáze známek a jak často se aktualizuje?' , 'Co se nachází v databázi národních ochranných známek a jak často je aktualizována?' , 'Co je v databázi ochranných známek a jak často se aktualizuje?' , 'Co je v databázi ochranných známek a jak často se aktualizuje?' ,
+        'Co obsahuje národní známková databáze a jak často je aktualizována?' , 'Jaké informace obsahuje národní známková databáze a jak často je obnovovuje?' , 'Co se dá vyčíst z národní databáze známek a jak často se aktualizuje?' , 'Co se nachází v databázi národních ochranných známek a jak často je aktualizována?' , 'Co je v databázi ochranných známek a jak často se aktualizuje?' ,
 
         'Jak lze získat informace o aktuálním právním stavu patentů, ochranných známek, průmyslových vzorů, užitných vzorů a označení původu/zeměpisných označení?' , 'Jak se dostat k informacím o současném právním postavení patentů, ochranných známek, průmyslových vzorů, užitných vzorů a označení původu/zeměpisných označení?' , 'Kde mám hledat informace o aktuálním stavu patentů, ochranných známek, průmyslových vzorů, užitných vzorů a označení původu/zemepisných označení?' , 'Jak získat informace o aktuálním stavu patentů, ochranných známek, průmyslových a užitných vzorů a zeměpisných označení?' , 'Jak zjistit, jestli má někdo patent, ochrannou známku, průmyslový vzor nebo zeměpisné označení?' ,
 
         'Jak lze provést rešerši v databázi ochranných známek na našem webu?' , 'Provedení vyhledávání dat v databázi ochranných známek na našich webových stránkách?' , 'Jakým způsobem se dostanu k postupu "realizace rešerše v databázi ochranných známek na našem webu?' , 'Jak vyhledám postup realizace rešerše v databázi ochranných známek na našich webových stránkách?' , 'Jaký postup je potřeba k vyhledání databáze ochranných známek na našem webu?' , 'Jak najít databázi ochranných známek na našem webu?' ,
 
-        'Jaký má pro firmu přínos provedení průmyslověprávní rešerše?' , 'Jaká je pro společnost výhoda zrealizování průmyslového právního výzkumu?' , 'Co získá firma provedením průmyslověprávní rešerší?' , 'Jak může firma profitovat z provedení průmyslově právní rešerše?' , 'Jak může firma profitovat z provedení průmyslově právní rešerše?' , 'Kde získám informace o patentech a ochranných známkách v průmyslovém právu?' ,
+        'Jaký má pro firmu přínos provedení průmyslověprávní rešerše?' , 'Jaká je pro společnost výhoda zrealizování průmyslového právního výzkumu?' , 'Co získá firma provedením průmyslověprávní rešerší?' , 'Jak může firma profitovat z provedení průmyslově právní rešerše?' , 'Kde získám informace o patentech a ochranných známkách v průmyslovém právu?' ,
 
         'Obnova ochranné známky.' , ' Znovuvytvoření ochranné známky.' , ' Znovuzřízení ochranné známky.' , 'Prodloužení platnosti ochranné známky.' , 'Jak znovu prodloužit platnost ochranné známky?' ,
 
@@ -374,13 +374,13 @@ if __name__ == "__main__":
 
         'Jak se provádí oceňování průmyslových práv?' , 'Jaké jsou postupy při ocenění průmyslových práv?' , 'Jak se vlastně ocení průmyslová práva?' , 'Jak si nechat nacenit patent?' , 'Jak si nechat spočítat cenu ochranné známky?' ,
 
-        'Jak Úřad podává informaci o zahájení řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , 'Jak se Úřad oficiálně rozhoduje ohledně toho, aby byl zapsán převod ochranné známky, patentu, průmyslového či užitného vzoru?' , 'Jak Úřad sděluje informaci o započatém řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , 'Jak Úřad podává informaci o zahájení řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , ' Kdy ÚPV dá vědět, že začne zahájení řízení o zápisu a převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' ,
+        'Jak se Úřad oficiálně rozhoduje ohledně toho, aby byl zapsán převod ochranné známky, patentu, průmyslového či užitného vzoru?' , 'Jak Úřad sděluje informaci o započatém řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , 'Jak Úřad podává informaci o zahájení řízení o zápisu převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' , ' Kdy ÚPV dá vědět, že začne zahájení řízení o zápisu a převodu ochranné známky, patentu, průmyslového vzoru či užitného vzoru?' ,
 
         '"Jakou formu mají mít doklady přikládané k žádostem o zápis převodu, licence a zástavy?' , 'Jak by měl vypadat vzhled dokladů přiložených k žádostem o zápisu převodu, licence a zástavy?' , 'Které dokumenty musí být přiloženy k žádostem o vložení převodu, licence a zástavy do veřejného seznamu?' , 'Jak by měly vypadat doklady přikládané k žádostem o zápis převodu, licence a zástavy?' , 'Jak mají vypadat doklady, co se přikládají k žádostem o zápis převodu, licence nebo zástavy?' , 'Co by mělo být napsané v dokladech, které se přikládají k žádostem o zápisu převodu, licence nebo zástavy?"' ,
 
         'Co je to prezidiální plná moc, jakým způsobem je evidována u Úřadu, jaké jsou její náležitosti?' , 'Jaký má význam prezidiální plná moc a jak je u Úřadu zaznamenána?' , 'Jaké jsou její specifické rysy?' , 'Jak vypadá prezidiální plná moc, jak se zpracovává u Úřadu, jaká jsou její kritéria?' , 'Co je prezidentská plná moc, jak je zapsána v Úřadu a co musí obsahovat?' , 'Co je prezidentská plná moc, zápis v Úřadu a požadovaný obsah?' ,
 
-        'Za jakých podmínek lze nahlížet do správního spisu?' , 'Existují nějaké požadavky, které je třeba splnit, aby bylo možné získat přístup do správního spisu?' , 'Jaké jsou podmínky k náhlednutí do správního spisu?' , 'Jaká opatření musíme splnit, abychom mohli nahlídnout do správního spisu?' , 'Za jakých podmínek lze nahlížet do správního spisu?' , 'Za jakých podmínek se můžu podívat do správního spisu?' ,
+        'Existují nějaké požadavky, které je třeba splnit, aby bylo možné získat přístup do správního spisu?' , 'Jaké jsou podmínky k náhlednutí do správního spisu?' , 'Jaká opatření musíme splnit, abychom mohli nahlídnout do správního spisu?' , 'Za jakých podmínek lze nahlížet do správního spisu?' , 'Za jakých podmínek se můžu podívat do správního spisu?' ,
 
         'Jak postupovat při placení udržovacích poplatků u patentů, resp. požádat o obnovu, prodloužení platnosti u ochranných známek, užitných vzorů a průmyslových vzorů?' , 'Jaký způsob zvoliti při uhrazení udržovacích poplatků u patentů, resp. požádat o obnovu, prodloužení platnosti u ochranných známek, užitných vzorů a průmyslových vzorů?' , 'Jakou metodu využít při placení udržovacích poplatků u patentů, resp. požádat o obnovu, prodloužení platnosti u ochranných známek, užitných vzorů a průmyslových vzorů.' , 'Jak platit udržovací poplatky u patentů a požádat o prodloužení platnosti u ochranných známek, průmyslových a užitných vzorů?' , 'Jak platit poplatky a prodloužit platnost patentů, ochranných známek a vzorů?' ,
 

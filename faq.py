@@ -51,13 +51,13 @@ class FAQ:
         print(f"Answer: {ans}")
         return ans
 
-    def test(self, questions, ids, verb=False, show_cm=False):
+    def etalon_test(self, questions, ids, verb=False, show_cm=False):
         assert(len(questions) == len(ids))
         hyps = np.array([self.identify(q) for q in questions])
         ids = np.array(ids)
         scores = hyps == ids
         acc = scores.mean()
-        print(f"Question match accuracy: {acc}")
+        print(f"Question etalon match accuracy: {acc}")
         if not scores.all() and verb:
             print("\nIncorrect matches:")
             for i, b in enumerate(scores):
@@ -67,7 +67,45 @@ class FAQ:
             cm = confusion_matrix(ids, hyps)
             fig = plt.figure(figsize = (10,7))
             sn.heatmap(cm, annot=True)
-            plt.title("Question matching confusion matrix")
+            plt.title("Question etalon matching confusion matrix")
+            plt.xlabel("Prediction")
+            plt.ylabel("True class")
+            plt.draw()
+            plt.pause(0.1)
+            return acc, fig
+        return acc, None
+    
+    def cross_match_test(self, questions, ids, verb=False, show_cm=False):
+        assert(len(questions) == len(ids))
+        full_db = np.array([self.sentence_embedding(q) for q in questions])
+        ids = np.array(ids)
+
+        def cross_match(question):
+            v = self.sentence_embedding(question)
+            sims = full_db @ v[:, np.newaxis]
+            #top_match =  np.argsort(sims.flatten())[-1]
+            #if top_match != idx:
+             #   print(questions[idx])
+             #   print(questions[top_match])
+            matched_idx = np.argsort(sims.flatten())[-2]
+            return ids[matched_idx]
+        
+        hyps = np.array([cross_match(q) for q in questions])
+        scores = hyps == ids
+        acc = scores.mean()
+        print(f"Question cross-match accuracy: {acc}")
+
+        if not scores.all() and verb:
+            print("\nIncorrect matches:")
+            for i, b in enumerate(scores):
+                if not b:
+                    print(f"{questions[i]} : {self.questions[hyps[i]]}")
+
+        if show_cm:
+            cm = confusion_matrix(ids, hyps)
+            fig = plt.figure(figsize = (10,7))
+            sn.heatmap(cm, annot=True)
+            plt.title("Question cross-matching confusion matrix")
             plt.xlabel("Prediction")
             plt.ylabel("True class")
             plt.draw()
