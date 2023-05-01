@@ -1,4 +1,3 @@
-import fasttext
 import numpy as np
 import warnings
 from sklearn.metrics import confusion_matrix
@@ -103,7 +102,7 @@ class FAQ:
 
         if show_cm:
             cm = confusion_matrix(ids, hyps)
-            fig = plt.figure(figsize = (10,7))
+            fig = plt.figure(figsize=(10, 7))
             sn.heatmap(cm, annot=True)
             plt.title("Question cross-matching confusion matrix")
             plt.xlabel("Prediction")
@@ -130,7 +129,7 @@ class FAQ:
                     print(f"{questions[i]} : {self.answers[hyps[i]]}")
         if show_cm:
             cm = confusion_matrix(ids, hyps)
-            fig = plt.figure(figsize = (10,7))
+            fig = plt.figure(figsize=(10, 7))
             sn.heatmap(cm, annot=True)
             plt.title("Answer matching confusion matrix")
             plt.xlabel("Prediction")

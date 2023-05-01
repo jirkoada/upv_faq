@@ -1,7 +1,7 @@
 import fasttext
 import os
 import argparse
-from faq import FAQ
+from faq_old import FAQ
 import upv_data_v2 as upv
 
 
