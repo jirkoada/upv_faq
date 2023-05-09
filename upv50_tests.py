@@ -9,6 +9,7 @@ parser.add_argument("model_path", default="")
 parser.add_argument("--verb", default=False, action="store_true", help="Print incorrect matches")
 parser.add_argument("--cm", default=False, action="store_true", help="Create and show a confusion matrix")
 parser.add_argument("--save", default=False, action="store_true", help="Save results")
+parser.add_argument("--csize", default=4.1e9, type=float, help="Save results")
 
 
 if __name__ == "__main__":
@@ -16,7 +17,7 @@ if __name__ == "__main__":
     
     model = fasttext.load_model(args.model_path)
 
-    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx")
+    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", alpha=0.0001, corpus_size=args.csize)
     q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
     a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
     #m_acc, m_cm = faq.mean_match_test(verb=args.verb, show_cm=args.cm)

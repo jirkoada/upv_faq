@@ -8,9 +8,14 @@ from matplotlib.patches import Rectangle
 
 
 class FAQ:
-    def __init__(self, model, questions_path, answers_path=None):
+    def __init__(self, model, questions_path, answers_path=None, alpha=None, svd=False, corpus_size=4.1e9):
         self.model = model
         self.answers = None
+        self.sentence_embedding = self.default_sentence_embedding
+        self.word_probs = None
+        self.alpha = alpha
+        self.svd = svd
+
         if questions_path.split(".")[1] == "xlsx":
             self.questions = pd.read_excel(questions_path)
         elif questions_path.split(".")[1] == "json":
@@ -23,6 +28,14 @@ class FAQ:
             self.answers = pd.read_json(answers_path)
         elif answers_path:
             raise "Unsupported data file"
+
+        if alpha is not None:
+            self.sentence_embedding = self.weighted_sentence_embedding
+            words, freqs = model.get_words(include_freq=True)
+            probs = list(map(lambda x: float(x) / corpus_size, freqs))
+            #print(words[:5], probs[:5])
+            self.word_probs = dict(zip(words, probs))
+
         self.db = np.array([self.sentence_embedding(q) for q in self.questions["question"]])
         self.mean_db = np.zeros([self.questions["class"].nunique(), self.db.shape[1]])
         for i, cls in enumerate(self.questions["class"].unique()):
@@ -31,10 +44,44 @@ class FAQ:
             self.mean_db[i, :] = self.db[imin:imax+1, :].mean(axis=0)
         if self.answers is not None:
             self.ans_db = np.array([self.sentence_embedding(a) for a in self.answers['answer']])
-    
-    def sentence_embedding(self, sentence):
+
+        def singular_decouple(mat):
+            u, s, vh = np.linalg.svd(mat.T)
+            u = u[:, :1]
+            mat -= (u @ u.T @ mat.T).T
+            return mat
+
+        if alpha is not None and self.svd:
+            self.db = singular_decouple(self.db)
+            self.mean_db = singular_decouple(self.mean_db)
+            if self.answers is not None:
+                self.ans_db = singular_decouple(self.ans_db)
+
+    def default_sentence_embedding(self, sentence):
         embedding = self.model.get_sentence_vector(sentence.lower().replace('\n', ' '))
         return embedding/np.linalg.norm(embedding)
+
+    def mean_sentence_embedding(self, sentence):
+        # Same as default, but computed manually
+        words = sentence.lower().replace('\n', ' ').split()
+        wes = np.array([self.model.get_word_vector(w) for w in words])
+        wes /= np.linalg.norm(wes, axis=1)[:, np.newaxis]
+        se = np.mean(wes, axis=0)
+        return se/np.linalg.norm(se)
+
+    def weighted_sentence_embedding(self, sentence):
+        def word_probability(word):
+            if word in self.word_probs.keys():
+                return self.word_probs[word]
+            return 0.0
+
+        words = sentence.lower().replace('\n', ' ').split()
+        wes = np.array([self.model.get_word_vector(w) for w in words])
+        probs = np.array([word_probability(w) for w in words])[:, np.newaxis]
+        wes /= np.linalg.norm(wes, axis=1)[:, np.newaxis] + 1e-9
+        wes *= self.alpha / (self.alpha + probs)
+        se = np.mean(wes, axis=0)
+        return se/np.linalg.norm(se)
 
     def total_confusion(self):
         cm = self.db @ self.db.T
