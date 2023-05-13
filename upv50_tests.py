@@ -17,6 +17,7 @@ if __name__ == "__main__":
     
     model = fasttext.load_model(args.model_path)
 
+    print("No SVD")
     faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", alpha=0.0001, corpus_size=args.csize)
     q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
     a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
@@ -24,10 +25,21 @@ if __name__ == "__main__":
     #faq.total_confusion()
 
     if args.save:
-        save_dir = args.model_path.replace(".bin", "_STS")
+        save_dir = args.model_path.replace(".bin", "_STS50")
         os.makedirs(save_dir, exist_ok=True)
         with open(os.path.join(save_dir, "Accuracies.log"), "w") as af:
             af.writelines([f"Question matching accuracy: {q_acc} \nAnswer matching accuracy: {a_acc}"])
         if args.cm:
             q_cm.savefig(os.path.join(save_dir, "Question_CM.png"))
             a_cm.savefig(os.path.join(save_dir, "Answer_CM.png"))
+
+    print("With SVD")
+    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", alpha=0.0001, svd=True, corpus_size=args.csize)
+    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
+    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
+
+    print("Basic")
+    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", corpus_size=args.csize)
+    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
+    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
+    
