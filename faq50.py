@@ -15,8 +15,10 @@ class FAQ:
         self.word_probs = None
         self.alpha = alpha
         self.svd = svd
+        self.q_singulars = None
 
         if questions_path.split(".")[1] == "xlsx":
+            
             self.questions = pd.read_excel(questions_path)
         elif questions_path.split(".")[1] == "json":
             self.questions = pd.read_json(questions_path)
@@ -47,15 +49,24 @@ class FAQ:
 
         def singular_decouple(mat):
             u, s, vh = np.linalg.svd(mat.T)
-            u = u[:, :1]
-            mat -= (u @ u.T @ mat.T).T
-            return mat
+            #u = u[:, :1]
+            #mat -= (u @ u.T @ mat.T).T
+            if s.shape[0] == 300:
+                #print(np.sqrt(s)[np.newaxis, :])
+                mat *= np.sqrt(s)[np.newaxis, :]
+                mat /= np.linalg.norm(mat, axis=1)[:, np.newaxis]
+            return mat, s
 
         if alpha is not None and self.svd:
-            self.db = singular_decouple(self.db)
-            self.mean_db = singular_decouple(self.mean_db)
+            self.db, self.q_singulars = singular_decouple(self.db)
+            self.mean_db, _ = singular_decouple(self.mean_db)
             if self.answers is not None:
-                self.ans_db = singular_decouple(self.ans_db)
+                self.ans_db, _ = singular_decouple(self.ans_db)
+
+            #plt.plot(self.q_singulars)
+            #plt.show()
+            #print(self.q_singulars)
+
 
     def default_sentence_embedding(self, sentence):
         embedding = self.model.get_sentence_vector(sentence.lower().replace('\n', ' '))
