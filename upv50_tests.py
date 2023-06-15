@@ -42,4 +42,24 @@ if __name__ == "__main__":
     faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", corpus_size=args.csize)
     q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
     a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
+
+    '''print("Alpha 0.00001")
+    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", alpha=0.00001, corpus_size=args.csize)
+    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
+    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
+
+    print("Alpha 0.0001")
+    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", alpha=0.0001, corpus_size=args.csize)
+    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
+    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
+
+    print("Alpha 0.001")
+    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", alpha=0.001, corpus_size=args.csize)
+    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
+    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
+
+    print("Alpha 0.01")
+    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", alpha=0.01, corpus_size=args.csize)
+    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
+    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)'''
     
