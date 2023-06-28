@@ -1,3 +1,4 @@
+import fasttext
 import numpy as np
 import pandas as pd
 import warnings
@@ -5,16 +6,47 @@ from sklearn.metrics import confusion_matrix
 import seaborn as sn
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
+import json
+import os
+#from nltk.tokenize import word_tokenize
+
+
+def extract_word_probs(model_path: str, corpus_size: int = 4.1e9):
+    """
+    Uses word occurency counts included in FT model and training corpus size to create a dict of 
+    word frequencies/probabilities and saves it to a json file inside current working directory
+    - Only uncompressed models are supported
+    """
+    model = fasttext.load_model(model_path)
+    words, freqs = model.get_words(include_freq=True)
+    probs = list(map(lambda x: float(x) / corpus_size, freqs))
+    word_probs = dict(zip(words, probs))
+    probs_path = os.path.splitext(os.path.basename(model_path))[0] + "_probs.json"
+    with open(probs_path, "w") as out:
+        json.dump(word_probs, out)
+    return probs_path
 
 
 class FAQ:
-    def __init__(self, model, questions_path, answers_path=None, alpha=None, svd=False, corpus_size=4.1e9):
+    def __init__(
+            self, 
+            model, 
+            questions_path, 
+            answers_path=None,
+            probs=None, 
+            alpha=1e-4, 
+            compressed=False
+        ):
         self.model = model
         self.answers = None
-        self.sentence_embedding = self.default_sentence_embedding
-        self.word_probs = None
+        self.sentence_embedding = self.mean_sentence_embedding
+        self.word_probs = probs
         self.alpha = alpha
-        self.svd = svd
+
+        if compressed:
+            self.get_w_vec = self.model.word_vec
+        else:
+            self.get_w_vec = self.model.get_word_vector
 
         if questions_path.split(".")[1] == "xlsx":
             self.questions = pd.read_excel(questions_path)
@@ -22,6 +54,7 @@ class FAQ:
             self.questions = pd.read_json(questions_path)
         else:
             raise "Unsupported data file"
+        
         if answers_path and questions_path.split(".")[1] == "xlsx":
             self.answers = pd.read_excel(answers_path)
         elif answers_path and questions_path.split(".")[1] == "json":
@@ -29,54 +62,47 @@ class FAQ:
         elif answers_path:
             raise "Unsupported data file"
 
-        if alpha is not None:
-            self.sentence_embedding = self.weighted_sentence_embedding
-            words, freqs = model.get_words(include_freq=True)
-            probs = list(map(lambda x: float(x) / corpus_size, freqs))
-            #print(words[:5], probs[:5])
-            self.word_probs = dict(zip(words, probs))
+        if alpha is not None and probs is not None:
+            self.sentence_embedding = self.weighted_sentence_embedding       
 
+        # Create embedding database - matrix of embedding vectors for each question
         self.db = np.array([self.sentence_embedding(q) for q in self.questions["question"]])
+
+        # Mean embedding database - holds averages of question embeddings for each class
         self.mean_db = np.zeros([self.questions["class"].nunique(), self.db.shape[1]])
         for i, cls in enumerate(self.questions["class"].unique()):
             imin = self.questions[self.questions["class"] == cls].index.min()
             imax = self.questions[self.questions["class"] == cls].index.max()
             self.mean_db[i, :] = self.db[imin:imax+1, :].mean(axis=0)
+
+        # Answer database - matrix of embeddings for each unique answer
         if self.answers is not None:
             self.ans_db = np.array([self.sentence_embedding(a) for a in self.answers['answer']])
 
-        def singular_decouple(mat):
-            u, s, vh = np.linalg.svd(mat.T)
-            u = u[:, :1]
-            mat -= (u @ u.T @ mat.T).T
-            return mat
-
-        if alpha is not None and self.svd:
-            self.db = singular_decouple(self.db)
-            self.mean_db = singular_decouple(self.mean_db)
-            if self.answers is not None:
-                self.ans_db = singular_decouple(self.ans_db)
-
     def default_sentence_embedding(self, sentence):
+        # Unsuported by compressed models, may be removed
         embedding = self.model.get_sentence_vector(sentence.lower().replace('\n', ' '))
         return embedding/np.linalg.norm(embedding)
 
     def mean_sentence_embedding(self, sentence):
         # Same as default, but computed manually
         words = sentence.lower().replace('\n', ' ').split()
-        wes = np.array([self.model.get_word_vector(w) for w in words])
-        wes /= np.linalg.norm(wes, axis=1)[:, np.newaxis]
+        #words = word_tokenize(sentence)
+        wes = np.array([self.get_w_vec(w) for w in words])
+        wes /= np.linalg.norm(wes, axis=1)[:, np.newaxis] + 1e-9
         se = np.mean(wes, axis=0)
         return se/np.linalg.norm(se)
 
     def weighted_sentence_embedding(self, sentence):
+        # Computes weighted sentence embedding acoording to: https://openreview.net/pdf?id=SyK00v5xx
         def word_probability(word):
             if word in self.word_probs.keys():
                 return self.word_probs[word]
             return 0.0
 
         words = sentence.lower().replace('\n', ' ').split()
-        wes = np.array([self.model.get_word_vector(w) for w in words])
+        #words = word_tokenize(sentence)
+        wes = np.array([self.get_w_vec(w) for w in words])
         probs = np.array([word_probability(w) for w in words])[:, np.newaxis]
         wes /= np.linalg.norm(wes, axis=1)[:, np.newaxis] + 1e-9
         wes *= self.alpha / (self.alpha + probs)
@@ -84,6 +110,9 @@ class FAQ:
         return se/np.linalg.norm(se)
 
     def total_confusion(self):
+        # Shows a heatmap of cosine similarities of all question pairs
+        # Regions within the same class are enclosed in red squares
+        # Click a pixel to print out aditional info about the matching question pair
         cm = self.db @ self.db.T
         am = np.argmax(cm, axis=1)
         for i in range(am.shape[0]):
@@ -114,7 +143,8 @@ class FAQ:
         plt.title("Confusion matrix for all question matches")
         plt.show()
 
-    def mean_match_test(self, verb=False, show_cm=False):
+    def mean_match_test(self, verb=False, show_cm=False, show_time=2.0):
+        # Determines question class by comparing it with mean database and computes classification accuracy
         cm = self.db @ self.mean_db.T
         am = np.argmax(cm, axis=1)
         preds = am
@@ -122,7 +152,7 @@ class FAQ:
         hits = preds == gts
 
         acc = hits.mean()
-        print(f"Mean match accuracy: {acc}")
+        #print(f"Mean match accuracy: {acc}")
 
         if not hits.all() and verb:
             print("\nIncorrect matches:")
@@ -138,18 +168,21 @@ class FAQ:
             plt.xlabel("Prediction")
             plt.ylabel("True class")
             plt.draw()
-            plt.pause(0.1)
+            plt.pause(show_time)
             return acc, fig
         return acc, None
     
-    def cross_match_test(self, verb=False, show_cm=False):
+    def cross_match_test(self, verb=False, show_cm=False, show_time=2.0):
+        # Computes cosine similarities of all question pairs
+        # A question is succesfully matched, if its second highest similarity is with a question of the same class
+        # Computes accuracy as the ratio of succesfull matches
         cm = self.db @ self.db.T
         am = np.argsort(cm, axis=1)[:, -2]
         cls_ids = self.questions["class"].to_numpy(dtype=int)
         hits = cls_ids == cls_ids[am]
 
         acc = hits.mean()
-        print(f"Question cross-match accuracy: {acc}")
+        #print(f"Question cross-match accuracy: {acc}")
 
         if not hits.all() and verb:
             print("\nIncorrect matches:")
@@ -165,11 +198,12 @@ class FAQ:
             plt.xlabel("Prediction")
             plt.ylabel("True class")
             plt.draw()
-            plt.pause(0.1)
+            plt.pause(show_time)
             return acc, fig
         return acc, None
 
-    def ans_test(self, verb=False, show_cm=False):
+    def ans_test(self, verb=False, show_cm=False, show_time=2.0):
+        # Classifies questions by directly comparing them with embedded answers and computes accuracy
         if self.answers is None:
             warnings.warn("Answers are not available")
             return None
@@ -180,7 +214,7 @@ class FAQ:
         hits = preds == gts
 
         acc = hits.mean()
-        print(f"Answer match accuracy: {acc}")
+        #print(f"Answer match accuracy: {acc}")
 
         if not hits.all() and verb:
             print("\nIncorrect matches:")
@@ -196,12 +230,11 @@ class FAQ:
             plt.xlabel("Prediction")
             plt.ylabel("True class")
             plt.draw()
-            plt.pause(0.1)
+            plt.pause(show_time)
             return acc, fig
         return acc, None
 
-    """
-        def identify(self, question):
+    def identify(self, question):
         v = self.sentence_embedding(question)
         sims = self.db @ v[:, np.newaxis]
         return np.argmax(sims)
@@ -213,22 +246,21 @@ class FAQ:
     
     def match(self, question):
         matched_q = self.questions['question'][self.identify(question)]
-        print(f"Matched question: {matched_q}")
+        #print(f"Matched question: {matched_q}")
         return matched_q
 
     def answer(self, question):
-        if not self.answers:
+        if self.answers is None:
             warnings.warn("Answers are not available")
             return None
-        ans = self.answers['answer'][self.identify(question)]
-        print(f"Answer: {ans}")
+        ans = self.answers['answer'][self.questions['class'][self.identify(question)]]
+        #print(f"Answer: {ans}")
         return ans
     
     def direct_answer(self, question):
-        if not self.answers:
+        if self.answers is None:
             warnings.warn("Answers are not available")
             return None
         ans = self.answers['answer'][self.identify_direct_answer(question)]
-        print(f"Answer: {ans}")
+        #print(f"Answer: {ans}")
         return ans
-    """
