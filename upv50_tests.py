@@ -11,7 +11,7 @@ parser.add_argument("--probs", default="", help="Word probabilities file path")
 parser.add_argument("--alpha", default=1e-4, type=float, help="Word embedding weighting factor")
 parser.add_argument("--verb", default=False, action="store_true", help="Print incorrect matches")
 parser.add_argument("--cm", default=False, action="store_true", help="Create and show a confusion matrix")
-parser.add_argument("--cm_disp", default=0.0, type=float, help="Confusion matrix display duration")
+parser.add_argument("--cmtime", default=0.0, type=float, help="Confusion matrix display duration")
 parser.add_argument("--save", default=False, action="store_true", help="Save results")
 parser.add_argument("--compressed", default=False, action="store_true", help="Indicate if the used model was compressed using compress-fasttext")
 
@@ -33,8 +33,8 @@ if __name__ == "__main__":
             probs = json.load(wp_file)
 
     faq = FAQ(model, "Q50_questions.csv", "Q50_answers.csv", probs=probs, alpha=args.alpha, compressed=args.compressed)
-    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
-    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
+    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm, show_time=args.cmtime)
+    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm, show_time=args.cmtime) 
 
     print(f"Question cross-match accuracy: {q_acc}")
     print(f"Answer match accuracy: {a_acc}")
