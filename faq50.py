@@ -50,15 +50,15 @@ class FAQ:
 
         if questions_path.split(".")[1] == "xlsx":
             self.questions = pd.read_excel(questions_path)
-        elif questions_path.split(".")[1] == "json":
-            self.questions = pd.read_json(questions_path)
+        elif questions_path.split(".")[1] == "csv":
+            self.questions = pd.read_csv(questions_path, sep="\t")
         else:
             raise "Unsupported data file"
         
         if answers_path and questions_path.split(".")[1] == "xlsx":
             self.answers = pd.read_excel(answers_path)
-        elif answers_path and questions_path.split(".")[1] == "json":
-            self.answers = pd.read_json(answers_path)
+        elif answers_path and questions_path.split(".")[1] == "csv":
+            self.answers = pd.read_csv(answers_path, sep="\t")
         elif answers_path:
             raise "Unsupported data file"
 
