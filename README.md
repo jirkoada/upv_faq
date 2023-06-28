@@ -20,7 +20,7 @@ Only supports fastText embeddings in .bin format
 
 - **model_path**: Path to the model to be evaluated
 
-- **probs**: Path to vocabulary world frequencies - json file created using faq50.extract_word_probs
+- **probs**: Path to vocabulary word frequencies - json file created using faq50.extract_word_probs
 
 - **alpha**: Word embedding weighting parameter - word embeddings will be weighted based on word frequencies, according to this [paper](https://openreview.net/pdf?id=SyK00v5xx)
 
