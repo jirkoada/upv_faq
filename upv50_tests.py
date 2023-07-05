@@ -11,7 +11,7 @@ parser.add_argument("--probs", default="", help="Word probabilities file path")
 parser.add_argument("--alpha", default=1e-4, type=float, help="Word embedding weighting factor")
 parser.add_argument("--verb", default=False, action="store_true", help="Print incorrect matches")
 parser.add_argument("--cm", default=False, action="store_true", help="Create and show a confusion matrix")
-parser.add_argument("--cmtime", default=0.0, type=float, help="Confusion matrix display duration")
+parser.add_argument("--cmtime", default=0.1, type=float, help="Confusion matrix display duration")
 parser.add_argument("--save", default=False, action="store_true", help="Save results")
 parser.add_argument("--compressed", default=False, action="store_true", help="Indicate if the used model was compressed using compress-fasttext")
 
