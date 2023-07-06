@@ -1,10 +1,10 @@
 import fasttext
 import json
 import os
-from faq50 import FAQ, extract_word_probs
+from faq_core import FAQ, extract_word_probs
 
-model_path = "../cc.cs.300.bin"
-probs_path = "cc.cs.300_probs.json"
+model_path = "models/cbow_300_ns10_800k_ep10.bin"
+probs_path = "cbow_300_ns10_800k_ep10_probs.json"
 compressed_model = False
 
 extract_word_probs(model_path, corpus_size=13.2e9) # run only once to save time

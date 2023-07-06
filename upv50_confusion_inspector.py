@@ -1,7 +1,7 @@
 import fasttext
 import argparse
 import json
-from faq50 import FAQ
+from faq_core import FAQ
 
 
 parser = argparse.ArgumentParser()
