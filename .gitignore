@@ -3,3 +3,6 @@ RESULTS
 UPV_texts
 __pycache__
 .idea
+venv
+haystack_tests/venv
+haystack_tests/__pycache__
