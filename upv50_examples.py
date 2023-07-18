@@ -18,7 +18,7 @@ if compressed_model:
 else:
     model = fasttext.load_model(model_path)
 
-faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", probs=probs, compressed=compressed_model)
+faq = FAQ(model, "data/FAQ50_questions.xlsx", "data/FAQ50_answers.xlsx", probs=probs, compressed=compressed_model)
 
 test_question = "Jak požádat o patent?"
 matched = faq.match(test_question)

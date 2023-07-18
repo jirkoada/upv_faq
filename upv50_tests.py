@@ -32,7 +32,7 @@ if __name__ == "__main__":
         with open(args.probs, "r") as wp_file:
             probs = json.load(wp_file)
 
-    faq = FAQ(model, "Q50_questions.csv", "Q50_answers.csv", probs=probs, alpha=args.alpha, compressed=args.compressed)
+    faq = FAQ(model, "data/FAQ50_questions.csv", "data/FAQ50_answers.csv", probs=probs, alpha=args.alpha, compressed=args.compressed)
     q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm, show_time=args.cmtime)
     a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm, show_time=args.cmtime) 
 
@@ -50,12 +50,12 @@ if __name__ == "__main__":
 
     '''
     print("Weighted")
-    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", alpha=0.0001, compressed=args.compressed, probs_path=args.probs)
+    faq = FAQ(model, "FAQ50_questions.xlsx", "FAQ50_answers.xlsx", alpha=0.0001, compressed=args.compressed, probs_path=args.probs)
     q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
     a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
 
     print("Basic")
-    faq = FAQ(model, "Q50_questions.xlsx", "Q50_answers.xlsx", compressed=args.compressed)
+    faq = FAQ(model, "FAQ50_questions.xlsx", "FAQ50_answers.xlsx", compressed=args.compressed)
     q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
     a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
     '''

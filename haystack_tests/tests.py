@@ -34,19 +34,29 @@ if __name__ == "__main__":
         )
 
         hits = 0
+        weird = 0
         for idx in df.index:
             q = df['content'][idx]
             cls = df['class'][idx]
             docs = retriever.retrieve(q)
             second = docs[1].to_dict()
+            if q != docs[0].to_dict()['content']:
+                weird += 1
+                print("Ambiguous match:")
+                print(f'{q}, cls {cls}')
+                print(f"{docs[0].to_dict()['content']}, cls {docs[0].to_dict()['meta']['class']}")
+                print()
             if cls == second['meta']['class']:
                 hits += 1
         acc = 1.0 * hits / len(df.index)
+        #print(f'TOP ONE FAILS: {weird}/{len(df.index)}')
         return acc
     
-    acc50 = test_question_set("../Q50_questions.xlsx")
-    acc78 = test_question_set("../Q78_questions.xlsx")
+    acc50 = test_question_set("../data/FAQ50_questions.xlsx")
+    acc76 = test_question_set("../data/FAQ76_questions.xlsx")
+    acc79 = test_question_set("../data/FAQ79_questions.xlsx")
     print(f'UPV50 Cross-match ACC: {acc50}')
-    print(f'UPV78 Cross-match ACC: {acc78}')
+    print(f'UPV76 Cross-match ACC: {acc76}')
+    print(f'UPV79 Cross-match ACC: {acc79}')
 
     
