@@ -3,7 +3,7 @@ from expand_text import expand_text
 import re
 
 if __name__ == "__main__":
-    df = pd.read_excel("FAQ76_raw.xlsx", usecols=[2, 3, 4])
+    df = pd.read_excel("FAQ76v2_raw.xlsx", usecols=[2, 3, 4])
     df['question'] = df['question'].str.replace(r'^\d+\.\s', '', regex=True)
     df["answer"] = df["answer"].str.replace(r'<sub alias="([^"]*)">[^<]*</sub>', r'\1', regex=True)
     print(df['class'].nunique())
@@ -12,7 +12,7 @@ if __name__ == "__main__":
     df.loc[df['class'] > 60, 'class'] -= 1
     print(df['class'].nunique())
     print(df.head())
-    df.to_excel("FAQ76_raw2.xlsx")
+    df.to_excel("FAQ76v2_raw2.xlsx")
 
     q_json = []
     a_json = []
@@ -35,9 +35,9 @@ if __name__ == "__main__":
     a_data = pd.DataFrame.from_records(a_json)
     qa_data = pd.DataFrame.from_records(qa_json)
 
-    q_data.to_excel("FAQ76_questions.xlsx")
-    a_data.to_excel("FAQ76_answers.xlsx")
-    q_data.to_csv("FAQ76_questions.csv", sep="\t")
-    a_data.to_csv("FAQ76_answers.csv", sep="\t")
+    q_data.to_excel("FAQ76v2_questions.xlsx")
+    a_data.to_excel("FAQ76v2_answers.xlsx")
+    q_data.to_csv("FAQ76v2_questions.csv", sep="\t")
+    a_data.to_csv("FAQ76v2_answers.csv", sep="\t")
 
-    qa_data.to_csv("FAQ76_QA.csv", sep="\t")
+    qa_data.to_csv("FAQ76v2_QA.csv", sep="\t")

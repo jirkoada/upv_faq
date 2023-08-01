@@ -40,7 +40,7 @@ if __name__ == "__main__":
     print(f"Answer match accuracy: {a_acc}")
 
     if args.save:
-        save_dir = args.model_path.replace(".bin", f"_STS50_alpha={args.alpha}")
+        save_dir = args.model_path.replace(".bin", f"_STS79_alpha={args.alpha}")
         os.makedirs(save_dir, exist_ok=True)
         with open(os.path.join(save_dir, "Accuracies.log"), "w") as af:
             af.writelines([f"Question matching accuracy: {q_acc} \nAnswer matching accuracy: {a_acc}"])
