@@ -26,6 +26,6 @@ if __name__ == "__main__":
         with open(args.probs, "r") as wp_file:
             probs = json.load(wp_file)
 
-    faq = FAQ(model, "data/FAQ76_questions.csv", "data/FAQ76_answers.csv", probs=probs, alpha=args.alpha, compressed=args.compressed)
+    faq = FAQ(model, "data/FAQ76v2_questions.csv", "data/FAQ76v2_answers.csv", probs=probs, alpha=args.alpha, compressed=args.compressed)
     faq.total_confusion()
 
