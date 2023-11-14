@@ -1,563 +1,563 @@
 	question	class
-0	Co je duševní vlastnictví	0
-1	Co známená duševní vlastnictví	0
-2	Duševní vlastnictví je	0
-3	Definice duševního vlastnictví	0
-4	Jak definovat duševní vlastnictví	0
-5	Co představuje duševní vlastnictví	0
-6	Ochrana předmětů technického charakteru	1
-7	Ochrana předmětů technického typu	1
-8	Ochrana technických řešení	1
-9	Jak chránit technické řešení	1
-10	Způsob ochrany předmětů technického charakteru	1
-11	Způsob ochrany předmětů technického typu	1
-12	Způsob ochrany technických řešení	1
-13	Způsob ochrany technického řešení	1
-14	Jak zajistit technické řešení	1
-15	Jak zajistit technická řešení	1
-16	Možnosti ochrany předmětů technického charakteru	1
-17	Možnosti ochrany předmětů technického typu	1
-18	Možnosti ochrany technického řešení	1
-19	Možnosti ochrany technických řešení	1
-20	Pomoc s registrací vynálezu	2
-21	Pomoc s přihláškou vynálezu	2
-22	Pomoc s registrací  patentu	2
-23	Pomoc s přihláškou patentu	2
-24	Pomoc s registrací  užitného vzoru	2
-25	Pomoc s přihláškou užitného vzoru	2
-26	Pomoc s registrací  průmyslového vzoru	2
-27	Pomoc s přihláškou průmyslového vzoru	2
-28	Pomoc s registrací  ochranné známky	2
-29	Pomoc s přihláškou ochranné známky	2
-30	Pomoc s registrací  průmyslového designu	2
-31	Pomoc s přihláškou průmyslového designu	2
-32	Pomoc s registrací  ochranného označení	2
-33	Pomoc s přihláškou ochranného označení	2
-34	Kdo pomůže s přihláškou vynálezu	2
-35	Kdo pomůže s přihlašováním vynálezu	2
-36	Kdo pomůže s přihláškou  patentu	2
-37	Kdo pomůže s přihlašováním patentu	2
-38	Kdo pomůže s přihláškou  užitného vzoru	2
-39	Kdo pomůže s přihlašováním užitného vzoru	2
-40	Kdo pomůže s přihláškou  průmyslového vzoru	2
-41	Kdo pomůže s přihlašováním průmyslového vzoru	2
-42	Kdo pomůže s přihláškou  ochranné známky	2
-43	Kdo pomůže s přihlašováním ochranné známky	2
-44	Kdo pomůže s přihláškou  průmyslového designu	2
-45	Kdo pomůže s přihlašováním průmyslového designu	2
-46	Kdo pomůže s přihláškou  ochranného označení	2
-47	Kdo pomůže s přihlašováním ochranného označení	2
-48	Kdo poskytne pomoc s registrací vynálezu	2
-49	Kdo poskytne pomoc s přihláškou vynálezu	2
-50	Kdo poskytne pomoc s registrací  patentu	2
-51	Kdo poskytne pomoc s přihláškou patentu	2
-52	Kdo poskytne pomoc s registrací  užitného vzoru	2
-53	Kdo poskytne pomoc s přihláškou užitného vzoru	2
-54	Kdo poskytne pomoc s registrací  průmyslového vzoru	2
-55	Kdo poskytne pomoc s přihláškou průmyslového vzoru	2
-56	Kdo poskytne pomoc s registrací  ochranné známky	2
-57	Kdo poskytne pomoc s přihláškou ochranné známky	2
-58	Kdo poskytne pomoc s registrací  průmyslového designu	2
-59	Kdo poskytne pomoc s přihláškou průmyslového designu	2
-60	Kdo poskytne pomoc s registrací  ochranného označení	2
-61	Kdo poskytne pomoc s přihláškou ochranného označení	2
-62	Pomůžete mi s registrací vynálezu	2
-63	Pomůžete mi s přihláškou vynálezu	2
-64	Pomůžete mi s registrací  patentu	2
-65	Pomůžete mi s přihláškou patentu	2
-66	Pomůžete mi s registrací  užitného vzoru	2
-67	Pomůžete mi s přihláškou užitného vzoru	2
-68	Pomůžete mi s registrací  průmyslového vzoru	2
-69	Pomůžete mi s přihláškou průmyslového vzoru	2
-70	Pomůžete mi s registrací  ochranné známky	2
-71	Pomůžete mi s přihláškou ochranné známky	2
-72	Pomůžete mi s registrací  průmyslového designu	2
-73	Pomůžete mi s přihláškou průmyslového designu	2
-74	Pomůžete mi s registrací  ochranného označení	2
-75	Pomůžete mi s přihláškou ochranného označení	2
-76	Na koho se můžu obrátit s registrací vynálezu	2
-77	Na koho se můžu obrátit s přihláškou vynálezu	2
-78	Na koho se můžu obrátit s registrací  patentu	2
-79	Na koho se můžu obrátit s přihláškou patentu	2
-80	Na koho se můžu obrátit s registrací  užitného vzoru	2
-81	Na koho se můžu obrátit s přihláškou užitného vzoru	2
-82	Na koho se můžu obrátit s registrací  průmyslového vzoru	2
-83	Na koho se můžu obrátit s přihláškou průmyslového vzoru	2
-84	Na koho se můžu obrátit s registrací  ochranné známky	2
-85	Na koho se můžu obrátit s přihláškou ochranné známky	2
-86	Na koho se můžu obrátit s registrací  průmyslového designu	2
-87	Na koho se můžu obrátit s přihláškou průmyslového designu	2
-88	Na koho se můžu obrátit s registrací  ochranného označení	2
-89	Na koho se můžu obrátit s přihláškou ochranného označení	2
-90	Na koho se obrátit s registrací vynálezu	2
-91	Na koho se obrátit s přihláškou vynálezu	2
-92	Na koho se obrátit s registrací  patentu	2
-93	Na koho se obrátit s přihláškou patentu	2
-94	Na koho se obrátit s registrací  užitného vzoru	2
-95	Na koho se obrátit s přihláškou užitného vzoru	2
-96	Na koho se obrátit s registrací  průmyslového vzoru	2
-97	Na koho se obrátit s přihláškou průmyslového vzoru	2
-98	Na koho se obrátit s registrací  ochranné známky	2
-99	Na koho se obrátit s přihláškou ochranné známky	2
-100	Na koho se obrátit s registrací  průmyslového designu	2
-101	Na koho se obrátit s přihláškou průmyslového designu	2
-102	Na koho se obrátit s registrací  ochranného označení	2
-103	Na koho se obrátit s přihláškou ochranného označení	2
-104	Vymáhání práv z průmyslového vlastnictví	3
-105	Vymáhání práv	3
-106	Jak vymáhat práva	3
-107	Jak vymáhat právo	3
-108	Co je to vymáhání práva z průmyslového vlastnictví	3
-109	Co znamená vymáhání práva z průmyslového vlastnictví	3
-110	Jak vymáhat práva z průmyslového vlastnictví	3
-111	Co dělat v případě porušení práv průmyslového vlastnictví	3
-112	Co dělat v případě porušení práv	3
-113	Spory	4
-114	Spor	4
-115	Prosazování práv	4
-116	Prosazování práv z průmyslového vlastnictví	4
-117	Pomoc ve sporu	4
-118	Pomoc ve sporech	4
-119	Co dělat ve sporu	4
-120	Pomůžeš mi s prosazováním práv	4
-121	Pomůžete mi s prosazováním práv	4
-122	Jak postupovat při sporu	4
-123	Jak postupovat při sporech	4
-124	Poskytujete pomoc při prosazování práv	4
-125	Poskytujete pomoc při prosazování práv z průmyslového vlastnictví	4
-126	Poskytujete pomoc při ve sporech	4
-127	Poskytujete pomoc při ve sporu	4
-128	Jak probíhá prosazování práv z průmyslového vlastnictví	4
-129	Jak probíhá prosazování práv	4
-130	Pomáháte se zajištěním práv	4
-131	Pomáháte se prosazováním práv	4
-132	Pomáháte se zajištěním práv z průmyslového vlastnictví	4
-133	Pomáháte se prosazováním práv z průmyslového vlastnictví	4
-134	Může Úřad pomoci s prosazováním práv	4
-135	Může ÚPV pomoci s prosazováním práv	4
-136	Může Úřad pomoci ve sporech	4
-137	Může ÚPV pomoci ve sporech	4
-138	Může Úřad pomoci ve sporu	4
-139	Může ÚPV pomoci ve sporu	4
-140	Pomůže Úřad ve sporech	4
-141	Pomůže ÚPV ve sporech	4
-142	Pomůže vy ve sporech	4
-143	Můžu se na vás obrátit v prosazování svých práv	4
-144	Jak mi pomůžete s prosazováním práv	4
-145	Pomůžete mi ve sporu	4
-146	Chci vědět jeslti mi pomůžete při prosazování práv	4
-147	Chci vědět jeslti mi pomůžete při ve sporu	4
-148	Jak se můžu bránit ve sporu	4
-149	Jak se můžu bránit v prosazování práv	4
-150	Porušování práv z duševního vlastnictví	5
-151	porušení práv z duševního vlastnictví	5
-152	Kam se obrátit v případě porušení práv z duševního vlastnictví	5
-153	Na koho se obrátit v případě porušení práv z duševního vlastnictví	5
-154	Kde hledat pomoc při porušení práv duševního vlastnictví	5
-155	Kde hledat pomoc v případě porušení práv duševního vlastnictví	5
-156	Jak vymáhat práva z duševního vlastnictví	5
-157	Na koho se obrátit s vymáháním práv z duševního vlastnictví	5
-158	Kdo mi pomůže s vymáháním práv z duševního vlastnictví	5
-159	Kdo mi pomůže při porušení práv z duševního vlastnictví	5
-160	Jak chránit práva duševního vlastnictví	5
-161	Lhůta pro podání námitek	6
-162	Lhůta pro podání námitek proti zápisu	6
-163	Lhůta pro podání námitek proti zápisu přihlašovaného označení do rejstříku ochranných známek	6
-164	Jaká je lhůta pro podání námitek	6
-165	Zápis přihlašovaného označení	6
-166	Zápis přihlašovaného označení do rejstříku ochranných známek	6
-167	Lze prodloužit lhůtu pro podání námitek	6
-168	Do kdy můžu podat námitku proti zápisu	6
-169	Námitky	7
-170	Námitka	7
-171	Námitkové řízení	7
-172	Kdo může podat námitky	7
-173	Kdo může podat námitku	7
-174	Kdo má právo vznést námitku	7
-175	Kdo má právo vznést námitky	7
-176	Můžu podat námitku proti zápisu do rejstříku	7
-177	Jak probíhá námitkové řízení	7
-178	Můžu podat námitku proti zápisu	7
-179	Rozšíření námitky	8
-180	Nové důkazy při námitce	8
-181	Můžu námitku doplnit novými důkazy	8
-182	Můžu námitky doplnit novými důkazy	8
-183	Můžu námitku doplnit dokumentací	8
-184	Můžu námitky doplnit dokumentací	8
-185	Můžu námitku doplnit odůvodněním	8
-186	Můžu námitky doplnit odůvodněním	8
-187	Lze námitku doplnit novými důkazy	8
-188	Lze námitky doplnit novými důkazy	8
-189	Lze námitku doplnit dokumentací	8
-190	Lze námitky doplnit dokumentací	8
-191	Lze námitku rozšířit	8
-192	Je možné rozšířit námitku	8
-193	Obdržení námitky	9
-194	Co dělat když dostanu námitku	9
-195	Co dělat když obdržím námitku	9
-196	Jak postupovat když dostanu námitku	9
-197	Jak postupovat když obdržím námitku	9
-198	Jak postupovat při obdržení námitky	9
-199	Dostal jsme námitky, co mám dělat	9
-200	dostala jsme námitky, co mám dělat	9
-201	dostali jsme námitky, co mám dělat	9
-202	Dostal jsme námitky, co máme dělat	9
-203	dostala jsme námitky, co máme dělat	9
-204	dostali jsme námitky, co máme dělat	9
-205	Dostal jsme námitky, jak postupovat	9
-206	dostala jsme námitky, jak postupovat	9
-207	dostali jsme námitky, jak postupovat	9
-208	Dostal jsme námitky, co bude následovat	9
-209	dostala jsme námitky, co bude následovat	9
-210	dostali jsme námitky, co bude následovat	9
-211	Ochranná známka	10
-212	Ochranná známka s dobrým jménem	10
-213	Dobré jméno	10
-214	Renomé	10
-215	Co je ochranná známka s dobrým jménem	10
-216	Co je ochranná známka s dobrou pověsti	10
-217	Co je ochranná známka s renomé	10
-218	Co znamená dobrým jménem	10
-219	Co znamená dobrou pověsti	10
-220	Co znamená renomé	10
-221	Definice ochranné známky s dobrým jménem	10
-222	Definice ochranné známky s dobrou pověsti	10
-223	Definice ochranné známky s renomé	10
-224	Všeobecně známá známka	11
-225	Co je všeobecně známá známka	11
-226	Co znamená všeoobecně známá známka	11
-227	Definice všeobecně známé známky	11
-228	Místní dosah	12
-229	Co je místní dosah	12
-230	Co znamená místní dosah	12
-231	Co je místní dosah nezapsaného či jiného označení	12
-232	Co znamená místní dosah nezapsaného či jiného označení	12
-233	Definice místního dosahu	12
-234	Jaká je definice místního dosahu	12
-235	Připomínky	13
-236	Připomínka	13
-237	Kdo může podat připomínky	13
-238	Jaké jsou oprávněné osoby k podání připomínek	13
-239	Můžu podat připomínku	13
-240	Můžu podat připomínky	13
-241	Lhůta k podání připomínek	14
-242	Lhůta připomínky	14
-243	Jaká je lhůta k podání připomínek	14
-244	Do kdy můžu  podat přoipomínky	14
-245	Do kdy lze podat přoipomínky	14
-246	Poplatek námitky	15
-247	Poplatek námitka	15
-248	Poplatek připomínka	15
-249	Poplatek připomínky	15
-250	Správní poplatek námitky	15
-251	Správní poplatek námitka	15
-252	Správní poplatek připomínka	15
-253	Správní poplatek připomínky	15
-254	Jaký je správní poplatek za námitky	15
-255	Jaký je správní poplatek za námitku	15
-256	Jaký je správní poplatek za připomínku	15
-257	Jaký je správní poplatek za připomínky	15
-258	Výše správního poplatku za námitky	15
-259	Výše správního poplatku za námitku	15
-260	Výše správního poplatku za připomínku	15
-261	Výše správního poplatku za připomínky	15
-262	Jaká je výše správního poplatku za námitky	15
-263	Jaká je výše správního poplatku za námitku	15
-264	Jaká je výše správního poplatku za připomínku	15
-265	Jaká je výše správního poplatku za připomínky	15
-266	Podání námitky	16
-267	Podání námitek	16
-268	Formulář námitky	16
-269	Formulář námitek	16
-270	Kde najdu formulář námitky	16
-271	Kde najdu formulář námitek	16
-272	Jak podat námitku	16
-273	Jak podat námitky	16
-274	Co obsahuje formulář námitky	16
-275	Co musí obsahovat námitka	16
-276	Co musí obsahovat námitky	16
-277	Podání připomínky	17
-278	Formulář připomínky	17
-279	Kde najdu formulář připomínky	17
-280	Jak podat připomínky	17
-281	Co obsahuje formulář připomínky	17
-282	Co musí obsahovat připomínky	17
-283	Výmaz	18
-284	Výmaz ochranné známky	18
-285	Výmaz zaregistrované ochranné známky	18
-286	Je možný výmaz ochranné známky	18
-287	Jak dosáhnout výmazu ochranné známky	18
-288	Zrušení ochranné známky	19
-289	Neplatnost ochranné známky	19
-290	Zneplatnění ochranné známky	19
-291	Jaký je rozdíl mezi zrušením ochranné známky a prohlášením ochranné známky za neplatnou	19
-292	Co znamená zrušení ochranné známky	19
-293	Co znamená zneplatnění ochranné známky	19
-294	Řádné užívání ochranné známky	20
-295	Co je řádné užívání ochranné známky	20
-296	Co znamená řádné užívání ochranné známky	20
-297	Definice pojmu řádné užívání ochranné známky	20
-298	Patentové knihovny	21
-299	Patentová knihovna	21
-300	Co je patentová knihovna	21
-301	Jaké informace poskytuje patentová knihovna	21
-302	Jaké informace poskytují patentová knihovna	21
-303	Jaké informace poskytuje  patentové knihovny	21
-304	Jaké informace poskytují patentové knihovny	21
-305	Co najdu v patentové knihovně	21
-306	Jaké informace dohledám v patentové knihovně	21
-307	Jaké existují patentové knihovny	21
-308	Rešerše	22
-309	Jak získám rešerši	22
-310	Objednat rešerši	22
-311	Jak objednám rešerši	22
-312	Nabízíte rešerše	22
-313	Můžu získat rešerši	22
-314	Kde získám rešerši	22
-315	Kde objednám rešerši	22
-316	Je možné objednat rešerši	22
-317	Poskytujete rešerše	22
-318	Databáze ochranných známek	23
-319	Kde vyhledám informace o zaregistrované ochranné známce Existuje databáze ochranných známek	23
-320	Kde vyhledám informace o zaregistrovaných ochranné známce Existuje databáze ochranných známek	23
-321	Kde vyhledám informace o zaregistrované  ochranných známkách Existuje databáze ochranných známek	23
-322	Kde vyhledám informace o zaregistrovaných ochranných známkách Existuje databáze ochranných známek	23
-323	Kde najdu databázi ochraných známek	23
-324	Jak zjistím jeslti je ochranná známka zaregistrována	23
-325	Jak dohledat ochrannou známku	23
-326	Kde dohledat ochrannou známku	23
-327	Řekni mi kde najdu informace o zaregistrované ochranné známce	23
-328	Řekni mi kde najdu informace o zaregistrovaných ochranné známce	23
-329	Řekni mi kde najdu informace o zaregistrované  ochranných známkách	23
-330	Řekni mi kde najdu informace o zaregistrovaných ochranných známkách	23
-331	Řekni mi jestli existuje databáze ochranných známek	23
-332	Řekni mi jak dohledám ochrannou známku	23
-333	Řekni mi kde dohledám ochrannou známku	23
-334	Národní známková databáze	24
-335	Co obsahuje národní známková databáze	24
-336	Jaké informace poskytuje národní známková databáze	24
-337	Co najdu v národní známkové databázi	24
-338	Jak často je databáza aktualizována	24
-339	Jak často je národní známková databáze aktualizována	24
-340	Aktualizace databáze	24
-341	Aktualizace národní známkové databáze	24
-342	Aktuální stav patentu	25
-343	Aktuální stav ochranné známky	25
-344	Aktuální stav ochranných známek	25
-345	Aktuální stav průmyslových vzorů	25
-346	Aktuální stav užitných vzorů	25
-347	Aktuální stav označení původu	25
-348	Aktuální stav zeměpisných označení	25
-349	Jak získat informace o aktuálním právním stavu patentu	25
-350	kde získat informace o aktuálním právním stavu patentu	25
-351	Jak získat informace o aktuálním právním stavu ochranné známky	25
-352	kde získat informace o aktuálním právním stavu ochranné známky	25
-353	Jak získat informace o aktuálním právním stavu ochranných známek	25
-354	kde získat informace o aktuálním právním stavu ochranných známek	25
-355	Jak získat informace o aktuálním právním stavu průmyslových vzorů	25
-356	kde získat informace o aktuálním právním stavu průmyslových vzorů	25
-357	Jak získat informace o aktuálním právním stavu užitných vzorů	25
-358	kde získat informace o aktuálním právním stavu užitných vzorů	25
-359	Jak získat informace o aktuálním právním stavu označení původu	25
-360	kde získat informace o aktuálním právním stavu označení původu	25
-361	Jak získat informace o aktuálním právním stavu zeměpisných označení	25
-362	kde získat informace o aktuálním právním stavu zeměpisných označení	25
-363	Jak ověřím aktuální právní stav patentu	25
-364	Jak ověřím aktuální právní stav ochranné známky	25
-365	Jak ověřím aktuální právní stav ochranných známek	25
-366	Jak ověřím aktuální právní stav průmyslových vzorů	25
-367	Jak ověřím aktuální právní stav užitných vzorů	25
-368	Jak ověřím aktuální právní stav označení původu	25
-369	Jak ověřím aktuální právní stav zeměpisných označení	25
-370	Kde najdu informace o patentu	25
-371	Kde najdu informace o ochranné známce	25
-372	Kde najdu informace o ochranných známkých	25
-373	Kde najdu informace o průmyslových vzorech	25
-374	Kde najdu informace o užitných vzorech	25
-375	Kde najdu informace o označení původu	25
-376	Kde najdu informace o zeměpisném označení	25
-377	Rešerše v databázi ochranných známek	26
-378	Jak uskutečnit rešerši v databázi ochranných známek	26
-379	Jak vyhledávat data v databázi ochranných známek	26
-380	Vyhledávání dat v databázi ochranných známek	26
-381	Vyhledávání informací v databázi ochranných známek	26
-382	Kde najdu databázi ochranných známek	26
-383	Přínos rešerše	27
-384	vhodnost rešerše	27
-385	výhody rešerše	27
-386	Přínos průmyslověprávní rešerše	27
-387	vhodnost průmyslověprávní rešerše	27
-388	výhody průmyslověprávní rešerše	27
-389	Jaké výhody získám z průmyslověprávní rešerše	27
-390	Proč udělat průmyslověprávní rešerši	27
-391	Proč uskutečnit objednat průmyslověprávní rešerši	27
-392	Co jako firma získám při provedení průmyslověprávní rešerše	27
-393	Co jako společnost získám při provedení průmyslověprávní rešerše	27
-394	Co jako IČO získám při provedení průmyslověprávní rešerše	27
-395	Jaké výhody získá firma z provedení průmyslověprávní rešerše	27
-396	Jaké výhody získá společnost z provedení průmyslověprávní rešerše	27
-397	Jaké výhody získá IČO z provedení průmyslověprávní rešerše	27
-398	Obnova ochranné známky	28
-399	Prodloužení platnosti ochranné známky	28
-400	Žádost o obnovu zápisu ochranné známky	28
-401	Jak prodloužit platnost ochranné známky	28
-402	Forrmulář na obnovu zápisu ochranné známky	28
-403	Jak prodloužit ochrannou známku	28
-404	Kdy prodloužit ochrannou známku	28
-405	Formulář přihlašování ochranné známky	29
-406	Formulář registrace ochranné známky	29
-407	Formulář ochranné známky	29
-408	Žádost o mezinárodní zápis ochranné známky	29
-409	Formuláře žádosti o mezinárodní zápis ochranné známky	29
-410	Kde najdu formulář k přihlašování ochranné známky	29
-411	Kde najdu formulář k registraci ochranné známky	29
-412	Kde je formulář k přihlašování ochranné známky	29
-413	Jak přihlásit ochrannou známku	29
-414	Jak zaregistrovat ochrannou známku	29
-415	Jak zaregistrovat ochrannou známku do zahraničí	29
-416	Jaký formulář použiju při registraci ochranné známky v zahraničí	29
-417	Chci zaregistrovat ochrannou známku do zahraničí	29
-418	Mezinárodní ochranné známky	29
-419	Kolik stojí přihlášení ochranné známky	30
-420	Kolik stojí registrace ochranné známky	30
-421	Jaký je správní poplatek k přihlášení ochranné známky	30
-422	Jaký je správní poplatek k registraci ochranné známky	30
-423	Výše poplatku k registraci	30
-424	Výše poplatku k přihlášení ochranné známky	30
-425	Řekni mi jak přihlásit ochrannou známku	30
-426	Řekni mi jak zaregistrovat ochrannou známku	30
-427	Řekni mi kolik stojí přihlášení ochranné známky	30
-428	Řekni mi jaká je výše poplatku za registraci ochranné známky	30
-429	Řekni mi jaká je výše poplatku za přihlášení ochranné známky	30
-430	Řekni mi jak zaregistruju ochrannou známku do zahraničí	30
-431	Výrobky a služby v příhlášce ochranné známky	31
-432	Výrobky a služby v formuláři ochranné známky	31
-433	Výrobky a služby v při registraci ochranné známky	31
-434	Třídění výrobků a služeb v příhlášce ochranné známky	31
-435	Třídění výrobků a služeb v formuláři ochranné známky	31
-436	Třídění výrobků a služeb v při registraci ochranné známky	31
-437	Jakým způsobem se zatřiďují výrobky a služby, které je nutné uvést v přihlášce ochranné známky k zápisu do rejstříku ochranných známek	31
-438	Jak vybrat třídu výrobku ve formuláři ochranné známky	31
-439	Jak vybrat třídu služby ve formuláři ochranné známky	31
-440	Jak vybrat třídu výrobku  při registraci ochranné známky	31
-441	Jak vybrat třídu služby při registraci ochranné známky	31
-442	Jak vybrat třídu výrobku  v přihlášce ochranné známky	31
-443	Jak vybrat třídu služby v přihlášce ochranné známky	31
-444	®	32
-445	TM	32
-446	Symboly ©	32
-447	Symboly TM	32
-448	Nutnost uvádění symbolu ©	32
-449	povinnost uvádění symbolu ©	32
-450	Nutnost uvádění symbolu TM	32
-451	povinnost uvádění symbolu TM	32
-452	Je povinné uvádění symbolu ©	32
-453	Je povinné uvádění symbolu TM	32
-454	Musím uvádět ©	32
-455	Musím uvádět TM	32
-456	Musím uvádět symbol ©	32
-457	Musím uvádět symbol TM	32
-458	Co znamená symbol ©	32
-459	Co znamená znak ©	32
-460	Co znamená symbol  TM	32
-461	Co znamená znak TM	32
-462	Oceňování průmyslových práv	33
-463	Oceňování patentů	33
-464	Oceňování vynálezů	33
-465	Oceňování užitných vzorů	33
-466	Oceňování průmyslových vzorů	33
-467	Oceňování ochranných známek	33
-468	Jak se provádí oceňování průmyslových práv	33
-469	Jak se provádí oceňování patentů	33
-470	Jak se provádí oceňování vynálezů	33
-471	Jak se provádí oceňování užitných vzorů	33
-472	Jak se provádí oceňování průmyslových vzorů	33
-473	Jak se provádí oceňování ochranných známek	33
-474	Jaký je postup při oceňování průmyslových práv	33
-475	Jaký je postup při oceňování patentů	33
-476	Jaký je postup při oceňování vynálezů	33
-477	Jaký je postup při oceňování užitných vzorů	33
-478	Jaký je postup při oceňování průmyslových vzorů	33
-479	Jaký je postup při oceňování ochranných známek	33
-480	Kdo provádí oceňování průmyslových práv	33
-481	Kdo provádí oceňování patentů	33
-482	Kdo provádí oceňování vynálezů	33
-483	Kdo provádí oceňování užitných vzorů	33
-484	Kdo provádí oceňování průmyslových vzorů	33
-485	Kdo provádí oceňování ochranných známek	33
-486	Co je oceňování průmyslových práv	33
-487	Co je oceňování patentů	33
-488	Co je oceňování vynálezů	33
-489	Co je oceňování užitných vzorů	33
-490	Co je oceňování průmyslových vzorů	33
-491	Co je oceňování ochranných známek	33
-492	Jak Úřad podává informaci o zahájení řízení o zápisu převodu ochranné známky	34
-493	Jak Úřad podává informaci o zahájení řízení o zápisu převodu patentu	34
-494	Jak Úřad podává informaci o zahájení řízení o zápisu převodu průmyslového vzoru	34
-495	Jak Úřad podává informaci o zahájení řízení o zápisu převodu užitného vzoru	34
-496	Jak získám informaci o zápisu převodu ochranné známky	34
-497	Jak získám informaci o zápisu převodu patentu	34
-498	Jak získám informaci o zápisu převodu průmyslového vzoru	34
-499	Jak získám informaci o zápisu převodu užitného vzoru	34
-500	Jakým způsobem získám informaci o zápisu převodu ochranné známky	34
-501	Jakým způsobem získám informaci o zápisu převodu patentu	34
-502	Jakým způsobem získám informaci o zápisu převodu průmyslového vzoru	34
-503	Jakým způsobem získám informaci o zápisu převodu užitného vzoru	34
-504	Žádost o zápis převodu	35
-505	Žádost o zápis licence	35
-506	Žádost o zápis zástavy	35
-507	Jakou formu mají mít doklady k žádostem o zápis převodu	35
-508	Jakou formu mají mít dokumenty k žádostem o zápis převodu	35
-509	Jakou formu mají mít doklady k žádostem o zápis licence	35
-510	Jakou formu mají mít dokumenty k žádostem o zápis licence	35
-511	Jakou formu mají mít doklady k žádostem o zápis zástavy	35
-512	Jakou formu mají mít dokumenty k žádostem o zápis zástavy	35
-513	Prezidiální plná moc	36
-514	Co je to prezidiální plná moc	36
-515	Jakým způsobem je prezidiální plná moc evidována u Úřadu	36
-516	Jaké jsou náležitosti prezidiální plné moci	36
-517	Nahlížení do správního spisu	37
-518	Za jakých podmínek lze nahlížet do správního spisu	37
-519	Jaké jsou podmínky nahlížení do správního spisu	37
-520	Můžu nahlížet do správního spisu	37
-521	Obnova	38
-522	Prodloužení platnosti	38
-523	Udržovací poplatky	38
-524	Jak požádat o obnovu nebo prodloužení platnosti u ochranných známek	38
-525	Jak požádat o obnovu nebo prodloužení platnosti u užitných vzorů	38
-526	Jak požádat o obnovu nebo prodloužení platnosti u průmyslových vzorů	38
-527	Jak postupovat při placení udržovacích poplatků u patentů	38
-528	Výpis z rejstříku	39
-529	Kdo může požádat o výpis z rejstříku	39
-530	Kdo si může zažádat o výpis z rejstříku	39
-531	Opis	40
-532	Opis listiny	40
-533	Komu může být vydán opis listiny vydané Úřadem	40
-534	Můžu požádat o opis listiny	40
-535	Doklad o zaplacení	41
-536	Jak získat doklad do účetnictví o zaplacení za přihlášku vynálezu nebo za uhrazení udržovacích poplatků	41
-537	Kde získám doklad o zaplacení	41
-538	jak získám doklad o zaplacení	41
-539	Jaká je platnost ochranné známky	42
-540	Zajímá mě platnost ochranné známky	42
-541	Může přihlášku ochranné známky podat fyzická osoba	43
-542	Je možné podat přihlášku ochranné známky jako fyzická osoba	43
-543	Výmaz ochranné známky vlastníkem	44
-544	Jaký je postup při výmazu ochranné známky z rejstříku jejím vlastníkem	44
-545	Jak postupovat při výmazu ochranné známky z rejstříku jejím vlastníkem	44
-546	Změna znění nebo vzhledu zapsané ochranné známky	45
-547	Je možná změna znění nebo vzhledu zapsané ochranné známky	45
-548	Změna vlastníka ochranné známky	46
-549	Jak změnit vlastníka ochranné známky	46
-550	Jakým způsobem změnit vlastníka ochranné známky	46
-551	Web jako ochranná známka	47
-552	webová stránka jako ochranná známka	47
-553	Je možné název webu ochránit jako ochrannou známku	47
-554	Je možné název webových stránek ochránit jako ochrannou známku	47
-555	Můžu zaregistrovat název webu jako ochrannou známku	47
-556	Můžu zaregistrovat název webových stránek jako ochrannou známku	47
-557	Doba řízení národní přihlášky ochranné známky	48
-558	V jakém časovém horizontu po registraci ochranné známky dojde k jejím zápisu do registru	48
-559	Za jak dlouho bude národní ochranná známka zaregistrována	48
-560	Uplynutí doby platnosti zápisu ochranné známky	49
-561	Upozorňuje Úřad na uplynutí doby platnosti zápisu ochranné známky	49
+0	co je dusevni vlastnictvi	0
+1	co znamena dusevni vlastnictvi	0
+2	dusevni vlastnictvi je	0
+3	definice dusevniho vlastnictvi	0
+4	jak definovat dusevni vlastnictvi	0
+5	co predstavuje dusevni vlastnictvi	0
+6	ochrana predmetu technickeho charakteru	1
+7	ochrana predmetu technickeho typu	1
+8	ochrana technickych reseni	1
+9	jak chranit technicke reseni	1
+10	zpusob ochrany predmetu technickeho charakteru	1
+11	zpusob ochrany predmetu technickeho typu	1
+12	zpusob ochrany technickych reseni	1
+13	zpusob ochrany technickeho reseni	1
+14	jak zajistit technicke reseni	1
+15	jak zajistit technicka reseni	1
+16	moznosti ochrany predmetu technickeho charakteru	1
+17	moznosti ochrany predmetu technickeho typu	1
+18	moznosti ochrany technickeho reseni	1
+19	moznosti ochrany technickych reseni	1
+20	pomoc s registraci vynalezu	2
+21	pomoc s prihlaskou vynalezu	2
+22	pomoc s registraci  patentu	2
+23	pomoc s prihlaskou patentu	2
+24	pomoc s registraci  uzitneho vzoru	2
+25	pomoc s prihlaskou uzitneho vzoru	2
+26	pomoc s registraci  prumysloveho vzoru	2
+27	pomoc s prihlaskou prumysloveho vzoru	2
+28	pomoc s registraci  ochranne znamky	2
+29	pomoc s prihlaskou ochranne znamky	2
+30	pomoc s registraci  prumysloveho designu	2
+31	pomoc s prihlaskou prumysloveho designu	2
+32	pomoc s registraci  ochranneho oznaceni	2
+33	pomoc s prihlaskou ochranneho oznaceni	2
+34	kdo pomuze s prihlaskou vynalezu	2
+35	kdo pomuze s prihlasovanim vynalezu	2
+36	kdo pomuze s prihlaskou  patentu	2
+37	kdo pomuze s prihlasovanim patentu	2
+38	kdo pomuze s prihlaskou  uzitneho vzoru	2
+39	kdo pomuze s prihlasovanim uzitneho vzoru	2
+40	kdo pomuze s prihlaskou  prumysloveho vzoru	2
+41	kdo pomuze s prihlasovanim prumysloveho vzoru	2
+42	kdo pomuze s prihlaskou  ochranne znamky	2
+43	kdo pomuze s prihlasovanim ochranne znamky	2
+44	kdo pomuze s prihlaskou  prumysloveho designu	2
+45	kdo pomuze s prihlasovanim prumysloveho designu	2
+46	kdo pomuze s prihlaskou  ochranneho oznaceni	2
+47	kdo pomuze s prihlasovanim ochranneho oznaceni	2
+48	kdo poskytne pomoc s registraci vynalezu	2
+49	kdo poskytne pomoc s prihlaskou vynalezu	2
+50	kdo poskytne pomoc s registraci  patentu	2
+51	kdo poskytne pomoc s prihlaskou patentu	2
+52	kdo poskytne pomoc s registraci  uzitneho vzoru	2
+53	kdo poskytne pomoc s prihlaskou uzitneho vzoru	2
+54	kdo poskytne pomoc s registraci  prumysloveho vzoru	2
+55	kdo poskytne pomoc s prihlaskou prumysloveho vzoru	2
+56	kdo poskytne pomoc s registraci  ochranne znamky	2
+57	kdo poskytne pomoc s prihlaskou ochranne znamky	2
+58	kdo poskytne pomoc s registraci  prumysloveho designu	2
+59	kdo poskytne pomoc s prihlaskou prumysloveho designu	2
+60	kdo poskytne pomoc s registraci  ochranneho oznaceni	2
+61	kdo poskytne pomoc s prihlaskou ochranneho oznaceni	2
+62	pomuzete mi s registraci vynalezu	2
+63	pomuzete mi s prihlaskou vynalezu	2
+64	pomuzete mi s registraci  patentu	2
+65	pomuzete mi s prihlaskou patentu	2
+66	pomuzete mi s registraci  uzitneho vzoru	2
+67	pomuzete mi s prihlaskou uzitneho vzoru	2
+68	pomuzete mi s registraci  prumysloveho vzoru	2
+69	pomuzete mi s prihlaskou prumysloveho vzoru	2
+70	pomuzete mi s registraci  ochranne znamky	2
+71	pomuzete mi s prihlaskou ochranne znamky	2
+72	pomuzete mi s registraci  prumysloveho designu	2
+73	pomuzete mi s prihlaskou prumysloveho designu	2
+74	pomuzete mi s registraci  ochranneho oznaceni	2
+75	pomuzete mi s prihlaskou ochranneho oznaceni	2
+76	na koho se muzu obratit s registraci vynalezu	2
+77	na koho se muzu obratit s prihlaskou vynalezu	2
+78	na koho se muzu obratit s registraci  patentu	2
+79	na koho se muzu obratit s prihlaskou patentu	2
+80	na koho se muzu obratit s registraci  uzitneho vzoru	2
+81	na koho se muzu obratit s prihlaskou uzitneho vzoru	2
+82	na koho se muzu obratit s registraci  prumysloveho vzoru	2
+83	na koho se muzu obratit s prihlaskou prumysloveho vzoru	2
+84	na koho se muzu obratit s registraci  ochranne znamky	2
+85	na koho se muzu obratit s prihlaskou ochranne znamky	2
+86	na koho se muzu obratit s registraci  prumysloveho designu	2
+87	na koho se muzu obratit s prihlaskou prumysloveho designu	2
+88	na koho se muzu obratit s registraci  ochranneho oznaceni	2
+89	na koho se muzu obratit s prihlaskou ochranneho oznaceni	2
+90	na koho se obratit s registraci vynalezu	2
+91	na koho se obratit s prihlaskou vynalezu	2
+92	na koho se obratit s registraci  patentu	2
+93	na koho se obratit s prihlaskou patentu	2
+94	na koho se obratit s registraci  uzitneho vzoru	2
+95	na koho se obratit s prihlaskou uzitneho vzoru	2
+96	na koho se obratit s registraci  prumysloveho vzoru	2
+97	na koho se obratit s prihlaskou prumysloveho vzoru	2
+98	na koho se obratit s registraci  ochranne znamky	2
+99	na koho se obratit s prihlaskou ochranne znamky	2
+100	na koho se obratit s registraci  prumysloveho designu	2
+101	na koho se obratit s prihlaskou prumysloveho designu	2
+102	na koho se obratit s registraci  ochranneho oznaceni	2
+103	na koho se obratit s prihlaskou ochranneho oznaceni	2
+104	vymahani prav z prumysloveho vlastnictvi	3
+105	vymahani prav	3
+106	jak vymahat prava	3
+107	jak vymahat pravo	3
+108	co je to vymahani prava z prumysloveho vlastnictvi	3
+109	co znamena vymahani prava z prumysloveho vlastnictvi	3
+110	jak vymahat prava z prumysloveho vlastnictvi	3
+111	co delat v pripade poruseni prav prumysloveho vlastnictvi	3
+112	co delat v pripade poruseni prav	3
+113	spory	4
+114	spor	4
+115	prosazovani prav	4
+116	prosazovani prav z prumysloveho vlastnictvi	4
+117	pomoc ve sporu	4
+118	pomoc ve sporech	4
+119	co delat ve sporu	4
+120	pomuzes mi s prosazovanim prav	4
+121	pomuzete mi s prosazovanim prav	4
+122	jak postupovat pri sporu	4
+123	jak postupovat pri sporech	4
+124	poskytujete pomoc pri prosazovani prav	4
+125	poskytujete pomoc pri prosazovani prav z prumysloveho vlastnictvi	4
+126	poskytujete pomoc pri ve sporech	4
+127	poskytujete pomoc pri ve sporu	4
+128	jak probiha prosazovani prav z prumysloveho vlastnictvi	4
+129	jak probiha prosazovani prav	4
+130	pomahate se zajistenim prav	4
+131	pomahate se prosazovanim prav	4
+132	pomahate se zajistenim prav z prumysloveho vlastnictvi	4
+133	pomahate se prosazovanim prav z prumysloveho vlastnictvi	4
+134	muze urad pomoci s prosazovanim prav	4
+135	muze upv pomoci s prosazovanim prav	4
+136	muze urad pomoci ve sporech	4
+137	muze upv pomoci ve sporech	4
+138	muze urad pomoci ve sporu	4
+139	muze upv pomoci ve sporu	4
+140	pomuze urad ve sporech	4
+141	pomuze upv ve sporech	4
+142	pomuze vy ve sporech	4
+143	muzu se na vas obratit v prosazovani svych prav	4
+144	jak mi pomuzete s prosazovanim prav	4
+145	pomuzete mi ve sporu	4
+146	chci vedet jeslti mi pomuzete pri prosazovani prav	4
+147	chci vedet jeslti mi pomuzete pri ve sporu	4
+148	jak se muzu branit ve sporu	4
+149	jak se muzu branit v prosazovani prav	4
+150	porusovani prav z dusevniho vlastnictvi	5
+151	poruseni prav z dusevniho vlastnictvi	5
+152	kam se obratit v pripade poruseni prav z dusevniho vlastnictvi	5
+153	na koho se obratit v pripade poruseni prav z dusevniho vlastnictvi	5
+154	kde hledat pomoc pri poruseni prav dusevniho vlastnictvi	5
+155	kde hledat pomoc v pripade poruseni prav dusevniho vlastnictvi	5
+156	jak vymahat prava z dusevniho vlastnictvi	5
+157	na koho se obratit s vymahanim prav z dusevniho vlastnictvi	5
+158	kdo mi pomuze s vymahanim prav z dusevniho vlastnictvi	5
+159	kdo mi pomuze pri poruseni prav z dusevniho vlastnictvi	5
+160	jak chranit prava dusevniho vlastnictvi	5
+161	lhuta pro podani namitek	6
+162	lhuta pro podani namitek proti zapisu	6
+163	lhuta pro podani namitek proti zapisu prihlasovaneho oznaceni do rejstriku ochrannych znamek	6
+164	jaka je lhuta pro podani namitek	6
+165	zapis prihlasovaneho oznaceni	6
+166	zapis prihlasovaneho oznaceni do rejstriku ochrannych znamek	6
+167	lze prodlouzit lhutu pro podani namitek	6
+168	do kdy muzu podat namitku proti zapisu	6
+169	namitky	7
+170	namitka	7
+171	namitkove rizeni	7
+172	kdo muze podat namitky	7
+173	kdo muze podat namitku	7
+174	kdo ma pravo vznest namitku	7
+175	kdo ma pravo vznest namitky	7
+176	muzu podat namitku proti zapisu do rejstriku	7
+177	jak probiha namitkove rizeni	7
+178	muzu podat namitku proti zapisu	7
+179	rozsireni namitky	8
+180	nove dukazy pri namitce	8
+181	muzu namitku doplnit novymi dukazy	8
+182	muzu namitky doplnit novymi dukazy	8
+183	muzu namitku doplnit dokumentaci	8
+184	muzu namitky doplnit dokumentaci	8
+185	muzu namitku doplnit oduvodnenim	8
+186	muzu namitky doplnit oduvodnenim	8
+187	lze namitku doplnit novymi dukazy	8
+188	lze namitky doplnit novymi dukazy	8
+189	lze namitku doplnit dokumentaci	8
+190	lze namitky doplnit dokumentaci	8
+191	lze namitku rozsirit	8
+192	je mozne rozsirit namitku	8
+193	obdrzeni namitky	9
+194	co delat kdyz dostanu namitku	9
+195	co delat kdyz obdrzim namitku	9
+196	jak postupovat kdyz dostanu namitku	9
+197	jak postupovat kdyz obdrzim namitku	9
+198	jak postupovat pri obdrzeni namitky	9
+199	dostal jsme namitky, co mam delat	9
+200	dostala jsme namitky, co mam delat	9
+201	dostali jsme namitky, co mam delat	9
+202	dostal jsme namitky, co mame delat	9
+203	dostala jsme namitky, co mame delat	9
+204	dostali jsme namitky, co mame delat	9
+205	dostal jsme namitky, jak postupovat	9
+206	dostala jsme namitky, jak postupovat	9
+207	dostali jsme namitky, jak postupovat	9
+208	dostal jsme namitky, co bude nasledovat	9
+209	dostala jsme namitky, co bude nasledovat	9
+210	dostali jsme namitky, co bude nasledovat	9
+211	ochranna znamka	10
+212	ochranna znamka s dobrym jmenem	10
+213	dobre jmeno	10
+214	renome	10
+215	co je ochranna znamka s dobrym jmenem	10
+216	co je ochranna znamka s dobrou povesti	10
+217	co je ochranna znamka s renome	10
+218	co znamena dobrym jmenem	10
+219	co znamena dobrou povesti	10
+220	co znamena renome	10
+221	definice ochranne znamky s dobrym jmenem	10
+222	definice ochranne znamky s dobrou povesti	10
+223	definice ochranne znamky s renome	10
+224	vseobecne znama znamka	11
+225	co je vseobecne znama znamka	11
+226	co znamena vseoobecne znama znamka	11
+227	definice vseobecne zname znamky	11
+228	mistni dosah	12
+229	co je mistni dosah	12
+230	co znamena mistni dosah	12
+231	co je mistni dosah nezapsaneho ci jineho oznaceni	12
+232	co znamena mistni dosah nezapsaneho ci jineho oznaceni	12
+233	definice mistniho dosahu	12
+234	jaka je definice mistniho dosahu	12
+235	pripominky	13
+236	pripominka	13
+237	kdo muze podat pripominky	13
+238	jake jsou opravnene osoby k podani pripominek	13
+239	muzu podat pripominku	13
+240	muzu podat pripominky	13
+241	lhuta k podani pripominek	14
+242	lhuta pripominky	14
+243	jaka je lhuta k podani pripominek	14
+244	do kdy muzu  podat proipominky	14
+245	do kdy lze podat proipominky	14
+246	poplatek namitky	15
+247	poplatek namitka	15
+248	poplatek pripominka	15
+249	poplatek pripominky	15
+250	spravni poplatek namitky	15
+251	spravni poplatek namitka	15
+252	spravni poplatek pripominka	15
+253	spravni poplatek pripominky	15
+254	jaky je spravni poplatek za namitky	15
+255	jaky je spravni poplatek za namitku	15
+256	jaky je spravni poplatek za pripominku	15
+257	jaky je spravni poplatek za pripominky	15
+258	vyse spravniho poplatku za namitky	15
+259	vyse spravniho poplatku za namitku	15
+260	vyse spravniho poplatku za pripominku	15
+261	vyse spravniho poplatku za pripominky	15
+262	jaka je vyse spravniho poplatku za namitky	15
+263	jaka je vyse spravniho poplatku za namitku	15
+264	jaka je vyse spravniho poplatku za pripominku	15
+265	jaka je vyse spravniho poplatku za pripominky	15
+266	podani namitky	16
+267	podani namitek	16
+268	formular namitky	16
+269	formular namitek	16
+270	kde najdu formular namitky	16
+271	kde najdu formular namitek	16
+272	jak podat namitku	16
+273	jak podat namitky	16
+274	co obsahuje formular namitky	16
+275	co musi obsahovat namitka	16
+276	co musi obsahovat namitky	16
+277	podani pripominky	17
+278	formular pripominky	17
+279	kde najdu formular pripominky	17
+280	jak podat pripominky	17
+281	co obsahuje formular pripominky	17
+282	co musi obsahovat pripominky	17
+283	vymaz	18
+284	vymaz ochranne znamky	18
+285	vymaz zaregistrovane ochranne znamky	18
+286	je mozny vymaz ochranne znamky	18
+287	jak dosahnout vymazu ochranne znamky	18
+288	zruseni ochranne znamky	19
+289	neplatnost ochranne znamky	19
+290	zneplatneni ochranne znamky	19
+291	jaky je rozdil mezi zrusenim ochranne znamky a prohlasenim ochranne znamky za neplatnou	19
+292	co znamena zruseni ochranne znamky	19
+293	co znamena zneplatneni ochranne znamky	19
+294	radne uzivani ochranne znamky	20
+295	co je radne uzivani ochranne znamky	20
+296	co znamena radne uzivani ochranne znamky	20
+297	definice pojmu radne uzivani ochranne znamky	20
+298	patentove knihovny	21
+299	patentova knihovna	21
+300	co je patentova knihovna	21
+301	jake informace poskytuje patentova knihovna	21
+302	jake informace poskytuji patentova knihovna	21
+303	jake informace poskytuje  patentove knihovny	21
+304	jake informace poskytuji patentove knihovny	21
+305	co najdu v patentove knihovne	21
+306	jake informace dohledam v patentove knihovne	21
+307	jake existuji patentove knihovny	21
+308	reserse	22
+309	jak ziskam resersi	22
+310	objednat resersi	22
+311	jak objednam resersi	22
+312	nabizite reserse	22
+313	muzu ziskat resersi	22
+314	kde ziskam resersi	22
+315	kde objednam resersi	22
+316	je mozne objednat resersi	22
+317	poskytujete reserse	22
+318	databaze ochrannych znamek	23
+319	kde vyhledam informace o zaregistrovane ochranne znamce existuje databaze ochrannych znamek	23
+320	kde vyhledam informace o zaregistrovanych ochranne znamce existuje databaze ochrannych znamek	23
+321	kde vyhledam informace o zaregistrovane  ochrannych znamkach existuje databaze ochrannych znamek	23
+322	kde vyhledam informace o zaregistrovanych ochrannych znamkach existuje databaze ochrannych znamek	23
+323	kde najdu databazi ochranych znamek	23
+324	jak zjistim jeslti je ochranna znamka zaregistrovana	23
+325	jak dohledat ochrannou znamku	23
+326	kde dohledat ochrannou znamku	23
+327	rekni mi kde najdu informace o zaregistrovane ochranne znamce	23
+328	rekni mi kde najdu informace o zaregistrovanych ochranne znamce	23
+329	rekni mi kde najdu informace o zaregistrovane  ochrannych znamkach	23
+330	rekni mi kde najdu informace o zaregistrovanych ochrannych znamkach	23
+331	rekni mi jestli existuje databaze ochrannych znamek	23
+332	rekni mi jak dohledam ochrannou znamku	23
+333	rekni mi kde dohledam ochrannou znamku	23
+334	narodni znamkova databaze	24
+335	co obsahuje narodni znamkova databaze	24
+336	jake informace poskytuje narodni znamkova databaze	24
+337	co najdu v narodni znamkove databazi	24
+338	jak casto je databaza aktualizovana	24
+339	jak casto je narodni znamkova databaze aktualizovana	24
+340	aktualizace databaze	24
+341	aktualizace narodni znamkove databaze	24
+342	aktualni stav patentu	25
+343	aktualni stav ochranne znamky	25
+344	aktualni stav ochrannych znamek	25
+345	aktualni stav prumyslovych vzoru	25
+346	aktualni stav uzitnych vzoru	25
+347	aktualni stav oznaceni puvodu	25
+348	aktualni stav zemepisnych oznaceni	25
+349	jak ziskat informace o aktualnim pravnim stavu patentu	25
+350	kde ziskat informace o aktualnim pravnim stavu patentu	25
+351	jak ziskat informace o aktualnim pravnim stavu ochranne znamky	25
+352	kde ziskat informace o aktualnim pravnim stavu ochranne znamky	25
+353	jak ziskat informace o aktualnim pravnim stavu ochrannych znamek	25
+354	kde ziskat informace o aktualnim pravnim stavu ochrannych znamek	25
+355	jak ziskat informace o aktualnim pravnim stavu prumyslovych vzoru	25
+356	kde ziskat informace o aktualnim pravnim stavu prumyslovych vzoru	25
+357	jak ziskat informace o aktualnim pravnim stavu uzitnych vzoru	25
+358	kde ziskat informace o aktualnim pravnim stavu uzitnych vzoru	25
+359	jak ziskat informace o aktualnim pravnim stavu oznaceni puvodu	25
+360	kde ziskat informace o aktualnim pravnim stavu oznaceni puvodu	25
+361	jak ziskat informace o aktualnim pravnim stavu zemepisnych oznaceni	25
+362	kde ziskat informace o aktualnim pravnim stavu zemepisnych oznaceni	25
+363	jak overim aktualni pravni stav patentu	25
+364	jak overim aktualni pravni stav ochranne znamky	25
+365	jak overim aktualni pravni stav ochrannych znamek	25
+366	jak overim aktualni pravni stav prumyslovych vzoru	25
+367	jak overim aktualni pravni stav uzitnych vzoru	25
+368	jak overim aktualni pravni stav oznaceni puvodu	25
+369	jak overim aktualni pravni stav zemepisnych oznaceni	25
+370	kde najdu informace o patentu	25
+371	kde najdu informace o ochranne znamce	25
+372	kde najdu informace o ochrannych znamkych	25
+373	kde najdu informace o prumyslovych vzorech	25
+374	kde najdu informace o uzitnych vzorech	25
+375	kde najdu informace o oznaceni puvodu	25
+376	kde najdu informace o zemepisnem oznaceni	25
+377	reserse v databazi ochrannych znamek	26
+378	jak uskutecnit resersi v databazi ochrannych znamek	26
+379	jak vyhledavat data v databazi ochrannych znamek	26
+380	vyhledavani dat v databazi ochrannych znamek	26
+381	vyhledavani informaci v databazi ochrannych znamek	26
+382	kde najdu databazi ochrannych znamek	26
+383	prinos reserse	27
+384	vhodnost reserse	27
+385	vyhody reserse	27
+386	prinos prumyslovepravni reserse	27
+387	vhodnost prumyslovepravni reserse	27
+388	vyhody prumyslovepravni reserse	27
+389	jake vyhody ziskam z prumyslovepravni reserse	27
+390	proc udelat prumyslovepravni resersi	27
+391	proc uskutecnit objednat prumyslovepravni resersi	27
+392	co jako firma ziskam pri provedeni prumyslovepravni reserse	27
+393	co jako spolecnost ziskam pri provedeni prumyslovepravni reserse	27
+394	co jako ico ziskam pri provedeni prumyslovepravni reserse	27
+395	jake vyhody ziska firma z provedeni prumyslovepravni reserse	27
+396	jake vyhody ziska spolecnost z provedeni prumyslovepravni reserse	27
+397	jake vyhody ziska ico z provedeni prumyslovepravni reserse	27
+398	obnova ochranne znamky	28
+399	prodlouzeni platnosti ochranne znamky	28
+400	zadost o obnovu zapisu ochranne znamky	28
+401	jak prodlouzit platnost ochranne znamky	28
+402	forrmular na obnovu zapisu ochranne znamky	28
+403	jak prodlouzit ochrannou znamku	28
+404	kdy prodlouzit ochrannou znamku	28
+405	formular prihlasovani ochranne znamky	29
+406	formular registrace ochranne znamky	29
+407	formular ochranne znamky	29
+408	zadost o mezinarodni zapis ochranne znamky	29
+409	formulare zadosti o mezinarodni zapis ochranne znamky	29
+410	kde najdu formular k prihlasovani ochranne znamky	29
+411	kde najdu formular k registraci ochranne znamky	29
+412	kde je formular k prihlasovani ochranne znamky	29
+413	jak prihlasit ochrannou znamku	29
+414	jak zaregistrovat ochrannou znamku	29
+415	jak zaregistrovat ochrannou znamku do zahranici	29
+416	jaky formular pouziju pri registraci ochranne znamky v zahranici	29
+417	chci zaregistrovat ochrannou znamku do zahranici	29
+418	mezinarodni ochranne znamky	29
+419	kolik stoji prihlaseni ochranne znamky	30
+420	kolik stoji registrace ochranne znamky	30
+421	jaky je spravni poplatek k prihlaseni ochranne znamky	30
+422	jaky je spravni poplatek k registraci ochranne znamky	30
+423	vyse poplatku k registraci	30
+424	vyse poplatku k prihlaseni ochranne znamky	30
+425	rekni mi jak prihlasit ochrannou znamku	30
+426	rekni mi jak zaregistrovat ochrannou znamku	30
+427	rekni mi kolik stoji prihlaseni ochranne znamky	30
+428	rekni mi jaka je vyse poplatku za registraci ochranne znamky	30
+429	rekni mi jaka je vyse poplatku za prihlaseni ochranne znamky	30
+430	rekni mi jak zaregistruju ochrannou znamku do zahranici	30
+431	vyrobky a sluzby v prihlasce ochranne znamky	31
+432	vyrobky a sluzby v formulari ochranne znamky	31
+433	vyrobky a sluzby v pri registraci ochranne znamky	31
+434	trideni vyrobku a sluzeb v prihlasce ochranne znamky	31
+435	trideni vyrobku a sluzeb v formulari ochranne znamky	31
+436	trideni vyrobku a sluzeb v pri registraci ochranne znamky	31
+437	jakym zpusobem se zatriduji vyrobky a sluzby, ktere je nutne uvest v prihlasce ochranne znamky k zapisu do rejstriku ochrannych znamek	31
+438	jak vybrat tridu vyrobku ve formulari ochranne znamky	31
+439	jak vybrat tridu sluzby ve formulari ochranne znamky	31
+440	jak vybrat tridu vyrobku  pri registraci ochranne znamky	31
+441	jak vybrat tridu sluzby pri registraci ochranne znamky	31
+442	jak vybrat tridu vyrobku  v prihlasce ochranne znamky	31
+443	jak vybrat tridu sluzby v prihlasce ochranne znamky	31
+444	(R)	32
+445	tm	32
+446	symboly (C)	32
+447	symboly tm	32
+448	nutnost uvadeni symbolu (C)	32
+449	povinnost uvadeni symbolu (C)	32
+450	nutnost uvadeni symbolu tm	32
+451	povinnost uvadeni symbolu tm	32
+452	je povinne uvadeni symbolu (C)	32
+453	je povinne uvadeni symbolu tm	32
+454	musim uvadet (C)	32
+455	musim uvadet tm	32
+456	musim uvadet symbol (C)	32
+457	musim uvadet symbol tm	32
+458	co znamena symbol (C)	32
+459	co znamena znak (C)	32
+460	co znamena symbol  tm	32
+461	co znamena znak tm	32
+462	ocenovani prumyslovych prav	33
+463	ocenovani patentu	33
+464	ocenovani vynalezu	33
+465	ocenovani uzitnych vzoru	33
+466	ocenovani prumyslovych vzoru	33
+467	ocenovani ochrannych znamek	33
+468	jak se provadi ocenovani prumyslovych prav	33
+469	jak se provadi ocenovani patentu	33
+470	jak se provadi ocenovani vynalezu	33
+471	jak se provadi ocenovani uzitnych vzoru	33
+472	jak se provadi ocenovani prumyslovych vzoru	33
+473	jak se provadi ocenovani ochrannych znamek	33
+474	jaky je postup pri ocenovani prumyslovych prav	33
+475	jaky je postup pri ocenovani patentu	33
+476	jaky je postup pri ocenovani vynalezu	33
+477	jaky je postup pri ocenovani uzitnych vzoru	33
+478	jaky je postup pri ocenovani prumyslovych vzoru	33
+479	jaky je postup pri ocenovani ochrannych znamek	33
+480	kdo provadi ocenovani prumyslovych prav	33
+481	kdo provadi ocenovani patentu	33
+482	kdo provadi ocenovani vynalezu	33
+483	kdo provadi ocenovani uzitnych vzoru	33
+484	kdo provadi ocenovani prumyslovych vzoru	33
+485	kdo provadi ocenovani ochrannych znamek	33
+486	co je ocenovani prumyslovych prav	33
+487	co je ocenovani patentu	33
+488	co je ocenovani vynalezu	33
+489	co je ocenovani uzitnych vzoru	33
+490	co je ocenovani prumyslovych vzoru	33
+491	co je ocenovani ochrannych znamek	33
+492	jak urad podava informaci o zahajeni rizeni o zapisu prevodu ochranne znamky	34
+493	jak urad podava informaci o zahajeni rizeni o zapisu prevodu patentu	34
+494	jak urad podava informaci o zahajeni rizeni o zapisu prevodu prumysloveho vzoru	34
+495	jak urad podava informaci o zahajeni rizeni o zapisu prevodu uzitneho vzoru	34
+496	jak ziskam informaci o zapisu prevodu ochranne znamky	34
+497	jak ziskam informaci o zapisu prevodu patentu	34
+498	jak ziskam informaci o zapisu prevodu prumysloveho vzoru	34
+499	jak ziskam informaci o zapisu prevodu uzitneho vzoru	34
+500	jakym zpusobem ziskam informaci o zapisu prevodu ochranne znamky	34
+501	jakym zpusobem ziskam informaci o zapisu prevodu patentu	34
+502	jakym zpusobem ziskam informaci o zapisu prevodu prumysloveho vzoru	34
+503	jakym zpusobem ziskam informaci o zapisu prevodu uzitneho vzoru	34
+504	zadost o zapis prevodu	35
+505	zadost o zapis licence	35
+506	zadost o zapis zastavy	35
+507	jakou formu maji mit doklady k zadostem o zapis prevodu	35
+508	jakou formu maji mit dokumenty k zadostem o zapis prevodu	35
+509	jakou formu maji mit doklady k zadostem o zapis licence	35
+510	jakou formu maji mit dokumenty k zadostem o zapis licence	35
+511	jakou formu maji mit doklady k zadostem o zapis zastavy	35
+512	jakou formu maji mit dokumenty k zadostem o zapis zastavy	35
+513	prezidialni plna moc	36
+514	co je to prezidialni plna moc	36
+515	jakym zpusobem je prezidialni plna moc evidovana u uradu	36
+516	jake jsou nalezitosti prezidialni plne moci	36
+517	nahlizeni do spravniho spisu	37
+518	za jakych podminek lze nahlizet do spravniho spisu	37
+519	jake jsou podminky nahlizeni do spravniho spisu	37
+520	muzu nahlizet do spravniho spisu	37
+521	obnova	38
+522	prodlouzeni platnosti	38
+523	udrzovaci poplatky	38
+524	jak pozadat o obnovu nebo prodlouzeni platnosti u ochrannych znamek	38
+525	jak pozadat o obnovu nebo prodlouzeni platnosti u uzitnych vzoru	38
+526	jak pozadat o obnovu nebo prodlouzeni platnosti u prumyslovych vzoru	38
+527	jak postupovat pri placeni udrzovacich poplatku u patentu	38
+528	vypis z rejstriku	39
+529	kdo muze pozadat o vypis z rejstriku	39
+530	kdo si muze zazadat o vypis z rejstriku	39
+531	opis	40
+532	opis listiny	40
+533	komu muze byt vydan opis listiny vydane uradem	40
+534	muzu pozadat o opis listiny	40
+535	doklad o zaplaceni	41
+536	jak ziskat doklad do ucetnictvi o zaplaceni za prihlasku vynalezu nebo za uhrazeni udrzovacich poplatku	41
+537	kde ziskam doklad o zaplaceni	41
+538	jak ziskam doklad o zaplaceni	41
+539	jaka je platnost ochranne znamky	42
+540	zajima me platnost ochranne znamky	42
+541	muze prihlasku ochranne znamky podat fyzicka osoba	43
+542	je mozne podat prihlasku ochranne znamky jako fyzicka osoba	43
+543	vymaz ochranne znamky vlastnikem	44
+544	jaky je postup pri vymazu ochranne znamky z rejstriku jejim vlastnikem	44
+545	jak postupovat pri vymazu ochranne znamky z rejstriku jejim vlastnikem	44
+546	zmena zneni nebo vzhledu zapsane ochranne znamky	45
+547	je mozna zmena zneni nebo vzhledu zapsane ochranne znamky	45
+548	zmena vlastnika ochranne znamky	46
+549	jak zmenit vlastnika ochranne znamky	46
+550	jakym zpusobem zmenit vlastnika ochranne znamky	46
+551	web jako ochranna znamka	47
+552	webova stranka jako ochranna znamka	47
+553	je mozne nazev webu ochranit jako ochrannou znamku	47
+554	je mozne nazev webovych stranek ochranit jako ochrannou znamku	47
+555	muzu zaregistrovat nazev webu jako ochrannou znamku	47
+556	muzu zaregistrovat nazev webovych stranek jako ochrannou znamku	47
+557	doba rizeni narodni prihlasky ochranne znamky	48
+558	v jakem casovem horizontu po registraci ochranne znamky dojde k jejim zapisu do registru	48
+559	za jak dlouho bude narodni ochranna znamka zaregistrovana	48
+560	uplynuti doby platnosti zapisu ochranne znamky	49
+561	upozornuje urad na uplynuti doby platnosti zapisu ochranne znamky	49
