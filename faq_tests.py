@@ -7,6 +7,8 @@ from faq_core import FAQ
 
 parser = argparse.ArgumentParser()
 parser.add_argument("model_path", default="")
+parser.add_argument("--questions", default="data/diacritics/FAQv5_questions.csv", help="Question data file")
+parser.add_argument("--answers", default="data/diacritics/FAQv5_answers.csv", help="Answer data file")
 parser.add_argument("--probs", default="", help="Word probabilities file path")
 parser.add_argument("--alpha", default=1e-4, type=float, help="Word embedding weighting factor")
 parser.add_argument("--verb", default=False, action="store_true", help="Print incorrect matches")
@@ -32,7 +34,7 @@ if __name__ == "__main__":
         with open(args.probs, "r") as wp_file:
             probs = json.load(wp_file)
 
-    faq = FAQ(model, "data/FAQ79_questions.xlsx", "data/FAQ79_answers.xlsx", probs=probs, alpha=args.alpha, compressed=args.compressed)
+    faq = FAQ(model, args.questions, args.answers, probs=probs, alpha=args.alpha, compressed=args.compressed)
     q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm, show_time=args.cmtime)
     a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm, show_time=args.cmtime) 
 
@@ -47,16 +49,3 @@ if __name__ == "__main__":
         if args.cm:
             q_cm.savefig(os.path.join(save_dir, "Question_CM.png"))
             a_cm.savefig(os.path.join(save_dir, "Answer_CM.png"))
-
-    '''
-    print("Weighted")
-    faq = FAQ(model, "FAQ50_questions.xlsx", "FAQ50_answers.xlsx", alpha=0.0001, compressed=args.compressed, probs_path=args.probs)
-    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
-    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
-
-    print("Basic")
-    faq = FAQ(model, "FAQ50_questions.xlsx", "FAQ50_answers.xlsx", compressed=args.compressed)
-    q_acc, q_cm = faq.cross_match_test(verb=args.verb, show_cm=args.cm)
-    a_acc, a_cm = faq.ans_test(verb=args.verb, show_cm=args.cm)
-    '''
-    
