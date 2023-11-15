@@ -13,7 +13,7 @@ import os
 
 def extract_word_probs(model_path: str, corpus_size: int = 4.1e9):
     """
-    Uses word occurency counts included in FT model and training corpus size to create a dict of 
+    Uses word occurence counts included in FT model and training corpus size to create a dict of 
     word frequencies/probabilities and saves it to a json file inside current working directory
     - Only uncompressed models are supported
     """
