@@ -43,7 +43,7 @@ folder next to the evaluated model
 
 ## Confusion inspector:
 
-    python3 upv50_confusion_inspector.py model_path [--questions question_dataset_path] [--probs word_probs_path] [--alpha alpha] [--compressed]
+    python3 confusion_inspector.py model_path [--questions question_dataset_path] [--probs word_probs_path] [--alpha alpha] [--compressed]
 
 Shows a similarity heatmap between all dataset questions. Click on a specific pixel in the heatmap to print 
 the corresponding pair of questions and their similarity value in the terminal.
