@@ -14,11 +14,15 @@ Only supports fastText embeddings in .bin format
 
 ## Usage:
 
-    python3 upv50_tests.py model_path [--probs word_probs_path] [--alpha alpha] [--cmtime disp_time_seconds] [--cm] [--compressed] [--verb] [--save]
+    python3 faq_tests.py model_path [--questions question_dataset_path] [--answers answer_dataset_path] [--probs word_probs_path] [--alpha alpha] [--cmtime disp_time_seconds] [--cm] [--compressed] [--verb] [--save]
   
 ### Arguments:
 
 - **model_path**: Path to the model to be evaluated
+
+- **questions**: Path to spreadsheet file with questions
+
+- **answers**: Path to spreadsheet file with answers
 
 - **probs**: Path to vocabulary word frequencies - json file created using faq50.extract_word_probs
 
@@ -39,7 +43,7 @@ folder next to the evaluated model
 
 ## Confusion inspector:
 
-    python3 upv50_confusion_inspector.py model_path [--probs word_probs_path] [--alpha alpha] [--compressed]
+    python3 upv50_confusion_inspector.py model_path [--questions question_dataset_path] [--probs word_probs_path] [--alpha alpha] [--compressed]
 
 Shows a similarity heatmap between all dataset questions. Click on a specific pixel in the heatmap to print 
 the corresponding pair of questions and their similarity value in the terminal.
