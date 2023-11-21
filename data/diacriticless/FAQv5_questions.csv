@@ -1,0 +1,2056 @@
+	question	class
+0	svetovy patent	0
+1	mezinarodni patent	0
+2	svetovy  patenty	0
+3	mezinarodni patenty	0
+4	chci si zaregistrovat mezinarodni patent	0
+5	jak zaregistrovat mezinarodni patent	0
+6	chci si zaregistrovat mezinarodni vynalez	0
+7	jak zaregistrovat mezinarodni vynalez	0
+8	svetovy uzitny vzor	0
+9	mezinarodni uzitny vzor	0
+10	chci si zaregistrovat mezinarodni uzitny vzor	0
+11	jak zaregistrovat mezinarodni uzitny vzor	0
+12	formular zadosti o mezinarodni zapis patentu .	0
+13	zadost o mezinarodni zapis patentu .	0
+14	formular zadosti o mezinarodni prihlasku patentu .	0
+15	zadost o mezinarodni prihlasku patentu .	0
+16	formular zadosti o mezinarodni zapis  vynalezu.	0
+17	zadost o mezinarodni zapis  vynalezu.	0
+18	formular zadosti o mezinarodni prihlasku vynalezu.	0
+19	zadost o mezinarodni prihlasku vynalezu.	0
+20	formular zadosti o mezinarodni zapis uzitneho vzoru	0
+21	zadost o mezinarodni zapis uzitneho vzoru	0
+22	formular zadosti o mezinarodni prihlasku uzitneho vzoru	0
+23	zadost o mezinarodni prihlasku uzitneho vzoru	0
+24	mezinarodni registrace uzitneho vzoru	0
+25	formular zadosti o mezinarodni zapis prumysloveho vzoru.	1
+26	zadost o mezinarodni zapis prumysloveho vzoru.	1
+27	formular zadosti o mezinarodni prihlasku prumysloveho vzoru.	1
+28	zadost o mezinarodni prihlasku prumysloveho vzoru.	1
+29	jak prihlasit prumyslovy vzor do zahranici?	1
+30	jak zaregistrovat prumyslovy vzor do zahranici?	1
+31	jak zapsat prumyslovy vzor do zahranici?	1
+32	mezinarodni prumyslovy vzor .	1
+33	mezinarodni prumyslove vzory.	1
+34	co chrani autorske pravo?	2
+35	co je autorske pravo	2
+36	na koho se vztahuji prava souvisejici s autorskym pravem?	2
+37	jak dlouho plati autorske pravo?	3
+38	je nutne autorske pravo nekde registrovat ?	4
+39	je nutne autorske pravo nekde zapsat?	4
+40	co je mozne bez souhlasu autora?	5
+41	co muzu bez souhlasu autora?	5
+42	co lze bez souhlasu autora?	5
+43	co je povazovano za legalni uziti autorskeho dila?	5
+44	uziti autorskeho dila	5
+45	kdo ma na starosti autorske pravo v ceske republice?	6
+46	kam se obratit s dotazy k autorskemu pravu ?	6
+47	kam se obratit s dotazy k autorskym pravum?	6
+48	co je to stiznost?	7
+49	co muze byt predmetem stiznosti?	7
+50	jaky je ucel podani stiznosti?	7
+51	kdo muze podat stiznost?	7
+52	kdo je opravnen podat stiznost?	7
+53	kde seznam stiznosti?	8
+54	kde databazi stiznosti?	8
+55	kde najdu smernice k vyrizovani stiznosti?	8
+56	kde najdu reakce uradu na stiznost?	8
+57	kde najdu pravni predpisy tykajici se stiznosti	8
+58	navod k podani stiznosti	8
+59	jak podat stiznost	8
+60	jak podat stiznost na neudeleni patentu	8
+61	informace o stiznostech	8
+62	co je vestnik?	9
+63	jak casto je vydavan vestnik?	10
+64	jake informace najdu ve vestniku?	11
+65	jake informace jsou zverejnovany ve vestniku?	11
+66	jsou v vestniku informace o patentech ?	11
+67	jsou v vestniku informace o vynalezech?	11
+68	zverejnuje vestnik informace o ochrannych znamkach?	11
+69	jsou ve vestniku informace o zapsanych prumyslovych vzorech?	11
+70	jsou v vestniku udaje o uzitnych vzorech?	11
+71	jsou v vestniku informace o uzitnych vzorech?	11
+72	kde mohu najit vestnik?	12
+73	kde najdu vestnik?	12
+74	kde najdu pravni predpisy tykajici se ochrany prumysloveho vlastnictvi?	13
+75	kde jsou pravni predpisy tykajici se ochrany prumysloveho vlastnictvi?	13
+76	kde najdu  zakony tykajici se ochrany prumysloveho vlastnictvi?	13
+77	kde jsou zakony tykajici se ochrany prumysloveho vlastnictvi?	13
+78	na jake strance jsou uvedeny pravni predpisy o prumyslovem vlastnictvi ?	14
+79	na jake strance jsou uvedeny zakony o prumyslovem vlastnictvi ?	14
+80	na jake strance jsou uvedeny pravni predpisy o prumyslovych pravech?	14
+81	na jake strance jsou uvedeny zakony o prumyslovych pravech?	14
+82	kde jsou pravni predpisy o patentech ?	14
+83	kde jsou zakony o patentech ?	14
+84	kde jsou pravni predpisy o prumyslovych vzorech ?	14
+85	kde jsou zakony o prumyslovych vzorech ?	14
+86	kde jsou pravni predpisy o uzitnych vzorech ?	14
+87	kde jsou zakony o uzitnych vzorech ?	14
+88	kde jsou pravni predpisy o ochrannych znamkach?	14
+89	kde jsou zakony o ochrannych znamkach?	14
+90	mezinarodni pravni predpisy .	14
+91	mezinarodni zakony.	14
+92	kde najdu mezinarodni pravni predpisy ?	14
+93	kde mohu najit mezinarodni pravni predpisy ?	14
+94	kde muzu najit mezinarodni pravni predpisy ?	14
+95	kde najdu  zakony?	14
+96	kde mohu najit  zakony?	14
+97	kde muzu najit zakony?	14
+98	pravni predpisy eu .	14
+99	zakony eu .	14
+100	pravni predpisy  evropske unie.	14
+101	zakony evropske unie.	14
+102	kde najdu evropske pravni predpisy ?	14
+103	kde najdu evropske zakony?	14
+104	jake jsou predpisy eu ?	14
+105	jake jsou zakony eu ?	14
+106	jake jsou predpisy  evropske unie?	14
+107	jake jsou zakony evropske unie?	14
+108	kde najdu pravni predpisy ?	14
+109	kde jsou dostupne pravni predpisy ?	14
+110	kde najdu  zakony?	14
+111	kde jsou dostupne zakony?	14
+112	pravni predpisy	14
+113	zakony	14
+114	prehled pravnich predpisu	14
+115	prehled zakonu	14
+116	kde mohu najit kontakty na urad?	15
+117	kde najdu kontakty?	15
+118	zakladni kontakty na urad	15
+119	ma urad infocentrum?	15
+120	jak kontaktovat urad prumysloveho vlastnictvi ?	15
+121	jak kontaktovat upv?	15
+122	kde najdu informace o provozu podatelny uradu?	15
+123	kde jsou informace o provozu podatelny uradu?	15
+124	kde najdu podatelnu uradu?	15
+125	kde je podatelna uradu?	15
+126	kde se mohu obratit s dotazy tykajicimi se prumysloveho prava?	15
+127	kam se mohu obratit s dotazy tykajicimi se prumysloveho prava?	15
+128	kdo mi muze poskytnout vseobecne informace ?	15
+129	kdo mi muze poskytnout obecne informace ?	15
+130	kde najdu infocentrum?	15
+131	kde je infocentrum?	15
+132	kde najdu pomoc s prihlaskou?	16
+133	kde mohu najit pomoc s prihlaskou?	16
+134	kdo mi poskytne odborne zastoupeni?	16
+135	kdo mi muze poskytnout odborne zastoupeni?	16
+136	je nejake odborne zastoupeni?	16
+137	kde najdu odborne zastoupeni?	16
+138	muze mi nekdo pomoci s prihlaskou ?	16
+139	muze mi nekdo pomoci s prihlasovanim?	16
+140	patentovi zastupci	16
+141	kdo mi pomuze s prihlaskou?	16
+142	kdo muze pomoci s prihlaskou?	16
+143	pomoc s prihlaskou	16
+144	pomoc s podanim	16
+145	muze urad pomoci s prihlaskou?	16
+146	muze urad pomoct s prihlaskou?	16
+147	jak postupovat pri prodlouzeni platnosti patentu?	17
+148	jak se postupuje pri prodlouzeni platnosti patentu?	17
+149	jak udrzet patent v platnosti?	17
+150	jak udrzovat patent v platnosti?	17
+151	jak prodlouzit patent?	17
+152	jak obnovit patent?	17
+153	podava se k prodlouzeni patentu zadost?	18
+154	podava se k obnove patentu zadost?	18
+155	jak udrzet uzitny vzor v platnosti?	19
+156	jak udrzovat uzitny vzor v platnosti?	19
+157	jak prodlouzit uzitny vzor?	19
+158	jak obnovit uzitny vzor?	19
+159	jak udrzet prumyslovy vzor v platnosti?	20
+160	jak udrzovat prumyslovy vzor v platnosti?	20
+161	jak prodlouzit prumyslovy vzor?	20
+162	jak obnovit prumyslovy vzor?	20
+163	poplatky za udrzovani prumysloveho vzoru v platnosti	20
+164	poplatek za udrzovani prumysloveho vzoru v platnosti	20
+165	kolik stoji za udrzovani prumysloveho vzoru v platnosti	20
+166	podava se k prodlouzeni prumysloveho vzoru zadost?	20
+167	podava se k obnove prumysloveho vzoru zadost?	20
+168	jak udrzet ochrannou znamku v platnosti?	21
+169	jak udrzovat ochrannou znamku v platnosti?	21
+170	jak prodlouzit ochrannou znamku?	21
+171	jak obnovit ochrannou znamku?	21
+172	podava se k prodlouzeni ochranne znamky zadost?	21
+173	podava se k obnove ochranne znamky zadost?	21
+174	jak se prodluzuje platnost zapisu ochranne znamky?	21
+175	je mozne zmenit prihlasovatele prihlasky nebo majitele prumysloveho prava?	22
+176	jaky je postup pro zmenu prihlasovatele prihlasky nebo majitele prumysloveho prava?	22
+177	je potreba pro prevod prava nejaky formular?	22
+178	je podava se pro prevod prava nejaky formular?	22
+179	jak zmenit prihlasovatele prumysloveho prava?	22
+180	jak zmenit majitele prumysloveho prava?	22
+181	co je potreba k zadosti o zmenu prihlasovatele prihlasky nebo majitele prumysloveho prava?	22
+182	poplatek za prevod prumysloveho prava?	23
+183	kolik stoji prevod prumysloveho prava?	23
+184	jaka je vyse poplatku za zmenu prihlasovatele prihlasky nebo majitele prumysloveho prava?	23
+185	jaky je poplatek za zmenu prihlasovatele prihlasky nebo majitele prumysloveho prava?	23
+186	kolik stoji za zmenu prihlasovatele prihlasky nebo majitele prumysloveho prava?	23
+187	muze dojit k nabyti prava na zaklade jinych skutecnosti nez projevu vule?	23
+188	je prechod prava zpoplatnen?	23
+189	kdy je prevod prava ucinnym?	24
+190	co je licence?	25
+191	jak je mozne ziskat licenci?	25
+192	co se predklada k zadosti o zapis licence?	25
+193	co je treba prilozit k zadosti o zapis licence?	25
+194	jaky je postup pri zadosti o zapis licence?	25
+195	co je prohlaseni o nabidce licence?	26
+196	co znamena prohlaseni o nabidce licence?	26
+197	prohlaseni o nabidce licence	26
+198	kolik stoji zapis licence?	27
+199	poplatek za zapis licence?	27
+200	kdo ma pravo nahlizet do spisu?	28
+201	jak nahlizet do spisu?	28
+202	jak nahlednout do spisu?	28
+203	co je duvodem pro nahlednuti do spisu?	28
+204	jaky je postup pro nahlizeni do spisu?	28
+205	kdo muze nahlizet do spisu?	28
+206	kdo je opravnen nahlizet do spisu?	28
+207	zadost o nahlizeni do spisu	28
+208	nahlizeni do spisu	28
+209	jak postupovat pri nahlizeni do spisu?	28
+210	jak pozadat o vypis.	29
+211	co uvest v zadosti o vypis z rejstriku?	29
+212	jaky je rozdil mezi aktualnim a uplnym vypisem?	29
+213	kolik stoji za vypis?	29
+214	jaky je poplatek za vypis?	29
+215	jak pozadat o opis?	30
+216	kolik stoji za opis?	30
+217	jaky je poplatek za opis?	30
+218	kdo muze pozadat o opis listiny?	30
+219	co obsahuje opis?	30
+220	osvedceni o zapisu	30
+221	opis patentove listiny	30
+222	k cemu slouzi prioritni doklad?	31
+223	co je prioritni doklad?	31
+224	je mozne se odvolat proti rozhodnuti uradu?	32
+225	muzu se odvolat proti rozhodnuti uradu?	32
+226	jaka je lhuta pro podani rozkladu?	32
+227	jaky je postup, pokud nesouhlasim s rozhodnutim uradu?	32
+228	lze proti rozhodnuti uradu podat rozklad?	32
+229	je mozne proti rozhodnuti uradu podat rozklad?	32
+230	muzu proti rozhodnuti uradu podat rozklad?	32
+231	je mozne podat odvolani?	32
+232	muzu se odvolat proti rozhodnuti uradu i po zmeskane lhute?	32
+233	odvolani	32
+234	rozklad	32
+235	opravne rizeni proti rozhodnuti uradu	32
+236	jak podat odvolani ?	32
+237	jak podat rozklad?	32
+238	co mam delat, pokud dojde k poruseni meho patentu ?	33
+239	co muzu delat, pokud dojde k poruseni meho patentu ?	33
+240	co mam delat, pokud dojde k poruseni meho prava?	33
+241	co muzu delat, pokud dojde k poruseni meho prava?	33
+242	jake jsou moznosti , pokud nekdo neopravnene zasahne do meho prumysloveho vlastnictvi?	33
+243	co mam delat , pokud nekdo neopravnene zasahne do meho prumysloveho vlastnictvi?	33
+244	jak postupovat, pokud nekdo neopravnene zasahne do meho prumysloveho vlastnictvi?	33
+245	jake jsou moznosti , kdyz nekdo neopravnene zasahne do meho prumysloveho vlastnictvi?	33
+246	co mam delat , kdyz nekdo neopravnene zasahne do meho prumysloveho vlastnictvi?	33
+247	jak postupovat, kdyz nekdo neopravnene zasahne do meho prumysloveho vlastnictvi?	33
+248	neopravneny zasah do prav	33
+249	neopravneny zasah do prav z dusevniho vlastnictvi	33
+250	nahrada skody	33
+251	kde mohu najit informace o vymahani prav?	33
+252	kde najdu informace o vymahani prav?	33
+253	poruseni prav	33
+254	na koho se mohu obratit, pri porusovani prav dusevniho vlastnictvi?	33
+255	na koho se mam obratit, pri porusovani prav dusevniho vlastnictvi?	33
+256	na koho se mohu obratit, pri poruseni prav dusevniho vlastnictvi?	33
+257	na koho se mam obratit, pri poruseni prav dusevniho vlastnictvi?	33
+258	poruseni prav z prumysloveho vlastnictvi	33
+259	kam se obratit pri porusovani prav z dusevniho vlastnictvi?	33
+260	kam se obratit pri poruseni prav z dusevniho vlastnictvi?	33
+261	vymahani prav	33
+262	kdo muze pozadovat nahradu skody v pripade poruseni prumyslovych prav?	33
+263	kdo je opravnen pozadovat nahradu skody v pripade poruseni prumyslovych prav?	33
+264	kdo muze vymahat prava z prumysloveho vlastnictvi?	33
+265	kdo je opravnen vymahat prava z prumysloveho vlastnictvi?	33
+266	muze urad rozhodnout o sporu tykajiciho se patentu ?	34
+267	muze urad rozhodnout o sporu o patent?	34
+268	muze urad rozhodnout o sporu ohledne patentu?	34
+269	jak postupovat v pripade sporu o vyuziti patentu nebo uzitneho vzoru?	35
+270	jak se postupuje v pripade sporu o vyuziti patentu nebo uzitneho vzoru?	35
+271	spor o patent	35
+272	spor v pripade patentu	35
+273	spor o vyuziti patentu	35
+274	spor o patentu	35
+275	spor tykajici se patentu	35
+276	spor o uzitny vzor	35
+277	spor v pripade uzitneho vzoru	35
+278	spor o vyuziti uzitneho vzoru	35
+279	spor tykajici se uzitneho vzoru	35
+280	co delat v pripade sporu o patent ?	35
+281	jak postupovat v pripade sporu o patent ?	35
+282	co delat v pripade sporu o uzitny vzor?	35
+283	jak postupovat v pripade sporu o uzitny vzor?	35
+284	jak muze urad pomoci ve sporu o patent ?	35
+285	jak muze urad pomoci ve sporu o uzitny vzor ?	35
+286	jak muze urad pomoci ve sporu tykajicim se patentu ?	35
+287	jak muze urad pomoci ve sporu tykajicim se uzitneho vzoru ?	35
+288	moznosti ve sporu	35
+289	kde najdu informace o postupu v pripade sporu?	35
+290	kde najit informace o postupu v pripade sporu?	35
+291	spor	35
+292	definice ochranne znamky?	36
+293	co muze byt povazovano za ochrannou znamku?	36
+294	co je ochranna znamka?	36
+295	co je funkci ochranne znamky?	36
+296	ochranna znamka	36
+297	jake prvky mohou tvorit ochrannou znamku?	36
+298	jake prvky tvori ochrannou znamku?	36
+299	prvky ochranne znamky	36
+300	"co se mysli terminem ""ochranna znamka""?"	36
+301	k cemu slouzi ochranna znamka?	36
+302	odliseni vyrobku a sluzeb od konkurence	36
+303	existuji databaze se seznamem starsich ochrannych znamek?	37
+304	kde najdu starsi ochranne znamky?	37
+305	jak zacit, kdyz chci zapsat ochrannou znamku?	37
+306	kde zacit, kdyz chci zapsat ochrannou znamku?	37
+307	jak zacit, kdyz chci registrovat ochrannou znamku?	37
+308	kde zacit, kdyz chci registrovat ochrannou znamku?	37
+309	muzu si nechat provest resersi pred podanim prihlasky ochranne znamky?	38
+310	muzu si objednat resersi ochranne znamky?	38
+311	jak objednam resersi ochranne znamky?	38
+312	jake resersni sluzby ochrannych znamek poskytuje urad?	38
+313	typy resersi ochrannych znamek provadi urad	38
+314	jak podat zadost o resersi ochranne znamky u uradu?	38
+315	jak objednat resersi ochranne znamky?	38
+316	jaky je postup pro objednani pisemne reserse u uradu?	38
+317	co je reserse na slovni oznaceni?	39
+318	co zahrnuje reserse na slovni oznaceni?	39
+319	jak urychlit resersi?	40
+320	expresni reserse ochranne znamky	40
+321	jak dlouho trva zpracovani reserse ochranne znamky uradem?	41
+322	kolik stoji resersi ochranne znamky?	41
+323	poplatek za resersi ochranne znamky?	41
+324	cenik resersnich sluzeb	41
+325	kolik stoji reserse ochranne znamky?	41
+326	cenik pro resersni sluzby uradu?	41
+327	jaky je spravni poplatek za prijeti prihlasky ochranne znamky?	42
+328	kolik stoji prijeti prihlasky ochranne znamky?	42
+329	poplatek za podani prihlasky ochranne znamky	42
+330	poplatky za podani prihlasky ochranne znamky	42
+331	cenik za podani prihlasky ochranne znamky	42
+332	jak mohu zaplatit spravni poplatek za podani prihlasky ochranne znamky?	42
+333	jak lze zaplatit spravni poplatek za podani prihlasky ochranne znamky?	42
+334	jake jsou naklady na registraci kolektivni ochranne znamky?	42
+335	existuji nejake slevy na spravni poplatek pri elektronickem podani ochranne znamky?	42
+336	jak dlouho plati ochranna znamka?	43
+337	jak dlouho je platna ochranna znamka?	43
+338	jak mohu prodlouzit platnost ochranne znamky?	43
+339	jak je mozne prodlouzit platnost ochranne znamky?	43
+340	poplatek za podani zadosti o obnovu platnosti ochranne znamky?	44
+341	kde mohu najit databazi ochrannych znamek?	45
+342	kde lze najit databazi ochrannych znamek?	45
+343	ma urad verejne dostupnou databazi ochrannych znamek?	45
+344	jakym zpusobem mohu prohledavat ochranne znamky?	45
+345	jak mohu prohledavat ochranne znamky?	45
+346	kde najdu prehled ochrannych znamek?	45
+347	jak zjistim , zda moje znacka je jiz registrovana?	45
+348	jak  mohu zjistit, zda moje znacka je jiz registrovana?	45
+349	jak zjistim , jestli moje znacka je jiz registrovana?	45
+350	jak  mohu zjistit, jestli moje znacka je jiz registrovana?	45
+351	jak zjistim , ze moje znacka je jiz registrovana?	45
+352	jak  mohu zjistit, ze moje znacka je jiz registrovana?	45
+353	kde mohu nalezt ochranne znamky evropske unie?	45
+354	kde najdu ochranne znamky evropske unie?	45
+355	kde jsou ochranne znamky evropske unie?	45
+356	kde muzu najit ochranne znamky evropske unie?	45
+357	jak se mohu podivat na ochranne znamky registrovane v zahranici?	45
+358	kde se mohu podivat na ochranne znamky registrovane v zahranici?	45
+359	jak  najdu ochranne znamky registrovane v zahranici?	45
+360	kde najdu ochranne znamky registrovane v zahranici?	45
+361	jak  najit ochranne znamky registrovane v zahranici?	45
+362	kde najit ochranne znamky registrovane v zahranici?	45
+363	zahranicni databaze ochrannych znamek	45
+364	mezinarodni databaze ochrannych znamek	45
+365	jak prihlasit mezinarodni ochranne znamky?	46
+366	jak podat prihlasku mezinarodni ochranne znamky?	46
+367	jak postupovat pri zapisu mezinarodni ochranne znamky?	46
+368	jak prihlasit  zahranicni ochranne znamky?	46
+369	jak podat prihlasku  zahranicni ochranne znamky?	46
+370	jak postupovat pri zapisu zahranicni ochranne znamky?	46
+371	kdo muze podat zadost o mezinarodni zapis ochranne znamky?	46
+372	kdo muze podat zadost o zahranicni zapis ochranne znamky?	46
+373	mezinarodni ochranna znamka	46
+374	zahranicni ochranna znamka	46
+375	obnoveni mezinarodni ochranne znamky	46
+376	obnoveni zahranicni ochranne znamky	46
+377	kde muzu najit informace o mezinarodni ochranne znamce?	46
+378	kde mohu najit informace o mezinarodni ochranne znamce?	46
+379	kde najdu informace o mezinarodni ochranne znamce?	46
+380	kde jsou informace o mezinarodni ochranne znamce?	46
+381	kde muzu najit informace o zahranicni ochranne znamce?	46
+382	kde mohu najit informace o zahranicni ochranne znamce?	46
+383	kde najdu informace o zahranicni ochranne znamce?	46
+384	kde jsou informace o zahranicni ochranne znamce?	46
+385	jak funguje mezinarodni zapis ochrannych znamek?	46
+386	jak funguje zahranicni zapis ochrannych znamek?	46
+387	co je protokol k madridske dohode ?	46
+388	co je madrid?	46
+389	kde prihlasit mezinarodni ochrannou znamku?	46
+390	kde prihlasit zahranicni ochrannou znamku?	46
+391	je mozne prihlasit ceskou ochrannou znamku jako mezinarodni ?	46
+392	je mozne prihlasit ceskou ochrannou znamku jako zahranicni?	46
+393	doba ochrany mezinarodni ochranne znamky	46
+394	doba ochrany zahranicni ochranne znamky	46
+395	kde muzu najit informace o prihlasovani ochrannych znamek eu ?	47
+396	kde najdu informace o prihlasovani ochrannych znamek eu ?	47
+397	kde jsou informace o prihlasovani ochrannych znamek eu ?	47
+398	kde muzu najit informace o prihlasovani ochrannych znamek evropske unie?	47
+399	kde najdu informace o prihlasovani ochrannych znamek evropske unie?	47
+400	kde jsou informace o prihlasovani ochrannych znamek evropske unie?	47
+401	informace ochrannych znamkach v eu	47
+402	informace ochrannych znamkach v evropske unii	47
+403	registrace evropskych ochrannych znamek eu	47
+404	registrace evropskych ochrannych znamek evropske unie	47
+405	prihlasovani ochrannych znamek eu	47
+406	prihlasovani ochrannych znamek evropske unie	47
+407	prihlaska ochranne znamky eu	47
+408	registrace ochranne znamky eu	47
+409	prihlaska ochranne znamky evropske unie	47
+410	registrace ochranne znamky evropske unie	47
+411	jak se lze dozvedet vice o ochrane dusevniho vlastnictvi v eu ?	47
+412	jak se lze dozvedet vice o ochrane dusevniho vlastnictvi v evropske unii?	47
+413	kde mohu najit pokyny k prihlaseni ochranne znamky v eu ?	47
+414	kde najdu pokyny k prihlaseni ochranne znamky v eu ?	47
+415	kde jsou pokyny k prihlaseni ochranne znamky v eu ?	47
+416	kde mohu najit pokyny k prihlaseni ochranne znamky v evropske unii?	47
+417	kde najdu pokyny k prihlaseni ochranne znamky v evropske unii?	47
+418	kde jsou pokyny k prihlaseni ochranne znamky v evropske unii?	47
+419	kdo poskytuje informace o prihlaseni ochrannych znamek v eu ?	47
+420	kdo poskytuje informace o prihlaseni ochrannych znamek v evropske unii?	47
+421	podminky pro prodlouzeni platnosti ochranne znamky	48
+422	jaky je proces pro prodlouzeni platnosti ochranne znamky?	48
+423	jak postupovat pri prodlouzeni platnosti ochranne znamky?	48
+424	jak podat zadost o prodlouzeni platnosti ochranne znamky?	48
+425	jaka je delka ochrany ochranne znamky?	48
+426	co je treba udelat k obnove platnosti ochranne znamky?	48
+427	co mam udelat k obnove platnosti ochranne znamky?	48
+428	delka ochrany ochranne znamky	48
+429	platnost ochranne znamky	48
+430	prodlouzeni zapisu ochranne znamky	48
+431	obnova platnosti ochranne znamky	48
+432	kde mohu najit informace o druzich ochrannych znamek?	49
+433	kde najdu informace o druzich ochrannych znamek?	49
+434	kde jsou informace o druzich ochrannych znamek?	49
+435	druhy ochrannych znamek	49
+436	formaty ochrannych znamek	49
+437	kde mohu najit informace o formatech ochrannych znamek?	49
+438	kde najdu informace o formatech ochrannych znamek?	49
+439	kde jsou informace o formatech ochrannych znamek?	49
+440	podani prihlasky ochranne znamky	50
+441	jakym zpusobem mam podat prihlasku ochranne znamky?	50
+442	jakym zpusobem mohu podat prihlasku ochranne znamky?	50
+443	jakym zpusobem muzu podat prihlasku ochranne znamky?	50
+444	jakym zpusobem je mozne podat prihlasku ochranne znamky?	50
+445	jakym zpusobem mam  registrovat ochranne znamky?	50
+446	jakym zpusobem mohu  registrovat ochranne znamky?	50
+447	jakym zpusobem muzu  registrovat ochranne znamky?	50
+448	jakym zpusobem je mozne registrovat ochranne znamky?	50
+449	jakym zpusobem mam  prihlasit ochranne znamky?	50
+450	jakym zpusobem mohu  prihlasit ochranne znamky?	50
+451	jakym zpusobem muzu  prihlasit ochranne znamky?	50
+452	jakym zpusobem je mozne prihlasit ochranne znamky?	50
+453	kde lze najit formular prihlasky ochranne znamky?	50
+454	kde mohu najit formular prihlasky ochranne znamky?	50
+455	kde muzu najit formular prihlasky ochranne znamky?	50
+456	zapis ochranne znamky	50
+457	registrace ochranne znamky	50
+458	prihlaseni ochranne znamky	50
+459	formular prihlasky ochranne znamky	50
+460	chci zaregistrovat ochrannou znamku	50
+461	potrebuji zaregistrovat ochrannou znamku	50
+462	chci  prihlasit ochrannou znamku	50
+463	potrebuji prihlasit ochrannou znamku	50
+464	snizeni poplatku pri podani prihlasky ochranne znamky elektronicky	51
+465	sleva na poplatku pri podani prihlasky ochranne znamky elektronicky	51
+466	je mozne podani prihlasky ochranne znamky do datove schranky uradu?	52
+467	jake jsou nalezitosti narodni prihlasky ochranne znamky?	53
+468	co musi obsahovat narodni prihlaska ochranne znamky?	53
+469	co by mela obsahovat narodni prihlaska ochranne znamky?	53
+470	co jsou soucasti narodni prihlasky ochranne znamky?	53
+471	jake informace jsou soucasti narodni prihlasky ochranne znamky?	53
+472	co  musi byt soucasti narodni prihlasky ochranne znamky?	53
+473	jake informace musi byt soucasti narodni prihlasky ochranne znamky?	53
+474	co je nutne mit v narodni prihlasce ochranne znamky?	53
+475	co je potreba mit v narodni prihlasce ochranne znamky?	53
+476	co je nutne  uvest v narodni prihlasce ochranne znamky?	53
+477	co je potreba uvest v narodni prihlasce ochranne znamky?	53
+478	co je nutne  vyplnit v narodni prihlasce ochranne znamky?	53
+479	co je potreba vyplnit v narodni prihlasce ochranne znamky?	53
+480	jake udaje musi byt vyplneny v narodni prihlasce ochranne znamky?	53
+481	jake udaje musi byt uvedeny v narodni prihlasce ochranne znamky?	53
+482	pozadavky na narodni prihlasku ochranne znamky	53
+483	co vse musim uvest v narodni prihlasce ochranne znamky?	53
+484	co vse musim vyplnit v narodni prihlasce ochranne znamky?	53
+485	co musi narodni prihlaska ochranne znamky obsahovat?	53
+486	co by mela narodni prihlaska ochranne znamky obsahovat?	53
+487	jakym zpusobem se ma vyplnit narodni prihlaska ochranne znamky?	53
+488	jakym zpusobem vyplnit narodni prihlaska ochranne znamky?	53
+489	jakym zpusobem se vyplnuje narodni prihlaska ochranne znamky?	53
+490	co vse je potreba pro podani narodni prihlasky ochranne znamky?	53
+491	co vse je nutne pro podani narodni prihlasky ochranne znamky?	53
+492	co vse se vyzaduje pro podani narodni prihlasky ochranne znamky?	53
+493	kdo muze podat prihlasku ochranne znamky?	54
+494	kdo je opravnen podat prihlasku ochranne znamky?	54
+495	jaky je prubeh rizeni po podani prihlasky ochranne znamky?	55
+496	jaky je prubeh rizeni pri podani prihlasky ochranne znamky?	55
+497	pruzkum prihlasky ochranne znamky	55
+498	prezkum prihlasky ochranne znamky	55
+499	co se stane, pokud ma prihlaska ochranne znamky vady?	55
+500	vady prihlasky ochranne znamky	55
+501	vecny pruzkum prihlasky ochranne znamky	55
+502	formalni pruzkum prihlasky ochranne znamky	55
+503	vylouceni oznaceni ze zapisu do rejstriku	55
+504	jaky je postup pro podani namitek proti registraci ochranne znamky do rejstriku ochrannych znamek?	56
+505	jaky je postup pro podani namitek proti zapisu ochranne znamky do rejstriku ochrannych znamek?	56
+506	kdo muze podat namitky proti zapisu oznaceni ochranne znamky do rejstriku?	56
+507	kdo je opravnen podat namitky proti zapisu oznaceni ochranne znamky do rejstriku?	56
+508	kdo ma pravo podat namitky proti zapisu oznaceni ochranne znamky do rejstriku?	56
+509	kdo muze podat namitky proti registraci ochranne znamky do rejstriku?	56
+510	kdo je opravnen podat namitky proti registraci ochranne znamky do rejstriku?	56
+511	kdo ma pravo podat namitky proti registraci ochranne znamky do rejstriku?	56
+512	jaka je lhuta pro podani namitek proti registraci ochranne znamky?	56
+513	jakou lhutu mam pro podani namitek proti registraci ochranne znamky?	56
+514	jaka je lhuta pro podani namitek proti zapisu onaceni ochranne znamky?	56
+515	jakou lhutu mam pro podani namitek proti zapisu onaceni ochranne znamky?	56
+516	namitky proti zapisu oznaceni ochranne znamky do rejstriku	56
+517	namitky proti registraci ochranne znamky do rejstriku	56
+518	namitky proti zapsane ochranne znamky do rejstriku	56
+519	namitky proti zaregistrovane ochranne znamky do rejstriku	56
+520	namitky proti prihlasenemu oznaceni ochranne znamky do rejstriku	56
+521	jake jsou moznosti doplneni dukazu nebo rozsireni namitkovych duvodu v ramci lhuty pro podani namitek?	56
+522	poplatek za podani namitek proti registraci ochranne znamky?	57
+523	poplatek za podani namitek proti prihlasenemu oznaceni ochranne znamky?	57
+524	jaka je lhuta pro podani namitek proti zapsane ochranne znamce?	58
+525	jakou lhutu mam pro podani namitek proti zapsane ochranne znamce?	58
+526	lhuta pro podani namitek proti zapsane ochranne znamce?	58
+527	jaka je lhuta pro podani namitek proti zaregistrovane ochranne znamce?	58
+528	jakou lhutu mam pro podani namitek proti zaregistrovane ochranne znamce?	58
+529	lhuta pro podani namitek proti zaregistrovane ochranne znamce?	58
+530	zruseni ochranne znamky	59
+531	kdy je mozne podat navrh na zruseni ochranne znamky?	59
+532	jak je mozne podat navrh na zruseni ochranne znamky?	59
+533	jakym zpusobem je mozne podat navrh na zruseni ochranne znamky?	59
+534	kdy  lze podat navrh na zruseni ochranne znamky?	59
+535	jak  lze podat navrh na zruseni ochranne znamky?	59
+536	jakym zpusobem lze podat navrh na zruseni ochranne znamky?	59
+537	kdy  muzu podat navrh na zruseni ochranne znamky?	59
+538	jak  muzu podat navrh na zruseni ochranne znamky?	59
+539	jakym zpusobem muzu podat navrh na zruseni ochranne znamky?	59
+540	navrh na zruseni ochranne znamky	59
+541	duvody zruseni ochranne znamky	60
+542	co znamena, kdyz je ochranna znamka zrusena?	61
+543	kdy muze byt ochranna znamka povazovana za neplatnou?	62
+544	zneplatneni ochranne znamky	62
+545	navrh na prohlaseni ochranne znamky za neplatnou	62
+546	rozdil mezi zrusenim a neplatnosti ochranne znamky	63
+547	co znamena, pokud je ochranna znamka prohlasena za neplatnou?	63
+548	dusledky zruseni ochranne znamky	63
+549	dusledky prohlaseni ochranne znamky za neplatnou	63
+550	co je mozne patentovat?	64
+551	co lze patentovat?	64
+552	co si muzu patentovat?	64
+553	co muzu patentovat?	64
+554	co mohu patentovat?	64
+555	co si mohu patentovat?	64
+556	co je patent?	64
+557	co je vynalez?	64
+558	je mozne ziskat patent na vedecke teorie?	64
+559	lze ziskat patent na vedecke teorie?	64
+560	muzu ziskat patent na vedecke teorie?	64
+561	mohu ziskat patent na vedecke teorie?	64
+562	muze se ziskat patent na vedecke teorie?	64
+563	je mozne  mit patent na vedecke teorie?	64
+564	lze  mit patent na vedecke teorie?	64
+565	muzu  mit patent na vedecke teorie?	64
+566	mohu  mit patent na vedecke teorie?	64
+567	muze se mit patent na vedecke teorie?	64
+568	je mozne  dostat patent na vedecke teorie?	64
+569	lze  dostat patent na vedecke teorie?	64
+570	muzu  dostat patent na vedecke teorie?	64
+571	mohu  dostat patent na vedecke teorie?	64
+572	muze se dostat patent na vedecke teorie?	64
+573	je mozne ziskat  patentovat vedecke teorie?	64
+574	lze ziskat  patentovat vedecke teorie?	64
+575	muzu ziskat  patentovat vedecke teorie?	64
+576	mohu ziskat  patentovat vedecke teorie?	64
+577	muze se ziskat  patentovat vedecke teorie?	64
+578	je mozne  mit  patentovat vedecke teorie?	64
+579	lze  mit  patentovat vedecke teorie?	64
+580	muzu  mit  patentovat vedecke teorie?	64
+581	mohu  mit  patentovat vedecke teorie?	64
+582	muze se mit  patentovat vedecke teorie?	64
+583	je mozne  dostat patentovat vedecke teorie?	64
+584	lze  dostat patentovat vedecke teorie?	64
+585	muzu  dostat patentovat vedecke teorie?	64
+586	mohu  dostat patentovat vedecke teorie?	64
+587	muze se dostat patentovat vedecke teorie?	64
+588	na jake vynalezy jsou udelovany patenty ?	64
+589	na jake vynalezy je mozne udelit patent ?	64
+590	na jake vynalezy muze byt udelen patent?	64
+591	jake jsou zasady pro udelovani patentu?	64
+592	je mozne ziskat patent na esteticky vytvor?	64
+593	lze ziskat patent na esteticky vytvor?	64
+594	muzu ziskat patent na esteticky vytvor?	64
+595	mohu ziskat patent na esteticky vytvor?	64
+596	muze se ziskat patent na esteticky vytvor?	64
+597	je mozne  mit patent na esteticky vytvor?	64
+598	lze  mit patent na esteticky vytvor?	64
+599	muzu  mit patent na esteticky vytvor?	64
+600	mohu  mit patent na esteticky vytvor?	64
+601	muze se mit patent na esteticky vytvor?	64
+602	je mozne  dostat patent na esteticky vytvor?	64
+603	lze  dostat patent na esteticky vytvor?	64
+604	muzu  dostat patent na esteticky vytvor?	64
+605	mohu  dostat patent na esteticky vytvor?	64
+606	muze se dostat patent na esteticky vytvor?	64
+607	je mozne ziskat  patentovat esteticky vytvor?	64
+608	lze ziskat  patentovat esteticky vytvor?	64
+609	muzu ziskat  patentovat esteticky vytvor?	64
+610	mohu ziskat  patentovat esteticky vytvor?	64
+611	muze se ziskat  patentovat esteticky vytvor?	64
+612	je mozne  mit  patentovat esteticky vytvor?	64
+613	lze  mit  patentovat esteticky vytvor?	64
+614	muzu  mit  patentovat esteticky vytvor?	64
+615	mohu  mit  patentovat esteticky vytvor?	64
+616	muze se mit  patentovat esteticky vytvor?	64
+617	je mozne  dostat patentovat esteticky vytvor?	64
+618	lze  dostat patentovat esteticky vytvor?	64
+619	muzu  dostat patentovat esteticky vytvor?	64
+620	mohu  dostat patentovat esteticky vytvor?	64
+621	muze se dostat patentovat esteticky vytvor?	64
+622	je mozne ziskat patent na novou odrudu rostliny?	64
+623	lze ziskat patent na novou odrudu rostliny?	64
+624	muzu ziskat patent na novou odrudu rostliny?	64
+625	mohu ziskat patent na novou odrudu rostliny?	64
+626	muze se ziskat patent na novou odrudu rostliny?	64
+627	je mozne  mit patent na novou odrudu rostliny?	64
+628	lze  mit patent na novou odrudu rostliny?	64
+629	muzu  mit patent na novou odrudu rostliny?	64
+630	mohu  mit patent na novou odrudu rostliny?	64
+631	muze se mit patent na novou odrudu rostliny?	64
+632	je mozne  dostat patent na novou odrudu rostliny?	64
+633	lze  dostat patent na novou odrudu rostliny?	64
+634	muzu  dostat patent na novou odrudu rostliny?	64
+635	mohu  dostat patent na novou odrudu rostliny?	64
+636	muze se dostat patent na novou odrudu rostliny?	64
+637	je mozne ziskat  patentovat novou odrudu rostliny?	64
+638	lze ziskat  patentovat novou odrudu rostliny?	64
+639	muzu ziskat  patentovat novou odrudu rostliny?	64
+640	mohu ziskat  patentovat novou odrudu rostliny?	64
+641	muze se ziskat  patentovat novou odrudu rostliny?	64
+642	je mozne  mit  patentovat novou odrudu rostliny?	64
+643	lze  mit  patentovat novou odrudu rostliny?	64
+644	muzu  mit  patentovat novou odrudu rostliny?	64
+645	mohu  mit  patentovat novou odrudu rostliny?	64
+646	muze se mit  patentovat novou odrudu rostliny?	64
+647	je mozne  dostat patentovat novou odrudu rostliny?	64
+648	lze  dostat patentovat novou odrudu rostliny?	64
+649	muzu  dostat patentovat novou odrudu rostliny?	64
+650	mohu  dostat patentovat novou odrudu rostliny?	64
+651	muze se dostat patentovat novou odrudu rostliny?	64
+652	je mozne ziskat patentovat i na biotechnologicke postupy a produkty?	64
+653	lze ziskat patentovat i na biotechnologicke postupy a produkty?	64
+654	muzu ziskat patentovat i na biotechnologicke postupy a produkty?	64
+655	mohu ziskat patentovat i na biotechnologicke postupy a produkty?	64
+656	muze se ziskat patentovat i na biotechnologicke postupy a produkty?	64
+657	je mozne  mit patentovat i na biotechnologicke postupy a produkty?	64
+658	lze  mit patentovat i na biotechnologicke postupy a produkty?	64
+659	muzu  mit patentovat i na biotechnologicke postupy a produkty?	64
+660	mohu  mit patentovat i na biotechnologicke postupy a produkty?	64
+661	muze se mit patentovat i na biotechnologicke postupy a produkty?	64
+662	je mozne  dostat patentovat i na biotechnologicke postupy a produkty?	64
+663	lze  dostat patentovat i na biotechnologicke postupy a produkty?	64
+664	muzu  dostat patentovat i na biotechnologicke postupy a produkty?	64
+665	mohu  dostat patentovat i na biotechnologicke postupy a produkty?	64
+666	muze se dostat patentovat i na biotechnologicke postupy a produkty?	64
+667	je mozne ziskat  patenty i na biotechnologicke postupy a produkty?	64
+668	lze ziskat  patenty i na biotechnologicke postupy a produkty?	64
+669	muzu ziskat  patenty i na biotechnologicke postupy a produkty?	64
+670	mohu ziskat  patenty i na biotechnologicke postupy a produkty?	64
+671	muze se ziskat  patenty i na biotechnologicke postupy a produkty?	64
+672	je mozne  mit  patenty i na biotechnologicke postupy a produkty?	64
+673	lze  mit  patenty i na biotechnologicke postupy a produkty?	64
+674	muzu  mit  patenty i na biotechnologicke postupy a produkty?	64
+675	mohu  mit  patenty i na biotechnologicke postupy a produkty?	64
+676	muze se mit  patenty i na biotechnologicke postupy a produkty?	64
+677	je mozne  dostat patenty i na biotechnologicke postupy a produkty?	64
+678	lze  dostat patenty i na biotechnologicke postupy a produkty?	64
+679	muzu  dostat patenty i na biotechnologicke postupy a produkty?	64
+680	mohu  dostat patenty i na biotechnologicke postupy a produkty?	64
+681	muze se dostat patenty i na biotechnologicke postupy a produkty?	64
+682	je mozne ziskat  patent i na biotechnologicke postupy a produkty?	64
+683	lze ziskat  patent i na biotechnologicke postupy a produkty?	64
+684	muzu ziskat  patent i na biotechnologicke postupy a produkty?	64
+685	mohu ziskat  patent i na biotechnologicke postupy a produkty?	64
+686	muze se ziskat  patent i na biotechnologicke postupy a produkty?	64
+687	je mozne  mit  patent i na biotechnologicke postupy a produkty?	64
+688	lze  mit  patent i na biotechnologicke postupy a produkty?	64
+689	muzu  mit  patent i na biotechnologicke postupy a produkty?	64
+690	mohu  mit  patent i na biotechnologicke postupy a produkty?	64
+691	muze se mit  patent i na biotechnologicke postupy a produkty?	64
+692	je mozne  dostat patent i na biotechnologicke postupy a produkty?	64
+693	lze  dostat patent i na biotechnologicke postupy a produkty?	64
+694	muzu  dostat patent i na biotechnologicke postupy a produkty?	64
+695	mohu  dostat patent i na biotechnologicke postupy a produkty?	64
+696	muze se dostat patent i na biotechnologicke postupy a produkty?	64
+697	lze ziskat patent na program pro pocitace?	64
+698	lze ziskat patent na software?	64
+699	co nelze patentovat?	64
+700	co nejde patentovat?	64
+701	co neni mozne patentovat?	64
+702	co nemuzu patentovat?	64
+703	je mozne ziskat patent na lecebny postup pro zvirata?	64
+704	lze ziskat patent na lecebny postup pro zvirata?	64
+705	muzu ziskat patent na lecebny postup pro zvirata?	64
+706	mohu ziskat patent na lecebny postup pro zvirata?	64
+707	muze se ziskat patent na lecebny postup pro zvirata?	64
+708	je mozne  mit patent na lecebny postup pro zvirata?	64
+709	lze  mit patent na lecebny postup pro zvirata?	64
+710	muzu  mit patent na lecebny postup pro zvirata?	64
+711	mohu  mit patent na lecebny postup pro zvirata?	64
+712	muze se mit patent na lecebny postup pro zvirata?	64
+713	je mozne  dostat patent na lecebny postup pro zvirata?	64
+714	lze  dostat patent na lecebny postup pro zvirata?	64
+715	muzu  dostat patent na lecebny postup pro zvirata?	64
+716	mohu  dostat patent na lecebny postup pro zvirata?	64
+717	muze se dostat patent na lecebny postup pro zvirata?	64
+718	je mozne ziskat  patentovat lecebny postup pro zvirata?	64
+719	lze ziskat  patentovat lecebny postup pro zvirata?	64
+720	muzu ziskat  patentovat lecebny postup pro zvirata?	64
+721	mohu ziskat  patentovat lecebny postup pro zvirata?	64
+722	muze se ziskat  patentovat lecebny postup pro zvirata?	64
+723	je mozne  mit  patentovat lecebny postup pro zvirata?	64
+724	lze  mit  patentovat lecebny postup pro zvirata?	64
+725	muzu  mit  patentovat lecebny postup pro zvirata?	64
+726	mohu  mit  patentovat lecebny postup pro zvirata?	64
+727	muze se mit  patentovat lecebny postup pro zvirata?	64
+728	je mozne  dostat patentovat lecebny postup pro zvirata?	64
+729	lze  dostat patentovat lecebny postup pro zvirata?	64
+730	muzu  dostat patentovat lecebny postup pro zvirata?	64
+731	mohu  dostat patentovat lecebny postup pro zvirata?	64
+732	muze se dostat patentovat lecebny postup pro zvirata?	64
+733	overeni novosti vynalezu	65
+734	novost vynalezu	65
+735	jedna z podminek patentovatelnosti	65
+736	podminka patentovatelnosti	65
+737	jak  lze provest resersi patentu?	65
+738	kde lze provest resersi patentu?	65
+739	jak  muzu provest resersi patentu?	65
+740	kde muzu provest resersi patentu?	65
+741	jak  mohu provest resersi patentu?	65
+742	kde mohu provest resersi patentu?	65
+743	jak  se muze provest resersi patentu?	65
+744	kde se muze provest resersi patentu?	65
+745	jak  lze  udelat resersi patentu?	65
+746	kde lze  udelat resersi patentu?	65
+747	jak  muzu  udelat resersi patentu?	65
+748	kde muzu  udelat resersi patentu?	65
+749	jak  mohu  udelat resersi patentu?	65
+750	kde mohu  udelat resersi patentu?	65
+751	jak  se muze udelat resersi patentu?	65
+752	kde se muze udelat resersi patentu?	65
+753	jak  lze  provedu resersi patentu?	65
+754	kde lze  provedu resersi patentu?	65
+755	jak  muzu  provedu resersi patentu?	65
+756	kde muzu  provedu resersi patentu?	65
+757	jak  mohu  provedu resersi patentu?	65
+758	kde mohu  provedu resersi patentu?	65
+759	jak  se muze provedu resersi patentu?	65
+760	kde se muze provedu resersi patentu?	65
+761	jak  lze  udelam resersi patentu?	65
+762	kde lze  udelam resersi patentu?	65
+763	jak  muzu  udelam resersi patentu?	65
+764	kde muzu  udelam resersi patentu?	65
+765	jak  mohu  udelam resersi patentu?	65
+766	kde mohu  udelam resersi patentu?	65
+767	jak  se muze udelam resersi patentu?	65
+768	kde se muze udelam resersi patentu?	65
+769	odkaz pro overeni novosti vynalezu	65
+770	zdroje pro overeni novosti vynalezu	65
+771	mezinarodni databaze pro overeni novosti vynalezu	65
+772	zahranicni databaze pro overeni novosti vynalezu	65
+773	patentova reserse	65
+774	reserse patentu	65
+775	jak podat objednavku patentove reserse u uradu?	65
+776	kde podat objednavku patentove reserse u uradu?	65
+777	jak  objednat patentovou resersi u uradu?	65
+778	kde objednat patentovou resersi u uradu?	65
+779	objednavka patentove reserse	65
+780	resersni sluzby uradu pro vynalezy	65
+781	jaka je vyse spravniho poplatku za podani prihlasky vynalezu ?	66
+782	jaka je vyse spravniho poplatku za podani prihlasky patentu?	66
+783	kolik stoji registrace patentu	66
+784	kolik stoji prihlaseni patentu	66
+785	kolik stoji vynalezu	66
+786	poplatek za podani prihlasky vynalezu	66
+787	kolik stoji  patentu	66
+788	poplatek za podani prihlasky patentu	66
+789	sleva pri elektronickem podani prihlasky vynalezu	66
+790	sleva pri elektronickem podani prihlasky patentu	66
+791	jak je mozne uhradit spravni poplatek za podani prihlasky vynalezu ?	66
+792	jak lze uhradit spravni poplatek za podani prihlasky vynalezu ?	66
+793	jak muzu uhradit spravni poplatek za podani prihlasky vynalezu ?	66
+794	jak mohu uhradit spravni poplatek za podani prihlasky vynalezu ?	66
+795	jak je mozne  zaplatit spravni poplatek za podani prihlasky vynalezu ?	66
+796	jak lze  zaplatit spravni poplatek za podani prihlasky vynalezu ?	66
+797	jak muzu  zaplatit spravni poplatek za podani prihlasky vynalezu ?	66
+798	jak mohu zaplatit spravni poplatek za podani prihlasky vynalezu ?	66
+799	jak je mozne uhradit spravni poplatek za podani prihlasky patentu?	66
+800	jak lze uhradit spravni poplatek za podani prihlasky patentu?	66
+801	jak muzu uhradit spravni poplatek za podani prihlasky patentu?	66
+802	jak mohu uhradit spravni poplatek za podani prihlasky patentu?	66
+803	jak je mozne  zaplatit spravni poplatek za podani prihlasky patentu?	66
+804	jak lze  zaplatit spravni poplatek za podani prihlasky patentu?	66
+805	jak muzu  zaplatit spravni poplatek za podani prihlasky patentu?	66
+806	jak mohu zaplatit spravni poplatek za podani prihlasky patentu?	66
+807	informace o platbe poplatku za udeleny patent	66
+808	informace o platbe poplatku za udeleny vynalez	66
+809	poplatky udrzovani patentu v platnosti	67
+810	poplatek udrzovani patentu v platnosti	67
+811	udrzovaci poplatek udrzovani patentu v platnosti	67
+812	poplatek za udrzovani udrzovani patentu v platnosti	67
+813	kolik stoji udrzovani patentu v platnosti	67
+814	cena udrzovani patentu v platnosti	67
+815	udrzovani patentu v platnosti	67
+816	moznosti platby udrzovaciho poplatku	67
+817	variabilni symbol pri platbe udrzovaciho poplatku	67
+818	jak dlouho trva zpracovani patentove reserse?	68
+819	expresni patentove reserse	68
+820	poskytuje urad rychlou patentovou resersi?	68
+821	provadi urad rychlou patentovou resersi?	68
+822	dela urad rychlou patentovou resersi?	68
+823	provadite rychlou patentovou resersi?	68
+824	delate rychlou patentovou resersi?	68
+825	poskytujete rychlou patentovou resersi?	68
+826	poskytuje urad  expresni patentovou resersi?	68
+827	provadi urad  expresni patentovou resersi?	68
+828	dela urad  expresni patentovou resersi?	68
+829	provadite  expresni patentovou resersi?	68
+830	delate  expresni patentovou resersi?	68
+831	poskytujete expresni patentovou resersi?	68
+832	doba zpracovani patentove reserse	68
+833	doba zpracovani reserse patentu uradem	68
+834	existuje zpusob, jak urychlit patentovou resersi?	68
+835	jak dlouho obvykle trva, nez obdrzim vysledky patentove reserse?	68
+836	jak dlouho obvykle trva, nez dostanu vysledky patentove reserse?	68
+837	poskytuje urad sluzby expresnich patentovych resersi?	68
+838	provadi urad sluzby expresnich patentovych resersi?	68
+839	dela urad sluzby expresnich patentovych resersi?	68
+840	provadite sluzby expresnich patentovych resersi?	68
+841	delate sluzby expresnich patentovych resersi?	68
+842	poskytujete sluzby expresnich patentovych resersi?	68
+843	v cem je rozdil mezi patentem a uzitnym vzorem?	69
+844	jaky je rozdil mezi patentem a uzitnym vzorem?	69
+845	vysvetli rozdil mezi patentem a uzitnym vzorem?	69
+846	povez mi rozdil mezi patentem a uzitnym vzorem?	69
+847	rekni mi rozdil mezi patentem a uzitnym vzorem?	69
+848	rekni mi, jaky je rozdil mezi patentem a uzitnym vzorem?	69
+849	jak se lisi patenty a uzitne vzory ?	69
+850	cim se lisi patenty a uzitne vzory ?	69
+851	jak se lisi patenty od uzitnych vzoru?	69
+852	cim se lisi patenty od uzitnych vzoru?	69
+853	jak se lisi patent a uzitny vzor ?	69
+854	cim se lisi patent a uzitny vzor ?	69
+855	jak se lisi patent od uzitneho vzoru?	69
+856	cim se lisi patent od uzitneho vzoru?	69
+857	co lze chranit patentem a co uzitnym vzorem?	70
+858	co je mozne chranit patentem a co uzitnym vzorem?	70
+859	co se muze chranit patentem a co uzitnym vzorem?	70
+860	mohou byt ochraneny stejne veci patenty a uzitnymi vzory?	70
+861	co znamena, ze uzitny vzor je zapsan na zaklade registracniho principu?	71
+862	co je registracni princip u uzitneho vzoru?	71
+863	co znamena registracni princip u uzitneho vzoru?	71
+864	kdy je lepsi zvolit ochranu pomoci uzitneho vzoru?	71
+865	kdy je vyhodnejsi zvolit ochranu pomoci uzitneho vzoru?	71
+866	pro co je idealni ochrana uzitnym vzorem?	71
+867	pro jake objekty je idealni ochrana uzitnym vzorem?	71
+868	pro jake predmety je idealni ochrana uzitnym vzorem?	71
+869	pro co je lepsi ochrana uzitnym vzorem?	71
+870	pro jake objekty je lepsi ochrana uzitnym vzorem?	71
+871	pro jake predmety je lepsi ochrana uzitnym vzorem?	71
+872	pro co je vhodnejsi ochrana uzitnym vzorem?	71
+873	pro jake objekty je vhodnejsi ochrana uzitnym vzorem?	71
+874	pro jake predmety je vhodnejsi ochrana uzitnym vzorem?	71
+875	jak dlouho plati patent a jak dlouho uzitny vzor?	72
+876	jak dlouho muze platit patent a jak dlouho uzitny vzor?	72
+877	co je uzitny vzor?	73
+878	co se da chranit uzitnym vzorem?	73
+879	co lze chranit uzitnym vzorem?	73
+880	co je mozne chranit uzitnym vzorem?	73
+881	definice uzitneho vzoru	73
+882	jake jsou vyhody zapisu uzitneho vzoru oproti patentu?	74
+883	jak dlouho trva zapis uzitneho vzoru?	74
+884	za jak dlouho je uzitny vzor zapsan do rejstriku?	74
+885	jsou ucinky zapisu uzitneho vzoru stejne jako u patentu?	74
+886	jsou ucinky zapisu uzitneho vzoru srovnatelne jako u patentu?	74
+887	jak  lze provest resersi uzitnych vzoru?	75
+888	kde  lze provest resersi uzitnych vzoru?	75
+889	jakym zpusobem lze provest resersi uzitnych vzoru?	75
+890	jak  muzu provest resersi uzitnych vzoru?	75
+891	kde  muzu provest resersi uzitnych vzoru?	75
+892	jakym zpusobem muzu provest resersi uzitnych vzoru?	75
+893	jak  mohu provest resersi uzitnych vzoru?	75
+894	kde  mohu provest resersi uzitnych vzoru?	75
+895	jakym zpusobem mohu provest resersi uzitnych vzoru?	75
+896	jak  se muze provest resersi uzitnych vzoru?	75
+897	kde  se muze provest resersi uzitnych vzoru?	75
+898	jakym zpusobem se muze provest resersi uzitnych vzoru?	75
+899	jak  lze  udelat resersi uzitnych vzoru?	75
+900	kde  lze  udelat resersi uzitnych vzoru?	75
+901	jakym zpusobem lze  udelat resersi uzitnych vzoru?	75
+902	jak  muzu  udelat resersi uzitnych vzoru?	75
+903	kde  muzu  udelat resersi uzitnych vzoru?	75
+904	jakym zpusobem muzu  udelat resersi uzitnych vzoru?	75
+905	jak  mohu  udelat resersi uzitnych vzoru?	75
+906	kde  mohu  udelat resersi uzitnych vzoru?	75
+907	jakym zpusobem mohu  udelat resersi uzitnych vzoru?	75
+908	jak  se muze udelat resersi uzitnych vzoru?	75
+909	kde  se muze udelat resersi uzitnych vzoru?	75
+910	jakym zpusobem se muze udelat resersi uzitnych vzoru?	75
+911	jak  lze  provedu resersi uzitnych vzoru?	75
+912	kde  lze  provedu resersi uzitnych vzoru?	75
+913	jakym zpusobem lze  provedu resersi uzitnych vzoru?	75
+914	jak  muzu  provedu resersi uzitnych vzoru?	75
+915	kde  muzu  provedu resersi uzitnych vzoru?	75
+916	jakym zpusobem muzu  provedu resersi uzitnych vzoru?	75
+917	jak  mohu  provedu resersi uzitnych vzoru?	75
+918	kde  mohu  provedu resersi uzitnych vzoru?	75
+919	jakym zpusobem mohu  provedu resersi uzitnych vzoru?	75
+920	jak  se muze provedu resersi uzitnych vzoru?	75
+921	kde  se muze provedu resersi uzitnych vzoru?	75
+922	jakym zpusobem se muze provedu resersi uzitnych vzoru?	75
+923	jak  lze  udelam resersi uzitnych vzoru?	75
+924	kde  lze  udelam resersi uzitnych vzoru?	75
+925	jakym zpusobem lze  udelam resersi uzitnych vzoru?	75
+926	jak  muzu  udelam resersi uzitnych vzoru?	75
+927	kde  muzu  udelam resersi uzitnych vzoru?	75
+928	jakym zpusobem muzu  udelam resersi uzitnych vzoru?	75
+929	jak  mohu  udelam resersi uzitnych vzoru?	75
+930	kde  mohu  udelam resersi uzitnych vzoru?	75
+931	jakym zpusobem mohu  udelam resersi uzitnych vzoru?	75
+932	jak  se muze udelam resersi uzitnych vzoru?	75
+933	kde  se muze udelam resersi uzitnych vzoru?	75
+934	jakym zpusobem se muze udelam resersi uzitnych vzoru?	75
+935	objednavka reserse uzitnych vzoru	75
+936	reserse uzitnych vzoru	75
+937	jaky je postup objednani resersnich sluzeb pro uzitne vzory uradu?	76
+938	jak podat objednavku reserse uzitnych vzoru u uradu?	76
+939	kde podat objednavku reserse uzitnych vzoru u uradu?	76
+940	jak  objednat resersi uzitnych vzoru u uradu?	76
+941	kde objednat resersi uzitnych vzoru u uradu?	76
+942	za jak dlouho je hotova reserse uzitnych vzoru?	76
+943	jak dlouho trva reserse uzitnych vzoru?	76
+944	expresni resersni sluzby uzitnych vzoru	77
+945	resersni sluzby uradu k uzitnym vzorum	77
+946	resersni sluzby uradu pro uzitne vzory	77
+947	cena za prihlasku uzitneho vzoru	78
+948	poplatek za prihlasku uzitneho vzoru	78
+949	kolik stoji za prihlasku uzitneho vzoru	78
+950	cena za podani prihlasky uzitneho vzoru	78
+951	poplatek za podani prihlasky uzitneho vzoru	78
+952	kolik stoji za podani prihlasky uzitneho vzoru	78
+953	kolik stoji podani prihlasky uzitneho vzoru?	78
+954	kolik stoji uzitny vzor	78
+955	cena uzitneho vzoru	78
+956	kolik stoji prihlaska uzitneho vzoru?	78
+957	kolik stoji prihlaseni uzitneho vzoru?	78
+958	sleva na spravni poplatek pri elektronickem podani prihlasky uzitneho vzoru	78
+959	moznosti zaplaceni spravniho poplatku za podani prihlasky uzitneho vzoru	78
+960	poplatek za prodlouzeni platnosti zapisu uzitneho vzoru	79
+961	poplatek za prodlouzeni platnosti uzitneho vzoru	79
+962	jak mohu prodlouzit platnost zapisu uzitneho vzoru?	79
+963	jakym zpusobem mohu prodlouzit platnost zapisu uzitneho vzoru?	79
+964	jak  muzu prodlouzit platnost zapisu uzitneho vzoru?	79
+965	jakym zpusobem muzu prodlouzit platnost zapisu uzitneho vzoru?	79
+966	jak  mam prodlouzit platnost zapisu uzitneho vzoru?	79
+967	jakym zpusobem mam prodlouzit platnost zapisu uzitneho vzoru?	79
+968	doba platnosti zapisu uzitneho vzoru	79
+969	maximalni doba platnosti zapisu uzitneho vzoru	79
+970	prodlouzeni uzitneho vzoru	79
+971	obnova platnosti uzitneho vzoru	79
+972	formular pro prodlouzeni platnosti uzitneho vzoru	79
+973	formular pro obnovu platnosti uzitneho vzoru	79
+974	formular prodlouzeni platnosti uzitneho vzoru	79
+975	kde se mohu podivat na souhrnnou informaci o poplatcich?	79
+976	kde najdu souhrnnou informaci o poplatcich?	79
+977	prehled vsech poplatku	79
+978	sazebnik uhrad nakladu	79
+979	kde na webu upv jsou informace o poplatcich?	79
+980	souhrn poplatku	79
+981	souhrn spravnch poplatku	79
+982	prehled poplatku	79
+983	obecne o poplatcich	79
+984	cenik	79
+985	muzete mi sdelit , kde najdu prehled poplatku?	79
+986	muzete mi rict , kde najdu prehled poplatku?	79
+987	muzete mi dat odkaz, kde najdu prehled poplatku?	79
+988	jak mohu dohledat sazebnik uhrad nakladu?	79
+989	kde mohu najit informace o cenach ?	79
+990	kde mohu najit informace o poplatcich?	79
+991	kde mohu najit prehled vsech poplatku na webu upv?	79
+992	kde muzu najit prehled vsech poplatku na webu upv?	79
+993	kde najdu prehled vsech poplatku na webu upv?	79
+994	kde je prehled vsech poplatku na webu upv?	79
+995	moznosti uhrady poplatku	80
+996	moznosti uhrady poplatku obecne	80
+997	mohu poplatky uhradit v hotovosti na pokladne uradu?	80
+998	lze poplatky uhradit v hotovosti na pokladne uradu?	80
+999	muzu poplatky uhradit v hotovosti na pokladne uradu?	80
+1000	je mozne poplatky uhradit v hotovosti na pokladne uradu?	80
+1001	co kdyz chci poplatky uhradit v hotovosti na pokladne uradu?	80
+1002	mohu poplatky zaplatit v hotovosti na pokladne uradu?	80
+1003	lze poplatky zaplatit v hotovosti na pokladne uradu?	80
+1004	muzu poplatky zaplatit v hotovosti na pokladne uradu?	80
+1005	je mozne poplatky zaplatit v hotovosti na pokladne uradu?	80
+1006	co kdyz chci poplatky zaplatit v hotovosti na pokladne uradu?	80
+1007	mohu mozne poplatky zaplatit bankovnim prevodem?	80
+1008	lze mozne poplatky zaplatit bankovnim prevodem?	80
+1009	muzu mozne poplatky zaplatit bankovnim prevodem?	80
+1010	je mozne mozne poplatky zaplatit bankovnim prevodem?	80
+1011	co kdyz chci mozne poplatky zaplatit bankovnim prevodem?	80
+1012	mohu poplatky uhradit slozenkou?	80
+1013	lze poplatky uhradit slozenkou?	80
+1014	muzu poplatky uhradit slozenkou?	80
+1015	je mozne poplatky uhradit slozenkou?	80
+1016	co kdyz chci poplatky uhradit slozenkou?	80
+1017	mohu  poplatek zaplatit kolky?	80
+1018	lze  poplatek zaplatit kolky?	80
+1019	muzu  poplatek zaplatit kolky?	80
+1020	je mozne  poplatek zaplatit kolky?	80
+1021	co kdyz chci poplatek zaplatit kolky?	80
+1022	informace o vysi poplatku	80
+1023	informace o platbe poukazkou, platbe kauce a platbach do evropskeho patentoveho uradu	80
+1024	jake jsou podminky prijimani dokumentu na podatelne uradu?	80
+1025	kde se mohu informovat o provozu podatelny uradu?	81
+1026	informace o provozu podatelny	81
+1027	format variabilniho symbolu pro platbu poplatku uradu	82
+1028	jak je vytvaren variabilni symbol, kdyz je podani odesilano elektronicky?	82
+1029	jake pravidla plati pro tvorbu variabilniho symbolu pro platbu poplatku?	82
+1030	variabilni symbol pro platbu poplatku pred uradem	82
+1031	kde najdu informace o variabilnich symbolech pro platbu poplatku?	82
+1032	kde jsou informace o variabilnich symbolech pro platbu poplatku?	82
+1033	kde mohu najit informace o variabilnich symbolech pro platbu poplatku?	82
+1034	kde muzu najit informace o variabilnich symbolech pro platbu poplatku?	82
+1035	jak je generovan variabilni symbol pro platbu poplatku?	82
+1036	jakym zpusobem je generovan variabilni symbol pro platbu poplatku?	82
+1037	jak  se generuje variabilni symbol pro platbu poplatku?	82
+1038	jakym zpusobem se generuje variabilni symbol pro platbu poplatku?	82
+1039	tvorba variabilniho symbolu pro platbu poplatku	82
+1040	variabilni symbol	82
+1041	pocet mist variabilniho symbolu	82
+1042	variabilni symbol pro elektronicke podani	82
+1043	pravni predpisy tykajici se poplatku	83
+1044	pravni predpisy ohledne poplatku	83
+1045	pravni predpisy k poplatkum	83
+1046	pravni predpisy ke spravnim poplatkum	83
+1047	jake predpisy se tykaji poplatku?	83
+1048	ktere predpisy se tykaji poplatku?	83
+1049	kde lze najit predpisy tykajici se poplatku?	83
+1050	kde najdu predpisy tykajici se poplatku?	83
+1051	kde mohu najit predpisy tykajici se poplatku?	83
+1052	kde muzu najit predpisy tykajici se poplatku?	83
+1053	kde lze najit predpisy ohledne poplatku?	83
+1054	kde najdu predpisy ohledne poplatku?	83
+1055	kde mohu najit predpisy ohledne poplatku?	83
+1056	kde muzu najit predpisy ohledne poplatku?	83
+1057	kde lze najit informace o predpisech k popatkum?	83
+1058	kde najdu informace o predpisech k popatkum?	83
+1059	kde mohu najit informace o predpisech k popatkum?	83
+1060	kde muzu najit informace o predpisech k popatkum?	83
+1061	zakony o poplatcich	83
+1062	kde najdu zakony, ktere se tykaji poplatku	83
+1063	jake pravni predpisy upravuji poplatky?	83
+1064	jake pravni predpisy reguluji poplatky?	83
+1065	seznam pravnich predpisu, ktere reguluji poplatky	83
+1066	seznam pravnich predpisu, ktere upravuji poplatky	83
+1067	jaky je vyznam prumysloveho vzoru?	84
+1068	co je prumyslovy vzor?	84
+1069	definice prumysloveho vzoru	84
+1070	muzete mi vysvetlit pojem prumyslovy vzor?	84
+1071	muzes mi vysvetlit pojem prumyslovy vzor?	84
+1072	jak se vytvari prumyslovy vzor?	84
+1073	jakym zpusobem se vytvari prumyslovy vzor?	84
+1074	co presne znamena prumyslovy vzor?	84
+1075	co obnasi prumyslovy vzor?	84
+1076	charakteristiky prumysloveho vzoru	84
+1077	jake vlastnosti ma prumyslovy vzor?	84
+1078	muzete mi poskytnout definici prumysloveho vzoru?	84
+1079	muzes mi poskytnout definici prumysloveho vzoru?	84
+1080	muzete mi rict definici prumysloveho vzoru?	84
+1081	muzes mi rict definici prumysloveho vzoru?	84
+1082	muzete mi dat definici prumysloveho vzoru?	84
+1083	muzes mi dat definici prumysloveho vzoru?	84
+1084	reserse pro overeni novosti prumysloveho vzoru	85
+1085	overeni novosti prumysloveho vzoru	85
+1086	novost prumysloveho vzoru	85
+1087	reserse prumysloveho vzoru	85
+1088	databaze pro resersi prumyslovych vzoru	85
+1089	jak  lze provest resersi prumysloveho vzoru?	85
+1090	kde lze provest resersi prumysloveho vzoru?	85
+1091	jak  muzu provest resersi prumysloveho vzoru?	85
+1092	kde muzu provest resersi prumysloveho vzoru?	85
+1093	jak  mohu provest resersi prumysloveho vzoru?	85
+1094	kde mohu provest resersi prumysloveho vzoru?	85
+1095	jak  se muze provest resersi prumysloveho vzoru?	85
+1096	kde se muze provest resersi prumysloveho vzoru?	85
+1097	jak  lze  udelat resersi prumysloveho vzoru?	85
+1098	kde lze  udelat resersi prumysloveho vzoru?	85
+1099	jak  muzu  udelat resersi prumysloveho vzoru?	85
+1100	kde muzu  udelat resersi prumysloveho vzoru?	85
+1101	jak  mohu  udelat resersi prumysloveho vzoru?	85
+1102	kde mohu  udelat resersi prumysloveho vzoru?	85
+1103	jak  se muze udelat resersi prumysloveho vzoru?	85
+1104	kde se muze udelat resersi prumysloveho vzoru?	85
+1105	jak  lze  provedu resersi prumysloveho vzoru?	85
+1106	kde lze  provedu resersi prumysloveho vzoru?	85
+1107	jak  muzu  provedu resersi prumysloveho vzoru?	85
+1108	kde muzu  provedu resersi prumysloveho vzoru?	85
+1109	jak  mohu  provedu resersi prumysloveho vzoru?	85
+1110	kde mohu  provedu resersi prumysloveho vzoru?	85
+1111	jak  se muze provedu resersi prumysloveho vzoru?	85
+1112	kde se muze provedu resersi prumysloveho vzoru?	85
+1113	jak  lze  udelam resersi prumysloveho vzoru?	85
+1114	kde lze  udelam resersi prumysloveho vzoru?	85
+1115	jak  muzu  udelam resersi prumysloveho vzoru?	85
+1116	kde muzu  udelam resersi prumysloveho vzoru?	85
+1117	jak  mohu  udelam resersi prumysloveho vzoru?	85
+1118	kde mohu  udelam resersi prumysloveho vzoru?	85
+1119	jak  se muze udelam resersi prumysloveho vzoru?	85
+1120	kde se muze udelam resersi prumysloveho vzoru?	85
+1121	odkaz pro overeni novosti prumysloveho vzoru	85
+1122	zdroje pro overeni novosti prumysloveho vzoru	85
+1123	objednavka reserse prumysloveho vzoru uradem	86
+1124	resersni sluzby uradu k prumyslovym vzorum	86
+1125	formular pro objednani reserse prumysloveho vzoru uradem	88
+1126	formular objednavky reserse prumysloveho vzoru uradem	88
+1127	kolik stoji zpracovani reserse prumysloveho vzoru?	89
+1128	jaky je poplatek za zpracovani reserse prumysloveho vzoru?	89
+1129	cena zpracovani reserse prumysloveho vzoru?	89
+1130	poplatek za podani prihlasky prumysloveho vzoru	90
+1131	poplatek za prijeti prihlasky prumysloveho vzoru	90
+1132	cena za prihlaska prumysloveho vzoru	90
+1133	poplatek prihlaska prumysloveho vzoru	90
+1134	kolik stoji prihlaska prumysloveho vzoru	90
+1135	kolik stoji prumyslovy vzor	90
+1136	sleva na poplatku pri podani prihlasky prumysloveho vzoru elektronicky	90
+1137	sleva na poplatek pri elektronickem podani prihlasky prumysloveho vzoru	90
+1138	sleva na poplatku pri elektronickem podani prihlasky prumysloveho vzoru	90
+1139	poplatek za hromadnou prihlasku prumysloveho vzoru	90
+1140	poplatek za prijeti hromadne prihlasky prumysloveho vzoru	90
+1141	existuje poplatek za kazdy dalsi prumyslovy vzor v prihlasce?	90
+1142	plati se poplatek za kazdy dalsi prumyslovy vzor v prihlasce?	90
+1143	jak je mozne uhradit spravni poplatek za podani prihlasky prumysloveho vzoru?	91
+1144	jak lze uhradit spravni poplatek za podani prihlasky prumysloveho vzoru?	91
+1145	jak muzu uhradit spravni poplatek za podani prihlasky prumysloveho vzoru?	91
+1146	jak mohu uhradit spravni poplatek za podani prihlasky prumysloveho vzoru?	91
+1147	jak je mozne  zaplatit spravni poplatek za podani prihlasky prumysloveho vzoru?	91
+1148	jak lze  zaplatit spravni poplatek za podani prihlasky prumysloveho vzoru?	91
+1149	jak muzu  zaplatit spravni poplatek za podani prihlasky prumysloveho vzoru?	91
+1150	jak mohu zaplatit spravni poplatek za podani prihlasky prumysloveho vzoru?	91
+1151	jaky hradi poplatek za prihlasku prumysloveho vzoru?	91
+1152	jaky se hradi poplatek za prihlasku prumysloveho vzoru?	91
+1153	ktery hradi poplatek za prihlasku prumysloveho vzoru?	91
+1154	ktery se hradi poplatek za prihlasku prumysloveho vzoru?	91
+1155	jak hradi poplatek za prihlasku prumysloveho vzoru?	91
+1156	jak se hradi poplatek za prihlasku prumysloveho vzoru?	91
+1157	jaky  plati poplatek za prihlasku prumysloveho vzoru?	91
+1158	jaky se  plati poplatek za prihlasku prumysloveho vzoru?	91
+1159	ktery  plati poplatek za prihlasku prumysloveho vzoru?	91
+1160	ktery se  plati poplatek za prihlasku prumysloveho vzoru?	91
+1161	jak  plati poplatek za prihlasku prumysloveho vzoru?	91
+1162	jak se plati poplatek za prihlasku prumysloveho vzoru?	91
+1163	jaky  mam zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1164	jaky se  mam zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1165	ktery  mam zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1166	ktery se  mam zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1167	jak  mam zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1168	jak se mam zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1169	jaky  zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1170	jaky se  zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1171	ktery  zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1172	ktery se  zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1173	jak  zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1174	jak se zaplatit poplatek za prihlasku prumysloveho vzoru?	91
+1175	jaky  uhradit poplatek za prihlasku prumysloveho vzoru?	91
+1176	jaky se  uhradit poplatek za prihlasku prumysloveho vzoru?	91
+1177	ktery  uhradit poplatek za prihlasku prumysloveho vzoru?	91
+1178	ktery se  uhradit poplatek za prihlasku prumysloveho vzoru?	91
+1179	jak  uhradit poplatek za prihlasku prumysloveho vzoru?	91
+1180	jak se uhradit poplatek za prihlasku prumysloveho vzoru?	91
+1181	doba ochrany prumysloveho vzoru	92
+1182	trvani ochrany prumysloveho vzoru	92
+1183	udrzovani prumysloveho vzoru v platnosti	92
+1184	kolik se plati  zapsaneho prumysloveho vzoru	93
+1185	jaky je poplatek za zapsaneho prumysloveho vzoru	93
+1186	kolik se plati  obnova zapsaneho prumysloveho vzoru	93
+1187	jaky je poplatek za obnova zapsaneho prumysloveho vzoru	93
+1188	kolik se plati  obnovu zapsaneho prumysloveho vzoru	93
+1189	jaky je poplatek za obnovu zapsaneho prumysloveho vzoru	93
+1190	kolik se plati  prodlouzeni zapsaneho prumysloveho vzoru	93
+1191	jaky je poplatek za prodlouzeni zapsaneho prumysloveho vzoru	93
+1192	kolik se plati  zapisu prumysloveho vzoru	93
+1193	jaky je poplatek za  zapisu prumysloveho vzoru	93
+1194	kolik se plati  obnova  zapisu prumysloveho vzoru	93
+1195	jaky je poplatek za obnova  zapisu prumysloveho vzoru	93
+1196	kolik se plati  obnovu  zapisu prumysloveho vzoru	93
+1197	jaky je poplatek za obnovu  zapisu prumysloveho vzoru	93
+1198	kolik se plati  prodlouzeni zapisu prumysloveho vzoru	93
+1199	jaky je poplatek za prodlouzeni zapisu prumysloveho vzoru	93
+1200	udrzovaci poplatek pro prumyslovy vzor	93
+1201	kde mohu najit resersni databazi prumyslovych vzoru?	94
+1202	kde je resersni databazi prumyslovych vzoru?	94
+1203	kde najdu resersni databazi prumyslovych vzoru?	94
+1204	kde muzu najit resersni databazi prumyslovych vzoru?	94
+1205	co obsahuje databaze prumyslovych vzoru?	94
+1206	jake informace obsahuje databaze prumyslovych vzoru?	94
+1207	co obsahuje ceska databaze prumyslovych vzoru?	94
+1208	jake informace obsahuje ceska databaze prumyslovych vzoru?	94
+1209	jsou v databazi prumyslovych vzoru zapsane take prumyslove vzory z uradu evropske unie pro dusevni vlastnictvi?	94
+1210	kde lze najit mezinarodni prumyslove vzory platne na uzemi ceske republiky?	94
+1211	kde je mozne najit mezinarodni prumyslove vzory platne na uzemi ceske republiky?	94
+1212	kde jsou mezinarodni prumyslove vzory platne na uzemi ceske republiky?	94
+1213	kde najdu mezinarodni prumyslove vzory platne na uzemi ceske republiky?	94
+1214	odkazy na mezinarodni databaze prumyslovych vzoru	94
+1215	odkazy na zahranicni databaze prumyslovych vzoru	94
+1216	co je euipo ?	94
+1217	co znamena euipo ?	94
+1218	co je  wipo ?	94
+1219	co znamena wipo ?	94
+1220	co je  vipo?	94
+1221	co znamena vipo?	94
+1222	co je databaze hague ?	94
+1223	co znamena databaze hague ?	94
+1224	co najdu v databaze hague ?	94
+1225	co je  databazi hague ?	94
+1226	co znamena  databazi hague ?	94
+1227	co najdu v databazi hague ?	94
+1228	co je databaze  hag ?	94
+1229	co znamena databaze  hag ?	94
+1230	co najdu v databaze  hag ?	94
+1231	co je  databazi hag ?	94
+1232	co znamena  databazi hag ?	94
+1233	co najdu v databazi hag ?	94
+1234	co je databaze  hak ?	94
+1235	co znamena databaze  hak ?	94
+1236	co najdu v databaze  hak ?	94
+1237	co je  databazi hak ?	94
+1238	co znamena  databazi hak ?	94
+1239	co najdu v databazi hak ?	94
+1240	co je databaze  hague express ?	94
+1241	co znamena databaze  hague express ?	94
+1242	co najdu v databaze  hague express ?	94
+1243	co je  databazi hague express ?	94
+1244	co znamena  databazi hague express ?	94
+1245	co najdu v databazi hague express ?	94
+1246	co je databaze  hag express?	94
+1247	co znamena databaze  hag express?	94
+1248	co najdu v databaze  hag express?	94
+1249	co je  databazi hag express?	94
+1250	co znamena  databazi hag express?	94
+1251	co najdu v databazi hag express?	94
+1252	jake prumyslove vzory mohou na uzemi ceske republiky platit?	94
+1253	kde mohu dohledat mezinarodni prumyslove vzory?	94
+1254	kde najdu mezinarodni prumyslove vzory?	94
+1255	kde lze najit mezinarodni prumyslove vzory?	94
+1256	kde lze dohledat mezinarodni prumyslove vzory?	94
+1257	kde je mozne najit mezinarodni prumyslove vzory?	94
+1258	kde je mozne dohledat mezinarodni prumyslove vzory?	94
+1259	jake prumyslove vzory mohu nalezt na strankach uradu?	94
+1260	jake prumyslove vzory jsou na strankach uradu?	94
+1261	jake prumyslove vzory lze najit na strankach uradu?	94
+1262	jake prumyslove vzory je mozne najit na strankach uradu?	94
+1263	jak podat objednavku reserse prumysloveho vzoru u uradu?	95
+1264	kde podat objednavku reserse prumysloveho vzoru u uradu?	95
+1265	jak  objednat resersi prumysloveho vzoru u uradu?	95
+1266	kde objednat resersi prumysloveho vzoru u uradu?	95
+1267	reserse prumysloveho vzoru uradem	95
+1268	reserse prumyslovych vzoru uradem	95
+1269	resersni sluzby uradu pro prumyslove vzory	95
+1270	objednavka reserse prumysloveho vzoru	95
+1271	resersni sluzby uradu pro prumyslove vzory	95
+1272	co je resersnim vystupem u prumyslovych vzoru?	96
+1273	jak dlouho trva zpracovani reserse prumysloveho vzoru?	97
+1274	za jak dlouho zpracujete resersi prumysloveho vzoru	97
+1275	kolik stoji resersi prumysloveho vzoru?	98
+1276	jaky je poplatek za resersi prumysloveho vzoru?	98
+1277	ochrana prumysloveho vzoru v zahranici	99
+1278	prihlaseni prumysloveho vzoru v zahranici	99
+1279	prihlaska prumysloveho vzoru v zahranici	99
+1280	podani prumysloveho vzoru v zahranici	99
+1281	podani prihlasky prumysloveho vzoru v zahranici	99
+1282	moznosti ochrany prumysloveho vzoru v cilovych statech	99
+1283	moznosti ochrany prumysloveho vzoru v zahranici	99
+1284	ochrana prumysloveho vzoru v zahranici	99
+1285	jake urady jsou odpovedne za ochranu prumysloveho vzoru v zahranici?	99
+1286	jake urady resi ochranu prumysloveho vzoru v zahranici?	99
+1287	jake urady maji na starosti ochranu prumysloveho vzoru v zahranici?	99
+1288	je mozne ziskat ochranu prumysloveho vzoru v celem uzemi eu ?	100
+1289	co kdyz chci ziskat ochranu prumysloveho vzoru v celem uzemi eu ?	100
+1290	mohu ziskat ochranu prumysloveho vzoru v celem uzemi eu ?	100
+1291	muzu ziskat ochranu prumysloveho vzoru v celem uzemi eu ?	100
+1292	lze ziskat ochranu prumysloveho vzoru v celem uzemi eu ?	100
+1293	mohl bych ziskat ochranu prumysloveho vzoru v celem uzemi eu ?	100
+1294	jakou cestou ziskat ochranu prumysloveho vzoru v celem uzemi eu ?	100
+1295	jak ziskat ochranu prumysloveho vzoru v celem uzemi eu ?	100
+1296	je mozne ziskat ochranu prumysloveho vzoru v celem uzemi evropske unie?	100
+1297	co kdyz chci ziskat ochranu prumysloveho vzoru v celem uzemi evropske unie?	100
+1298	mohu ziskat ochranu prumysloveho vzoru v celem uzemi evropske unie?	100
+1299	muzu ziskat ochranu prumysloveho vzoru v celem uzemi evropske unie?	100
+1300	lze ziskat ochranu prumysloveho vzoru v celem uzemi evropske unie?	100
+1301	mohl bych ziskat ochranu prumysloveho vzoru v celem uzemi evropske unie?	100
+1302	jakou cestou ziskat ochranu prumysloveho vzoru v celem uzemi evropske unie?	100
+1303	jak ziskat ochranu prumysloveho vzoru v celem uzemi evropske unie?	100
+1304	kde mohu najit informacie o prumyslovem vlastnictvi v eu ?	100
+1305	kde najdu informacie o prumyslovem vlastnictvi v eu ?	100
+1306	kde lze najit informacie o prumyslovem vlastnictvi v eu ?	100
+1307	kde jsou informacie o prumyslovem vlastnictvi v eu ?	100
+1308	kde mohu najit informacie o prumyslovem vlastnictvi v evropske unii?	100
+1309	kde najdu informacie o prumyslovem vlastnictvi v evropske unii?	100
+1310	kde lze najit informacie o prumyslovem vlastnictvi v evropske unii?	100
+1311	kde jsou informacie o prumyslovem vlastnictvi v evropske unii?	100
+1312	co je haagsky system?	101
+1313	mezinarodni prihlaska podle haagskeho systemu	101
+1314	pomoc pri prihlasovani prumysloveho vzoru v zahranici	102
+1315	jak dlouho trva ochrana prumysloveho vzoru?	103
+1316	jaka je doba ochrany prumysloveho vzoru?	103
+1317	doba trvani ochrany zapsaneho prumysloveho vzoru	103
+1318	kolikrat muze byt ochrana prumysloveho vzoru obnovovana ?	103
+1319	jak dlouho muze byt ochrana prumysloveho vzoru obnovovana ?	103
+1320	kolikrat muze byt ochrana prumysloveho vzoru prodluzovana?	103
+1321	jak dlouho muze byt ochrana prumysloveho vzoru prodluzovana?	103
+1322	prodlouzeni ochrany prumysloveho vzoru	103
+1323	obnova ochrany prumysloveho vzoru	103
+1324	kdy podat zadost o obnovu prumysloveho vzoru?	103
+1325	jak podat zadost o obnovu prumysloveho vzoru?	103
+1326	kdy podat zadost o obnovu ochrany prumysloveho vzoru?	103
+1327	jak podat zadost o obnovu ochrany prumysloveho vzoru?	103
+1328	je podani zadosti o obnovu doby ochrany prumysloveho vzoru zpoplatneno?	103
+1329	poplatek za obnovu  prumysloveho vzoru	103
+1330	poplatek za prodlouzeni prumysloveho vzoru	103
+1331	poplatek za obnovu  ochrany prumysloveho vzoru	103
+1332	poplatek za prodlouzeni ochrany prumysloveho vzoru	103
+1333	pravo prednosti u prihlasovatele prumysloveho vzoru	103
+1334	jaka je maximalni doba ochrany prumysloveho vzoru?	103
+1335	jak se ochrana prumysloveho vzoru prodluzuje ?	103
+1336	jak se ochrana prumysloveho vzoru obnovuje?	103
+1337	proces obnovy ochrany pro prumyslovy vzor	103
+1338	co patri mezi prumyslove ochranene vyrobky?	104
+1339	co je prumyslovy vyrobek?	104
+1340	co se rozumi prumyslovym vyrobkem?	104
+1341	co je prumyslovym vyrobkem?	104
+1342	co se da oznacit jako vyrobek v pravni ochrane prumyslovych vzoru?	104
+1343	co se da oznacit jako vyrobek v kontextu prumyslovych vzoru?	104
+1344	co se da oznacit jako vyrobek u prumyslovych vzoru?	104
+1345	"jaka je definice ""vyrobku"" v pravni ochrane  prumyslovych vzoru?"	104
+1346	"jaka je definice ""vyrobku"" v kontextu pravni ochrany  prumyslovych vzoru?"	104
+1347	"jaka je definice ""vyrobku"" u prumyslovych vzoru?"	104
+1348	jake soucastky muze obsahovat prumyslove vyrobeny vyrobek?	104
+1349	slozeny vyrobek	104
+1350	jak je definovan slozeny vyrobek	104
+1351	co je slozeny vyrobek	104
+1352	prumyslovy vyrobek	104
+1353	jak se zada o zapis prumysloveho vzoru do rejstriku?	105
+1354	jak mam poradat o zapis prumysloveho vzoru do rejstriku?	105
+1355	jak pozadat o zapis prumysloveho vzoru do rejstriku?	105
+1356	jak podat zadost o zapis prumysloveho vzoru do rejstriku?	105
+1357	moznosti podani prihlasky prumysloveho vzoru	105
+1358	elektronicky vyplnitelne formulare pro prihlasku prumysloveho vzoru	105
+1359	je mozne podat prihlasku prumysloveho vzoru online?	105
+1360	mohu podat prihlasku prumysloveho vzoru postou?	105
+1361	lze podat prihlasku prumysloveho vzoru postou?	105
+1362	je mozne podat prihlasku prumysloveho vzoru postou?	105
+1363	pomoc pro prihlasku prumysloveho vzoru	106
+1364	odborne zastoupeni pro prihlasku prumysloveho vzoru	106
+1365	pomoc pro podani prihlasky prumysloveho vzoru	106
+1366	odborne zastoupeni pro podani prihlasky prumysloveho vzoru	106
+1367	existuji advokatni kancelare, ktere se zabyvaji prumyslovymi vzory?	106
+1368	pravni zastoupeni pro zadatele o prumyslovy vzor	106
+1369	pravni zastoupeni pro prihlasku prumyslovy vzor	106
+1370	pravni zastoupeni pro podani prihlasky prumyslovy vzor	106
+1371	pravni zastoupeni pro zadatele o  prumysloveho vzoru	106
+1372	pravni zastoupeni pro prihlasku  prumysloveho vzoru	106
+1373	pravni zastoupeni pro podani prihlasky prumysloveho vzoru	106
+1374	kdo me muze zastupovat pri podavani prihlasky prumysloveho vzoru?	106
+1375	kdo mi muze pomoci pri podavani prihlasky prumysloveho vzoru?	106
+1376	nalezitosti prihlasky prumysloveho vzoru	107
+1377	jednoducha prihlaska prumysloveho vzoru	107
+1378	hromadna prihlaska prumysloveho vzoru	107
+1379	jak prihlasit vice prumyslovych vzoru?	107
+1380	jaky je postup podani prihlasky pro prumyslovy vzor?	107
+1381	podani prihlasky prumysloveho vzoru	107
+1382	zadost o zapis prumysloveho vzoru	107
+1383	jak se podava prihlaska prumysloveho vzoru?	108
+1384	kam se podava prihlaska prumysloveho vzoru?	108
+1385	formular prihlasky prumysloveho vzoru	108
+1386	co obsahuje prihlaska prumysloveho vzoru	109
+1387	prilohy prihlasky prumysloveho vzoru	109
+1388	podlohy prihlasky prumysloveho vzoru	109
+1389	vyobrazeni prumysloveho vzoru	110
+1390	kdo muze podat prihlasku prumysloveho vzoru?	111
+1391	kdo je opravnen podat prihlasku prumysloveho vzoru?	111
+1392	formalni pruzkum prihlasky prumysloveho vzoru	112
+1393	vecny pruzkum prihlasky prumysloveho vzoru	112
+1394	vecny pruzkum prihlasky prumysloveho vzoru	112
+1395	formalni pruzkum prihlasky prumysloveho vzoru	112
+1396	vecny  prezkum prihlasky prumysloveho vzoru	112
+1397	formalni prezkum prihlasky prumysloveho vzoru	112
+1398	formalni pruzkum prihlasky	112
+1399	vecny pruzkum prihlasky	112
+1400	jak lze vymazat prumyslovy vzor z rejstriku?	113
+1401	jak je mozne vymazat prumyslovy vzor z rejstriku?	113
+1402	jak muzu vymazat prumyslovy vzor z rejstriku?	113
+1403	jak muzeme vymazat prumyslovy vzor z rejstriku?	113
+1404	vymaz prumysloveho vzoru	113
+1405	formular pro podani navrhu na vymaz prumysloveho vzoru	114
+1406	kdo muze podat navrh na vymaz prumysloveho vzoru?	115
+1407	kdo je opavnen podat navrh na vymaz prumysloveho vzoru?	115
+1408	co se stane po vymazu prumysloveho vzoru z rejstriku?	116
+1409	co nastane po vymazu prumysloveho vzoru z rejstriku?	116
+1410	dusledky vymazu prumysloveho vzoru	116
+1411	uplny vymaz prumysloveho vzoru	116
+1412	castecny vymaz prumysloveho vzoru	116
+1413	rozsah vymazu prumysloveho vzoru	116
+1414	kolik stoji podani navrhu na vymaz prumysloveho vzoru?	117
+1415	kolik zaplatim za podani navrhu na vymaz prumysloveho vzoru?	117
+1416	jaky je poplatek za podani navrhu na vymaz prumysloveho vzoru?	117
+1417	pomoc s vymazem prumysloveho vzoru	118
+1418	pomoc s zadosti na vymaz prumysloveho vzoru	118
+1419	kde mohu nalezt databazi patentu a uzitnych vzoru?	119
+1420	kde najdu databazi patentu a uzitnych vzoru?	119
+1421	kde je databazi patentu a uzitnych vzoru?	119
+1422	kde najit databazi patentu a uzitnych vzoru?	119
+1423	existuje databaze patentu a uzitnych vzoru?	120
+1424	je mozne najit online databazi udelenych patentu a uzitnych vzoru?	120
+1425	kde najit online databazi udelenych patentu a uzitnych vzoru?	120
+1426	je mozne  najdu online databazi udelenych patentu a uzitnych vzoru?	120
+1427	kde najdu online databazi udelenych patentu a uzitnych vzoru?	120
+1428	databaze patentu a uzitnych vzoru	120
+1429	databaze uzitnych vzoru	120
+1430	databaze patentu	120
+1431	seznam evropskych patentu platnych na uzemi cr	120
+1432	patentova reserse na uradu	121
+1433	patentova reserse uradem	121
+1434	jak mohu objednat patentovou resersni sluzbu uradu?	121
+1435	jak objednam patentovou resersni sluzbu uradu?	121
+1436	jaky je postup pro objednani patentove reserse uradu?	121
+1437	jak postupovat pro objednani patentove reserse uradu?	121
+1438	co delat pro objednani patentove reserse uradu?	121
+1439	jak  lze podat objednavku na patentovou resersi?	121
+1440	kam  lze podat objednavku na patentovou resersi?	121
+1441	jakym zpusobem lze podat objednavku na patentovou resersi?	121
+1442	jak  muzu podat objednavku na patentovou resersi?	121
+1443	kam  muzu podat objednavku na patentovou resersi?	121
+1444	jakym zpusobem muzu podat objednavku na patentovou resersi?	121
+1445	jak  mohu podat objednavku na patentovou resersi?	121
+1446	kam  mohu podat objednavku na patentovou resersi?	121
+1447	jakym zpusobem mohu podat objednavku na patentovou resersi?	121
+1448	jak  mam podat objednavku na patentovou resersi?	121
+1449	kam  mam podat objednavku na patentovou resersi?	121
+1450	jakym zpusobem mam podat objednavku na patentovou resersi?	121
+1451	jak dlouho trva zpracovani patentove reserse uradem?	121
+1452	poplatek za patentovou resersi	121
+1453	poplatky za patentovou resersi	121
+1454	jak se plati poplatek za patentovou resersi?	121
+1455	kdy se plati poplatek za patentovou resersi?	121
+1456	formuar objednavky na patentovou resersi uradu	121
+1457	objednavka na patentove resersni sluzby uradu	121
+1458	muzu objednat patentovou resersi e-mailem?	121
+1459	jak je mozne prihlasit uzitny vzor v zahranici?	122
+1460	jak mohu prihlasit uzitny vzor v zahranici?	122
+1461	jak muzu prihlasit uzitny vzor v zahranici?	122
+1462	jak mam prihlasit uzitny vzor v zahranici?	122
+1463	existuje jednotny system pro ochranu uzitnych vzoru v zahranici?	122
+1464	existuje jednotny mezinarodni system pro ochranu uzitnych vzoru v zahranici?	122
+1465	existuje jednotny evropsky system pro ochranu uzitnych vzoru v zahranici?	122
+1466	informace o prihlasovani uzitnych vzoru do zahranici	122
+1467	pomoc pri podani uzitneho vzoru v zahranici	122
+1468	pomoc s prihlaskou uzitneho vzoru v zahranici	122
+1469	zastupovani pri podavani uzitnych vzoru do zahranici	122
+1470	mezinarodni ochrana technickych reseni pomoci uzitnych vzoru	122
+1471	jak dlouho plati zapis uzitneho vzoru?	123
+1472	jak dlouho plati registrace uzitneho vzoru?	123
+1473	jake je maximalni obdobi platnosti zapisu uzitneho vzoru?	123
+1474	jaka je maximalni obdobi platnosti zapisu uzitneho vzoru?	123
+1475	jake je maximalni doba platnosti zapisu uzitneho vzoru?	123
+1476	jaka je maximalni doba platnosti zapisu uzitneho vzoru?	123
+1477	kolik let je zapis uzitneho vzoru platny?	123
+1478	jak dlouho muze byt uzitny vzor chranen?	123
+1479	jak dlouho je uzitny vzor chranen?	123
+1480	je mozne prodlouzit dobu platnosti uzitneho vzoru?	123
+1481	je mozne prodlouzit dobu platnosti registrace uzitneho vzoru?	123
+1482	je mozne prodlouzit dobu platnosti zapisu uzitneho vzoru?	123
+1483	je mozne pro prodlouzeni platnosti registrace uzitneho vzoru?	123
+1484	co se musi udelat pro prodlouzeni platnosti registrace uzitneho vzoru?	123
+1485	co udelat pro prodlouzeni platnosti registrace uzitneho vzoru?	123
+1486	je mozne pro prodlouzeni platnosti zapisu uzitneho vzoru?	123
+1487	co se musi udelat pro prodlouzeni platnosti zapisu uzitneho vzoru?	123
+1488	co udelat pro prodlouzeni platnosti zapisu uzitneho vzoru?	123
+1489	jaky formular potrebuji pro obnovu platnosti zapisu uzitneho vzoru?	123
+1490	jaky formular je pro obnovu platnosti zapisu uzitneho vzoru?	123
+1491	jaky formular potrebuji pro prodlouzeni platnosti zapisu uzitneho vzoru?	123
+1492	jaky formular je pro prodlouzeni platnosti zapisu uzitneho vzoru?	123
+1493	formular pro obnovu platnosti zapisu uzitneho vzoru?	123
+1494	formular pro prodlouzeni platnosti zapisu uzitneho vzoru?	123
+1495	platnost registrace uzitneho vzoru	123
+1496	platnost zapisu uzitneho vzoru	123
+1497	jak lze chranit technicke reseni?	124
+1498	jak je mozne chranit technicke reseni?	124
+1499	jak mohu chranit technicke reseni?	124
+1500	jak muzu chranit technicke reseni?	124
+1501	jakymi zpusoby lze chranit technicke reseni?	124
+1502	ochrana technickeho reseni	124
+1503	jake jsou moznosti, pokud nechci zverejnit sve technicke reseni?	124
+1504	co je vylucne pravo k predmetu ochrany technickeho reseni ?	124
+1505	co znamena vylucne pravo k predmetu ochrany technickeho reseni ?	124
+1506	co je vylucne pravo k predmetu ochrany vynalezu?	124
+1507	co znamena vylucne pravo k predmetu ochrany vynalezu?	124
+1508	vyucne pravo k patentu	124
+1509	vylucne pravo k uzitnemu vzoru	124
+1510	vyucne pravo k technickemu reseni	124
+1511	utajeni technickeho reseni	124
+1512	utajeni vynalezu	124
+1513	co nastane , pokud je utajene technicke reseni vyzrazeno?	124
+1514	co se stane, pokud je utajene technicke reseni vyzrazeno?	124
+1515	kvalifikovane zverejneni technickeho reseni	124
+1516	kvalifikovane zverejneni vynalezu	124
+1517	dusledky kvalifikovaneho zverejneni technickeho reseni	124
+1518	dusledky kvalifikovaneho zverejneni vynalezu	124
+1519	dohoda o utajovani	124
+1520	jak lze zabranit konkurenci ve vyuziti meho technickeho reseni?	124
+1521	obchodni tajemstvi	124
+1522	ochrana know-how	124
+1523	jak mohu podat prihlasku uzitneho vzoru?	125
+1524	kam mohu podat prihlasku uzitneho vzoru?	125
+1525	jak  podat prihlasku uzitneho vzoru?	125
+1526	kam podat prihlasku uzitneho vzoru?	125
+1527	jak  mam podat prihlasku uzitneho vzoru?	125
+1528	kam mam podat prihlasku uzitneho vzoru?	125
+1529	jak  muzu podat prihlasku uzitneho vzoru?	125
+1530	kam muzu podat prihlasku uzitneho vzoru?	125
+1531	prihlaska uzitneho vzoru	125
+1532	jak prihlasit uzitny vzor	125
+1533	jak registrovat uzitny vzor	125
+1534	jak zapsat uzitny vzor	125
+1535	je mozne podani prihlasky uzitneho vzoru elektronicky?	125
+1536	muzu podani prihlasky uzitneho vzoru elektronicky?	125
+1537	mohu podani prihlasky uzitneho vzoru elektronicky?	125
+1538	jde podani prihlasky uzitneho vzoru elektronicky?	125
+1539	kdo muze podat prihlasku uzitneho vzoru?	126
+1540	kdo je opravnen podat prihlasku uzitneho vzoru?	126
+1541	muze pravnicka osoba podat prihlasku uzitneho vzoru?	126
+1542	formular podani uzitneho vzoru	127
+1543	formular prihlasky uzitneho vzoru	127
+1544	formular registrace uzitneho vzoru	127
+1545	formular nahlaseni uzitneho vzoru	127
+1546	je mozne podat prihlasku uzitneho vzoru do datove schranky?	128
+1547	muzu podat prihlasku uzitneho vzoru do datove schranky?	128
+1548	mohu podat prihlasku uzitneho vzoru do datove schranky?	128
+1549	jde podat prihlasku uzitneho vzoru do datove schranky?	128
+1550	pomoc s prihlaskou uzitneho vzoru	129
+1551	pomoc pri priprave prihlasky uzitneho vzoru	129
+1552	zadost o zapis uzitneho vzoru	129
+1553	zadost o zapsani uzitneho vzoru	129
+1554	zadost o registraci uzitneho vzoru	129
+1555	kde mohu najit formular pro podani prihlasky uzitneho vzoru?	129
+1556	kde lze najit formular pro podani prihlasky uzitneho vzoru?	129
+1557	kde je mozne najit formular pro podani prihlasky uzitneho vzoru?	129
+1558	kde muzu najit formular pro podani prihlasky uzitneho vzoru?	129
+1559	nalezitosti prihlasky uzitneho vzoru	130
+1560	casti prihlasky uzitneho vzoru	130
+1561	soucasti prihlasky uzitneho vzoru	130
+1562	prilohy prihlasky uzitneho vzoru	130
+1563	podlohy prihlasky uzitneho vzoru	130
+1564	jake jsou casti prihlasky uzitneho vzoru?	130
+1565	popis technickeho reseni	130
+1566	popis technickeho reseni v prihlasce uzitneho vzoru	130
+1567	co muze byt prilohou v prihlasce uzitneho vzoru?	130
+1568	nazev technickeho reseni	130
+1569	nazev technickeho reseni uzitneho vzoru	130
+1570	jak lze vymazat uzitny vzor?	131
+1571	jak je mozne vymazat uzitny vzor?	131
+1572	jak muzu vymazat uzitny vzor?	131
+1573	jak mohu vymazat uzitny vzor?	131
+1574	jak co kdyz chci vymazat uzitny vzor?	131
+1575	vymaz uzitneho vzoru z rejstriku	131
+1576	co je zapotrebi pro vymaz uzitneho vzoru z rejstriku?	131
+1577	co mam udelat pro vymaz uzitneho vzoru z rejstriku?	131
+1578	co je potreba pro vymaz uzitneho vzoru z rejstriku?	131
+1579	co je nutne pro vymaz uzitneho vzoru z rejstriku?	131
+1580	proces vymazu uzitneho vzoru	131
+1581	proces vymazani uzitneho vzoru	131
+1582	duvody pro vymaz uzitneho vzoru z rejstriku	131
+1583	formular pro podani navrhu na vymaz uzitneho vzoru z rejstriku	132
+1584	formular pro vymaz uzitneho vzoru	132
+1585	zastoupeni v  zadosti o vymaz uzitneho vzoru z rejstriku	133
+1586	pomoc s zadosti o vymaz uzitneho vzoru z rejstriku	133
+1587	zastoupeni v vymazem uzitneho vzoru	133
+1588	pomoc s vymazem uzitneho vzoru	133
+1589	ucinky vymazu uzitneho vzoru	134
+1590	dusledky vymazu uzitneho vzoru	134
+1591	nasledky vymazu uzitneho vzoru	134
+1592	je mozne pozadat o vymaz uzitneho vzoru z rejstriku?	134
+1593	je mozne pozadat o castecny vymaz uzitneho vzoru z rejstriku?	134
+1594	je mozne pozadat o uplny vymaz uzitneho vzoru z rejstriku?	134
+1595	castecny vymaz uzitneho vzoru	134
+1596	uplny vymaz uzitneho vzoru	134
+1597	rozsah vymazu uzitneho vzoru	134
+1598	kolik stoji podani navrhu na vymaz uzitneho vzoru z rejstriku?	135
+1599	jaky je poplatek za podani navrhu na vymaz uzitneho vzoru z rejstriku?	135
+1600	kolik se plati za podani navrhu na vymaz uzitneho vzoru z rejstriku?	135
+1601	co znamena oznaceni puvodu?	136
+1602	co je to oznaceni puvodu?	136
+1603	co je oznaceni puvodu?	136
+1604	ktere produkty mohou ziskat oznaceni puvodu?	136
+1605	podminky pro udeleni oznaceni puvodu	136
+1606	jake produkty mohou ziskat zemepisne oznaceni?	136
+1607	jaky je rozdil mezi oznacenim puvodu a zemepisnym oznacenim?	136
+1608	co je to zemepisne oznaceni?	136
+1609	co je zemepisne oznaceni?	136
+1610	co znamena zemepisne oznaceni?	136
+1611	informace o oznaceni puvodu a zemepisnych oznacenich	136
+1612	produkty, ktere jsou spojeny s lokalitou	136
+1613	lokalni produkty	136
+1614	proces ziskani oznaceni puvodu proces ziskani zemepisneho oznaceni	136
+1615	co se mysli pod oznacenim puvodu a zemepisnym oznacenim?	136
+1616	jake jsou moznosti podani do uradu?	137
+1617	jake jsou obecne moznosti podani do uradu?	137
+1618	jak dorucit dokumenty na urad prumysloveho vlastnictvi?	137
+1619	kde si mohu stahnout elektronicke formulare pro podani na urad?	137
+1620	kde najdu elektronicke formulare pro podani na urad?	137
+1621	kde mohu najit elektronicke formulare pro podani na urad?	137
+1622	kde muzu najit elektronicke formulare pro podani na urad?	137
+1623	kde jsou elektronicke formulare pro podani na urad?	137
+1624	kde najdu formulare	137
+1625	jaky poplatek mohu usetrit pri prihlaseni identitou obcana u elektronickeho podani?	138
+1626	elektronicke podani bez zaruceneho elektronickeho podpisu	138
+1627	sleva pri podani elektronicky	138
+1628	sleva pri elektronickem podani	138
+1629	sleva 20 %	138
+1630	zastoupeni pri prihlasovani do zahranici	139
+1631	pomoc pri prihlasovani do zahranici	139
+1632	zastupovani pri prihlasovani do zahranici	139
+1633	existuje nejaka stranka, ktera by mi pomohla s prihlasovanim do zahranici?	139
+1634	jake stranky by mi mohly pomoci s prihlasovanim do zahranici?	139
+1635	jake jsou moje moznosti, pokud potrebuji odbornou pomoc pri prihlasovani do zahranici?	139
+1636	kdo mi pomuze s prihlasenim do zahranici?	139
+1637	kde mohu nalezt vice informaci o zastupovani pri prihlasovani do zahranici?	139
+1638	kolik let plati patent?	140
+1639	jak dlouho plati patent?	140
+1640	kolik let plati udeleny patent?	140
+1641	jak dlouho plati udeleny patent?	140
+1642	ucinky udeleni patentu	140
+1643	ucinky zapisu patentu	140
+1644	co znamena priorita u vynalezu ?	140
+1645	co znamena pravo prednosti u vynalezu ?	140
+1646	co znamena priorita u patentu?	140
+1647	co znamena pravo prednosti u patentu?	140
+1648	zverejneni prihlasky vynalezu	140
+1649	udrzovaci poplatky za patent	141
+1650	je nejaka zadost o prodlouzeni patentu?	141
+1651	existuje zadost o prodlouzeni patentu?	141
+1652	kde najdu zadost o prodlouzeni patentu?	141
+1653	je nejaka zadost o udrzeni patentu?	141
+1654	existuje zadost o udrzeni patentu?	141
+1655	kde najdu zadost o udrzeni patentu?	141
+1656	je nejaka zadost o udrzovani patentu?	141
+1657	existuje zadost o udrzovani patentu?	141
+1658	kde najdu zadost o udrzovani patentu?	141
+1659	variabilni symbol pro platbu udrzovacich poplatku za patent	141
+1660	jak mohu podat prihlasku patentu ?	142
+1661	kam mohu podat prihlasku patentu ?	142
+1662	jak  podat prihlasku patentu ?	142
+1663	kam podat prihlasku patentu ?	142
+1664	jak  mam podat prihlasku patentu ?	142
+1665	kam mam podat prihlasku patentu ?	142
+1666	jak  muzu podat prihlasku patentu ?	142
+1667	kam muzu podat prihlasku patentu ?	142
+1668	jak mohu podat prihlasku vynalezu?	142
+1669	kam mohu podat prihlasku vynalezu?	142
+1670	jak  podat prihlasku vynalezu?	142
+1671	kam podat prihlasku vynalezu?	142
+1672	jak  mam podat prihlasku vynalezu?	142
+1673	kam mam podat prihlasku vynalezu?	142
+1674	jak  muzu podat prihlasku vynalezu?	142
+1675	kam muzu podat prihlasku vynalezu?	142
+1676	formular podani patentu	142
+1677	formular prihlasky patentu	142
+1678	formular podani  vynalezu	142
+1679	formular prihlasky vynalezu	142
+1680	jak zaregistruji patent	142
+1681	jak prihlasim patent	142
+1682	sleva na spravni poplatek pri elektronickem podani prihlasky patentu	143
+1683	sleva na spravni poplatek pri elektronickem podani prihlasky vynalezu	143
+1684	pomoc pro prihlasku patentu	144
+1685	odborne zastoupeni pro prihlasku patentu	144
+1686	pomoc pro podani prihlasky patentu	144
+1687	odborne zastoupeni pro podani prihlasky patentu	144
+1688	pomoc pro prihlasku  vynalezu	144
+1689	odborne zastoupeni pro prihlasku  vynalezu	144
+1690	pomoc pro podani prihlasky vynalezu	144
+1691	odborne zastoupeni pro podani prihlasky vynalezu	144
+1692	existuji advokatni kancelare, ktere se zabyvaji patenty ?	144
+1693	existuji advokatni kancelare, ktere se zabyvaji vynalezy?	144
+1694	pravni zastoupeni pro zadatele o patentu	144
+1695	pravni zastoupeni pro prihlasku patentu	144
+1696	pravni zastoupeni pro podani prihlasky patentu	144
+1697	pravni zastoupeni pro zadatele o  vynalezu	144
+1698	pravni zastoupeni pro prihlasku  vynalezu	144
+1699	pravni zastoupeni pro podani prihlasky vynalezu	144
+1700	kdo me muze zastupovat pri podavani prihlasky patentu ?	144
+1701	kdo mi muze pomoci pri podavani prihlasky patentu ?	144
+1702	kdo me muze zastupovat pri podavani prihlasky vynalezu?	144
+1703	kdo mi muze pomoci pri podavani prihlasky vynalezu?	144
+1704	informace o zastupovani pri podavani prihlasky patentu	144
+1705	informace o zastupovani pri podavani prihlasky vynalezu	144
+1706	jake nasledky muze mit nespravne formulovane patentove naroky?	144
+1707	nasledky nespravne formulovanych patentovych naroku?	144
+1708	proc je vhodne nechat se zastoupit?	144
+1709	prihlaska patentu	145
+1710	prihlaska vynalezu	145
+1711	chci prihlasit patent	145
+1712	chci zaregistrovat patent	145
+1713	casti prihlasky vynalezu	145
+1714	casti prihlasky patentu	145
+1715	pozadavky prihlasky vynalezu	145
+1716	nalezitosti prihlasky vynalezu	145
+1717	pozadavky prihlasky patentu	145
+1718	nalezitosti prihlasky patentu	145
+1719	zadost o udeleni patentu	145
+1720	formular zadosti o udeleni patentu	145
+1721	popis vynalezu v prihlasce	146
+1722	co ma byt uvedeno v patentovych narocich zadosti?	146
+1723	patentove naroky	146
+1724	nazev patentu	146
+1725	vymezeni patentu	146
+1726	vynalezecka myslenka	146
+1727	anotace v prihlasce vynalezu	146
+1728	anotace v prihlasce patentu	146
+1729	prilohy zadosti o udeleni patentu	146
+1730	podlohy zadosti o udeleni patentu	146
+1731	co je to pravo prednosti u patentu?	147
+1732	co je to priorita u patentu?	147
+1733	kde najdu podrobnejsi informace o pozadavcich na prihlasku vynalezu?	148
+1734	kdo muze podat prihlasku vynalezu ?	149
+1735	kdo je opravnen podat prihlasku vynalezu ?	149
+1736	kdo muze podat prihlasku patentu?	149
+1737	kdo je opravnen podat prihlasku patentu?	149
+1738	muze pravnicka osoba podat prihlasku vynalezu ?	149
+1739	muze pravnicka osoba podat prihlasku patentu?	149
+1740	zkoumani prihlasky vynalezu	150
+1741	pripominky k patentovatelnosti	151
+1742	pripominky k prihlasce patentu	151
+1743	pripominky k k patentu	151
+1744	jak muze byt patent zrusen?	152
+1745	podminky pro zruseni patentu	152
+1746	navrh na zruseni patentu	152
+1747	jak je mozne zrusit patent?	152
+1748	jak lze zrusit patent?	152
+1749	jak muzu zrusit patent?	152
+1750	jak mohu zrusit patent?	152
+1751	jak bych mohl nechat zrusit patent?	152
+1752	pomoc s navrhem na zruseni patentu	153
+1753	zastoupeni s navrhem na zruseni patentu	153
+1754	kolik stoji podani navrhu na zruseni patentu?	154
+1755	kolik stoji podani zadosti na zruseni patentu?	154
+1756	dusledky zruseni patentu	155
+1757	nasledky zruseni patentu	155
+1758	ucinky zruseni patentu	155
+1759	dusledky  vymazu patentu	155
+1760	nasledky  vymazu patentu	155
+1761	ucinky vymazu patentu	155
+1762	castecne zruseni patentu	155
+1763	castecny vymaz patentu	155
+1764	zruseni patentu v plnem rozsahu	155
+1765	vymaz patentu v plnem rozsahu	155
+1766	uplne zruseni patentu	155
+1767	uplne vymaz patentu	155
+1768	formular pro vymaz patentu	155
+1769	formular pro zruseni patentu	155
+1770	je mozne zrusit patent castecne?	155
+1771	dukazy na vymaz patentu	155
+1772	dukazy na zruseni patentu	155
+1773	narodni databaze prumyslovych prav	156
+1774	ceska databaze prumyslovych prav	156
+1775	tuzemska databaze prumyslovych prav	156
+1776	jake narodni databaze jsou k dispozici?	156
+1777	informativni reserse	156
+1778	odkazy na narodni databaze	156
+1779	odkazy na ceske databaze	156
+1780	bezplatna reserse	156
+1781	reserse zdarma	156
+1782	reserse napric vsemi druhy prumyslovych prav	156
+1783	narodni prumyslovepravni databaze	156
+1784	odkazy na mezinarodni databaze	157
+1785	odkazy na zahranicni databaze	157
+1786	mezinarodni databaze	157
+1787	zahranicni databaze	157
+1788	volne dostupne mezinarodni databaze	157
+1789	volne dostupne zahranicni databaze	157
+1790	mezinarodni databaze na internetu	157
+1791	zahranicni databaze na internetu	157
+1792	jake online mezinarodni databaze jsou dostupne na internetu a kde je mohu najit?	157
+1793	jake online zahranicni databaze jsou dostupne na internetu a kde je mohu najit?	157
+1794	jaky je odkaz na mezinarodni online databaze, ktere jsou volne dostupne na internetu?	157
+1795	jaky je odkaz na zahranicni online databaze, ktere jsou volne dostupne na internetu?	157
+1796	rozhodnuti evropskeho soudniho dvora	157
+1797	jake tridici systemy se vyuzivaji pri resersich?	158
+1798	tridici systemy	158
+1799	trideni	158
+1800	tridici systemy pro reserse	158
+1801	mezinarodni trideni	158
+1802	mezinarodni tridici systemy	158
+1803	nicejske trideni	158
+1804	niceske trideni	158
+1805	nyceske trideni	158
+1806	locarnske trideni	158
+1807	locarnsky tridici system	158
+1808	sysmem locarno	158
+1809	system lokarno	158
+1810	lokarnske trideni	158
+1811	odkaz na tridniky	158
+1812	mezinarodni patentove trideni	158
+1813	mezinarodni trideni prumyslovych vzoru	158
+1814	mezinarodni trideni vyrobku a sluzeb	158
+1815	videnske mezinarodni trideni	158
+1816	mezinarodni trideni vyrobku a sluzeb	158
+1817	videnske mezinarodni trideni	158
+1818	nabidka licence k patentu	159
+1819	nabidka licence k evropskemu patentu	159
+1820	jak nabidnout licenci k patentu	159
+1821	chci nabidnout licenci k patentu	159
+1822	rad bych nabidnout licenci k patentu	159
+1823	chtel bych nabidnout licenci k patentu	159
+1824	jak muzu nabidnout licenci k patentu	159
+1825	jak mohu nabidnout licenci k patentu	159
+1826	co kdyz chci nabidnout licenci k patentu	159
+1827	zapis licence k patentu	160
+1828	zapis licence k evropskemu patentu	160
+1829	jak zapsat licenci k patentu	160
+1830	chci zapsat licenci k patentu	160
+1831	rad bych zapsat licenci k patentu	160
+1832	chtel bych zapsat licenci k patentu	160
+1833	jak muzu zapsat licenci k patentu	160
+1834	jak mohu zapsat licenci k patentu	160
+1835	co kdyz chci zapsat licenci k patentu	160
+1836	zapis licence k uzitnemu vzoru	160
+1837	jak zapsat licenci uzitnemu vzoru	160
+1838	chci zapsat licenci uzitnemu vzoru	160
+1839	rad bych zapsat licenci uzitnemu vzoru	160
+1840	chtel bych zapsat licenci uzitnemu vzoru	160
+1841	jak muzu zapsat licenci uzitnemu vzoru	160
+1842	jak mohu zapsat licenci uzitnemu vzoru	160
+1843	co kdyz chci zapsat licenci uzitnemu vzoru	160
+1844	zapis licence k prumyslovemu vzoru	160
+1845	jak zapsat licenci k prumyslovemu vzoru	160
+1846	chci zapsat licenci k prumyslovemu vzoru	160
+1847	rad bych zapsat licenci k prumyslovemu vzoru	160
+1848	chtel bych zapsat licenci k prumyslovemu vzoru	160
+1849	jak muzu zapsat licenci k prumyslovemu vzoru	160
+1850	jak mohu zapsat licenci k prumyslovemu vzoru	160
+1851	co kdyz chci zapsat licenci k prumyslovemu vzoru	160
+1852	zapis licence k ochranne znamce	160
+1853	jak zapsat licenci k ochranne znamce	160
+1854	chci zapsat licenci k ochranne znamce	160
+1855	rad bych zapsat licenci k ochranne znamce	160
+1856	chtel bych zapsat licenci k ochranne znamce	160
+1857	jak muzu zapsat licenci k ochranne znamce	160
+1858	jak mohu zapsat licenci k ochranne znamce	160
+1859	co kdyz chci zapsat licenci k ochranne znamce	160
+1860	udeleni nucene licence patenty	161
+1861	udeleni nucene licence uzitne vzory	161
+1862	udeleni nucene licence topografie	161
+1863	nucena licence	161
+1864	jak na nucenou licenci	161
+1865	obrana pri podani navrhu na prohlaseni neplatnosti ochranne znamky	162
+1866	jak se branit proti navrhu na prohlaseni neplatnosti ochranne znamky	162
+1867	chci se branit proti navrhu na prohlaseni neplatnosti ochranne znamky	162
+1868	jak se mam branit proti navrhu na prohlaseni neplatnosti ochranne znamky	162
+1869	obrana pri podani navrhu na zruseni ochranne znamky	162
+1870	jak se branit proti navrhu na zruseni ochranne znamky	162
+1871	chci se branit proti navrhu na zruseni ochranne znamky	162
+1872	jak se mam branit proti navrhu na zruseni ochranne znamky	162
+1873	obrana pri podani pripominek k zapisu ochranne znamky	162
+1874	jak se branit proti pripominkam k zapisu ochranne znamky	162
+1875	chci se branit proti pripominkam k zapisu ochranne znamky	162
+1876	jak se mam branit proti pripominkam k zapisu ochranne znamky	162
+1877	obrana pri podani namitek proti zapisu ochranne znamky	163
+1878	obrana pri podani namitek k zapisu ochranne znamky	163
+1879	jak se branit proti namitek proti zapisu ochranne znamky	163
+1880	chci se branit proti namitek proti zapisu ochranne znamky	163
+1881	jak se mam branit proti namitek proti zapisu ochranne znamky	163
+1882	jak se branit proti namitek k zapisu ochranne znamky	163
+1883	chci se branit proti namitek k zapisu ochranne znamky	163
+1884	jak se mam branit proti namitek k zapisu ochranne znamky	163
+1885	obrana pri podani navrhu na zruseni oznaceni puvodu	164
+1886	obrana pri podani navrhu na zruseni zemepisneho oznaceni	164
+1887	jak se branit proti navrhu na zruseni oznaceni puvodu	164
+1888	chci se branit proti navrhu na zruseni oznaceni puvodu	164
+1889	jak se mam branit proti navrhu na zruseni oznaceni puvodu	164
+1890	jak se branit proti navrhu na zruseni zemepisneho oznaceni	164
+1891	chci se branit proti navrhu na zruseni zemepisneho oznaceni	164
+1892	jak se mam branit proti navrhu na zruseni zemepisneho oznaceni	164
+1893	omezeni seznamu vyrobku ci sluzeb u ochranne znamky	165
+1894	jak omezit seznam vyrobku ci sluzeb u ochranne znamky	165
+1895	jak mam omezit seznam vyrobku ci sluzeb u ochranne znamky	165
+1896	jak muzu omezit seznam vyrobku ci sluzeb u ochranne znamky	165
+1897	prodlouzeni patentove ochrany dodatkovym ochrannym osvedcenim	166
+1898	prodlouzeni patentove ochrany prostrednictvim spc	166
+1899	jak prodlouzit patentovou ochranu dodatkovym ochrannym osvedcenim	166
+1900	chci prodlouzit patentovou ochranu dodatkovym ochrannym osvedcenim	166
+1901	jak prodlouzit patentovou ochranu prostrednictvim spc	166
+1902	chci prodlouzit patentovou ochranu prostrednictvim spc	166
+1903	zmena evropske patentove prihlasky na narodni prihlasku	167
+1904	premena evropske patentove prihlasky na narodni prihlasku	167
+1905	jak zmenim evropske patentove prihlasky na narodni prihlasku	167
+1906	jak muzu zmenit evropske patentove prihlasky na narodni prihlasku	167
+1907	jak lze zmenit evropske patentove prihlasky na narodni prihlasku	167
+1908	jak zmenim evropske patentove prihlasky na narodni prihlasku	167
+1909	pripominky k patentovatelnosti	168
+1910	rozdeleni ochranne znamky	169
+1911	rizeni pred uradem prumysloveho vlastnictvi o mezinarodni ochranne znamce s vyznacenim cr	169
+1912	udrzovani dodatkoveho ochranneho osvedceni v platnosti	170
+1913	udrzet dodatkove ochranne osvedceni v platosti	170
+1914	udrzovani spc v platnosti	170
+1915	vzdani se dodatkoveho ochranneho osvedceni spc	171
+1916	vzdat se dodatkoveho ochranneho osvedceni spc	171
+1917	vzdani se spc	171
+1918	vzdat se spc	171
+1919	vzdani se patentu	171
+1920	vzdat se patentu	171
+1921	vzdani se prav k ochranne znamce v rozsahu nekterych vyrobku ci sluzeb	172
+1922	vzdat se prav k ochranne znamce v rozsahu nekterych vyrobku ci sluzeb	172
+1923	vzdani se prava k evropskemu patentu	173
+1924	vzdat se prava k evropskemu patentu	173
+1925	vzdani se prumysloveho vzoru	174
+1926	vzdat se prumysloveho vzoru	174
+1927	zapis prevodu ochranne znamky	175
+1928	zapis prevodu patentu	176
+1929	zapis prevodu evropskeho patentu	176
+1930	zapis prevodu spc	176
+1931	zapis prevodu prihlasky vynalezu	176
+1932	zapis prevodu dodatkoveho ochranneho osvedceni	176
+1933	zapis prevodu prumysloveho vzoru	177
+1934	zapis zastavy k patentu,	178
+1935	zapis zastavy k evropskemu patentu	178
+1936	zapis zastavy k spc	178
+1937	zapis zastavy k prihlasce vynalezu	178
+1938	zapis zastavy k dodatkovemu ochrannemu osvedceni	178
+1939	zapis zastavy k prumyslovemu vzoru	179
+1940	zapis zastavy ochranne znamky	180
+1941	zapis zastupce k patentu	181
+1942	zapis zastupce evropskemu patentu	181
+1943	zapis zastupce spc	181
+1944	zapis zastupce prihlasce vynalezu	181
+1945	zapis zastupce k prumyslovemu vzoru	181
+1946	zapis zastupce dodatkovemu ochrannemu osvedceni	181
+1947	zmena specifikace oznaceni puvodu v rejstriku evropske unie	182
+1948	zmena specifikace zemepisneho oznaceni v rejstriku evropske unie	182
+1949	zmena specifikace oznaceni puvodu v rejstriku eu	182
+1950	zmena specifikace zemepisneho oznaceni v rejstriku eu	182
+1951	zmena v mezinarodnim zapisu ochranne znamky provedena v rejstriku mezinarodniho uradu wipo	183
+1952	zmeny udaju v rejstriku patentu	184
+1953	zmeny udaju v rejstriku evropskych patentu	184
+1954	zmeny udaju v rejstriku prumyslovych vzoru	184
+1955	zmeny udaju v rejstriku ochrannych znamek	184
+1956	zmeny v zapisu mezinarodni ochranne znamky provedene pouze u uradu prumysloveho vlastnictvi	185
+1957	zverejneni opraveneho prekladu evropskeho patentoveho spisu	186
+1958	praveny preklad evropskeho patentoveho spisu	186
+1959	zverejneni opraveneho prekladu naroku evropske patentove prihlasky	187
+1960	opraveny preklad naroku evropske patentove prihlasky	187
+1961	zverejneni prekladu evropskeho patentoveho spisu	188
+1962	preklad evropskeho patentoveho spisu	188
+1963	validace evropskeho patentu	188
+1964	zverejneni prekladu naroku evropske patentove prihlasky	189
+1965	preklad naroku evropske patentove prihlasky	189
+1966	zadost o opravu - ochranne znamky	190
+1967	zadost o opravu - patenty	190
+1968	zadost o opravu - uzitne vzory	190
+1969	zadost o opravu - topografie	190
+1970	zadost o opravu - topografie polovodicovych vyrobku	190
+1971	zadost o opravu - prumyslove vzory	190
+1972	celni sprava ceske republiky a ochrana prav dusevniho vlastnictvi	191
+1973	jak celni sprava ceske republiky chrani dusevni vlastnictvi?	192
+1974	jakym zpusobem celni sprava ceske republiky chrani dusevni vlastnictvi?	192
+1975	jak celni sprava ceske republiky ochranuje dusevni vlastnictvi?	192
+1976	jakym zpusobem celni sprava ceske republiky ochranuje dusevni vlastnictvi?	192
+1977	jak celni sprava ceske republiky poskytuje ochranu dusevni vlastnictvi?	192
+1978	jakym zpusobem celni sprava ceske republiky poskytuje ochranu dusevni vlastnictvi?	192
+1979	jak celni sprava ceske republiky chrani  dusevniho vlastnictvi?	192
+1980	jakym zpusobem celni sprava ceske republiky chrani  dusevniho vlastnictvi?	192
+1981	jak celni sprava ceske republiky ochranuje dusevniho vlastnictvi?	192
+1982	jakym zpusobem celni sprava ceske republiky ochranuje dusevniho vlastnictvi?	192
+1983	jak celni sprava ceske republiky poskytuje ochranu dusevniho vlastnictvi?	192
+1984	jakym zpusobem celni sprava ceske republiky poskytuje ochranu dusevniho vlastnictvi?	192
+1985	zasahy celni spravy ceske republiky ve vztahu k ochrane dusevniho vlastnictvi	193
+1986	celni sprava a monitoring internetu	194
+1987	celni sprava a monitoring internetoveho prostredi	194
+1988	kontakty na celni spravu ceske republiky ve vztahu k ochrane dusevniho vlastnictvi	195
+1989	kde najdu kontakty na celni spravu ceske republiky ve vztahu k ochrane dusevniho vlastnictvi	195
+1990	rekni mi kde jsou kontakty na celni spravu ceske republiky ve vztahu k ochrane dusevniho vlastnictvi	195
+1991	kontakty na celni spravu ceske republiky kvuli ochrane dusevniho vlastnictvi	195
+1992	kde najdu kontakty na celni spravu ceske republiky kvuli ochrane dusevniho vlastnictvi	195
+1993	rekni mi kde jsou kontakty na celni spravu ceske republiky kvuli ochrane dusevniho vlastnictvi	195
+1994	zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	196
+1995	kde najdu zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	196
+1996	zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	196
+1997	kde najdu zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	196
+1998	kam podat zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	197
+1999	komu se podava zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	197
+2000	kam podat zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	197
+2001	komu se podava zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	197
+2002	kdo je opravneny podat zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	198
+2003	kdo muze podat zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	198
+2004	kdo je opravneny podat zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	198
+2005	kdo muze podat zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi s celnim dohledem	198
+2006	zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	199
+2007	kde najdu zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	199
+2008	zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	199
+2009	kde najdu zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	199
+2010	kam podat zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	200
+2011	komu se podava zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	200
+2012	kam podat zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	200
+2013	komu se podava zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	200
+2014	kdo je opravneny podat zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	201
+2015	kdo muze podat zadost o zabraneni porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	201
+2016	kdo je opravneny podat zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	201
+2017	kdo muze podat zadost o eliminaci porusovani prav dusevniho vlastnictvi zbozi, ktere nepodleha celnimu dohledu	201
+2018	co je vseobecne znama znamka	202
+2019	co znamena vseobecne znama znamka	202
+2020	jak definovat vseobecne znama znamka	202
+2021	co je dusevni vlastnictvi	203
+2022	co znamena dusevni vlastnictvi	203
+2023	co predstavuje dusevni vlastnictvi	203
+2024	definice dusevni vlastnictvi	203
+2025	jak definovat dusevni vlastnictvi	203
+2026	co je ochranna znamka s dobrym jmenem	204
+2027	co je ochranna znamka s dobrou povesti	204
+2028	co je ochranna znamka s renome	204
+2029	co je mistni dosah nezapsaneho ci jineho oznaceni	205
+2030	co znamena mistni dosah nezapsaneho ci jineho oznaceni	205
+2031	co je radne uzivani ochranne znamky	206
+2032	co znamena radne uzivani ochranne znamky	206
+2033	definice radne uzivani ochranne znamky	206
+2034	jak definovat radne uzivani ochranne znamky	206
+2035	co je prezidialni plna moc	207
+2036	jakym zpusobem je u uradu evidovana prezidialni plna moc	207
+2037	muzu zaregistrovat nazev webu jako ochrannou znamku	208
+2038	mohu zaregistrovat nazev webu jako ochrannou znamku	208
+2039	je mozne zaregistrovat nazev webu jako ochrannou znamku	208
+2040	muzu zaregistrovat nazev webovych stranek jako ochrannou znamku	208
+2041	mohu zaregistrovat nazev webovych stranek jako ochrannou znamku	208
+2042	je mozne zaregistrovat nazev webovych stranek jako ochrannou znamku	208
+2043	je mozna zmena zneni nebo vzhledu zapsane ochranne znamky	209
+2044	muzu zaregistrovat logo jako ochrannou znamku	210
+2045	mohu zaregistrovat logo jako ochrannou znamku	210
+2046	je mozne zaregistrovat logo jako ochrannou znamku	210
+2047	kolik stoji za registraci ochranne znamky	211
+2048	cena za za registraci ochranne znamky	211
+2049	poplatek za za registraci ochranne znamky	211
+2050	poplatek za registraci ochranne znamky	211
+2051	kolik stoji za prihlaseni ochranne znamky	211
+2052	cena za za prihlaseni ochranne znamky	211
+2053	poplatek za za prihlaseni ochranne znamky	211
+2054	poplatek za prihlaseni ochranne znamky	211
